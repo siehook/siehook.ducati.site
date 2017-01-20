@@ -1,0 +1,123 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCb997d898294610058aff8e0ec20b6cd2"></a>General safety rules
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e574"> </a>Carbon monoxide
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e577"> </a>When a maintenance operation must be performed with the engine running,check that the working area is well- ventilated. Never
+            run the engine indoors.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e580"> </a>Exhaust emissions contain carbon monoxide, which is a poisonous gas 
+         that can cause unconsciousness or even death.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e583"> </a>Operate the engine outdoors or, if working indoors, use an exhaust emission extraction plant.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e586"> </a>Fuel
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e589"> </a>Always make sure the working area is well ventilated. Keep any sources of ignition, such as cigarettes, open flames or sparks,
+            well away from working area and fuel storage area.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e592"> </a>Petrol is highly flammable and can become explosive under certain
+         conditions. Keep away from children. Keep away from children.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e595"> </a>Hot component parts
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e598"> </a>The engine and exhaust component parts become hot when
+         the motorcycle engine is running and will stay hot for
+         some time after the engine has been stopped. Wear heat-resistant
+         gloves before handling these components or allow for the engine and exhaust system to cool down before proceeding.
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e601"> </a>The exhaust system might be hot, even after engine is switched off; take special care not to touch the exhaust system with
+         any body part and do not park the vehicle next to flammable material (wood, leaves etc.).
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e605"> </a>Used engine oil
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e608"> </a>Prolonged or repeated contact with used engine oil may cause skin cancer. If exposed to used engine oil on a daily basis,
+         make it a rule to wash your hands thoroughly with soap immediately after use. Keep away from children.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e611"> </a>Brake lining debris
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e614"> </a>Never attempt to clean the brake assembly using compressed air or a dry brush.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e617"> </a>Inhaling asbestos fibres is a proven cause of
+         respiratory diseases and cancer.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e620"> </a>Brake fluid
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e623"> </a>Avoid spilling brake fluid onto plastic, rubber or painted parts of the motorcycle to avoid the risk of damage.
+         Protect these parts with a clean shop cloth before proceeding to service the motorcycle. Keep away from children.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e626"> </a>Coolant
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e629"> </a>Engine coolant contains ethylene glycol, which may ignite under particular conditions, producing invisible flames. Although
+            the flames from burning ethylene glycol are not visible, they are still capable of causing severe burns.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e632"> </a>Take care not to spill engine coolant on the exhaust system or engine parts. These parts may be hot and ignite the coolant,
+         which will subsequently burn with invisible flames. Coolant (ethylene glycol) is an irritant and is poisonous when ingested.
+         Keep away from children. Never remove the radiator cap when the engine is hot. The coolant will be scalding hot and is under
+         high pressure.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e635"> </a>The cooling fan operates automatically: keep hands well clear and make sure your clothing does not snag on the fan.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e639"> </a>Battery
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e642"> </a>The battery gives off explosive gases; keep it away from any source of ignition such as sparks, flames and cigarettes. Charge
+         the battery in a well-ventilated area.
+      </div>
+   </body>
+</html>

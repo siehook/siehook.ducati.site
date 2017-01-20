@@ -1,0 +1,442 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCd7a60a282958100586b59c8a4fd4e7d2"></a>General
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1">&nbsp;</th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e838"> </a>Reference
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e841"> </a>Technical specifications
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e846"> </a>Motorcycle dimensions
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e849"> </a>Total length
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e852"> </a>2200 ± 20 mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e858"> </a>Total width
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e861"> </a>985 ± 20 mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e867"> </a>Total height
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e870"> </a>1310 mm to 1515 mm ± 20 mm (Plexiglas fully up)
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e875"> </a>Seat height
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e878"> </a>850 mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e884"> </a>Minimum ground clearance
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e887"> </a>170 mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e893"> </a>Front footpeg height
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e896"> </a>399 mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e901"> </a>Wheelbase
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e904"> </a>1530 ± 20 mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e908"> </a>Frame
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e911"> </a>Type
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e914"> </a>ALS420 steel tube trellis frame
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e918"> </a>Subframe
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e921"> </a>Type
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e924"> </a>ALS450 steel tube trellis frame, die-cast light alloy connecting side plates, pivoted on the engine.
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e929"> </a>Steering head angle
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e932"> </a>25°
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e937"> </a>Steering angle
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e940"> </a>76° RH/LH
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e946"> </a>Trail
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e949"> </a>110 mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e954"> </a>Front suspension
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e957"> </a>MARZOCCHI:
+                  </div>
+                  <div class="Testo"><a name="d3e959"> </a>hydraulic upside-down fork provided with external adjustment for rebound, compression, and preload (for inner springs of fork
+                     legs).
+                  </div>
+                  <div class="Testo"><a name="d3e961"> </a>Leg diameter: 50&nbsp;mm (TIN-coated).
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e967"> </a>Front wheel travel
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e970"> </a>170 mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e976"> </a>Rear suspension
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e979"> </a>SACHS: 
+                  </div>
+                  <div class="Testo"><a name="d3e981"> </a>The rear suspension system uses a hydraulic single shock absorber, adjustable for rebound and compression.
+                  </div>
+                  <div class="Testo"><a name="d3e983"> </a>Spring preload remote adjustment.
+                  </div>
+                  <div class="Testo"><a name="d3e985"> </a>Wheel travel: 170 mm.
+                  </div>
+                  <div class="Testo"><a name="d3e987"> </a>Shock absorber stroke: 59.5 mm.
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e993"> </a>Front rim
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e996"> </a>light alloy with ten spokes
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1002"> </a>Front rim size
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1005"> </a>MT 3.50x17”
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1011"> </a>Front tyre size
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1014"> </a>120/70 - ZR 17
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1020"> </a>Rear rim
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1023"> </a>light alloy with ten spokes
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1029"> </a>Rear rim size
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1032"> </a>MT 6.00x17”
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1038"> </a>Rear tyre size
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1041"> </a>190/55 - ZR 17
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1047"> </a>Type of tyres
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1050"> </a>“Tubeless” radial type
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1056"> </a>Front brake
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1059"> </a>Hydraulic, 2 callipers with standard ABS
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1065"> </a>Rear brake
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1068"> </a>Hydraulic, 1 calliper with standard ABS
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1072"> </a>Engine
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1075"> </a>Type
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1078"> </a>Longitudinal 90º “L” twin cylinder, four-stroke. 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1083"> </a>Bore
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1086"> </a>106 mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1091"> </a>Stroke
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1094"> </a>67.9 mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1099"> </a>Displacement
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1102"> </a>1198.4 cu. cm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1110"> </a>Compression ratio
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1113"> </a>11,5±0,5:1
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1119"> </a>Timing system
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1122"> </a>With toothed belt, with two overhead camshafts, 4 valves per cylinder
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1127"> </a>Lubrication system
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1130"> </a>forced, with pump featuring a double radiator
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1136"> </a>Type of oil pump
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1139"> </a>Gear pump with by-pass valve
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1144"> </a>Cooling system
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1147"> </a>Liquid-cooled, with thermostat
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1153"> </a>Air filter
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1156"> </a>One filtering element inside the air-box
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1161"> </a>Crankshaft type
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1164"> </a>One-piece
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </body>
+</html>

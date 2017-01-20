@@ -1,0 +1,32 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCb22975a829f510058c2aed44952c77d2"></a>Check engine oil level
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1504"> </a>Check the engine oil level through the sight glass (1) on the right-hand side of the oil sump.
+         </div>
+         <div class="Testo"><a name="d3e1506"> </a>Stop the engine and allow a few minutes for the oil to settle to a steady level.
+         </div>
+         <div class="Testo"><a name="d3e1508"> </a>Oil level must be checked with the vehicle perfectly upright and the engine hot (but off).
+         </div>
+         <div class="Testo"><a name="d3e1510"> </a>The oil must be between the MIN and MAX. marks. If the level is low, top it up.
+         </div>
+         <div class="Testo"><a name="d3e1512"> </a>Remove the filler cap (2) and top up with the recommended oil.
+         </div>
+         <div class="Testo"><a name="d3e1514"> </a>Refit the filler plug (2).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_005002769.jpg"></center>
+      </div>
+   </body>
+</html>

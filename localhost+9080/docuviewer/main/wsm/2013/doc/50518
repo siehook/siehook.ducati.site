@@ -1,0 +1,82 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC91fa31782969100587d3e8e482a98fd2"></a>Generator/charging system
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1">&nbsp;</th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e3780"> </a>Reference
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e3783"> </a>Technical specifications
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3788"> </a>Battery
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3791"> </a>Voltage
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3794"> </a>12 V
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3799"> </a>Charge
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3802"> </a>10 Ah 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3807"> </a>Type
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3810"> </a>Sealed, maintenance-free
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3814"> </a>Generator
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3817"> </a>Capacity
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3820"> </a>12 V - 500 W
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </body>
+</html>

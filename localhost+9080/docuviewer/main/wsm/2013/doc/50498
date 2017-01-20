@@ -1,0 +1,301 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC9445f408295a100581759858899a76d2"></a>Piston cylinder
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1">&nbsp;</th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e2731"> </a>Reference
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e2734"> </a>Standard value
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e2737"> </a>Limit value
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2743"> </a>Cylinder nominal diameter
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2746"> </a>106 mm
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2752"> </a>Max. ovality
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2756"> </a>0,010
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2761"> </a>Max. taper
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2765"> </a>0,015
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2770"> </a>Diameter
+                  </div>
+                  <div class="Testo"><a name="d3e2772"> </a>Section A
+                  </div>
+                  <div class="Testo"><a name="d3e2774"> </a>Section B
+                  </div>
+                  <div class="Testo"><a name="d3e2776"> </a>Section C
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e2779"> </a></div>
+                  <div class="Testo"><a name="d3e2780"> </a>106.000 mm ÷ 106.010 mm
+                  </div>
+                  <div class="Testo"><a name="d3e2782"> </a>106.010 mm ÷ 106.020 mm
+                  </div>
+                  <div class="Testo"><a name="d3e2784"> </a>106.020 mm ÷ 106.030 mm
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2789"> </a>Piston-cylinder coupling clearance
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2793"> </a>0.065 ÷ 0.085 mm
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2798"> </a>Piston
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2801"> </a>Nominal diameter
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2804"> </a>106 mm
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2810"> </a>Diameter
+                  </div>
+                  <div class="Testo"><a name="d3e2812"> </a>Section A
+                  </div>
+                  <div class="Testo"><a name="d3e2814"> </a>Section B
+                  </div>
+                  <div class="Testo"><a name="d3e2816"> </a>Section C
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e2819"> </a></div>
+                  <div class="Testo"><a name="d3e2820"> </a>105.905 mm ÷ 105.915 mm
+                  </div>
+                  <div class="Testo"><a name="d3e2822"> </a>105.915 mm ÷ 105.925 mm
+                  </div>
+                  <div class="Testo"><a name="d3e2824"> </a>105.925 mm ÷ 105.935 mm
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2829"> </a>Con-rod
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2832"> </a>Con-rod big end diameter
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2835"> </a>49 mm
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2841"> </a>Crankshaft class
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2844"> </a>Con-rod class
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2847"> </a>Bearing colour
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2851"> </a>Con-rod big end bearing pairing
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2854"> </a>A
+                  </div>
+                  <div class="Testo"><a name="d3e2856"> </a>B
+                  </div>
+                  <div class="Testo"><a name="d3e2858"> </a>A
+                  </div>
+                  <div class="Testo"><a name="d3e2860"> </a>B
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2863"> </a>A
+                  </div>
+                  <div class="Testo"><a name="d3e2865"> </a>A
+                  </div>
+                  <div class="Testo"><a name="d3e2867"> </a>B
+                  </div>
+                  <div class="Testo"><a name="d3e2869"> </a>B
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2872"> </a>Blue + Yellow
+                  </div>
+                  <div class="Testo"><a name="d3e2874"> </a>Yellow + Yellow
+                  </div>
+                  <div class="Testo"><a name="d3e2876"> </a>Blue + Blue
+                  </div>
+                  <div class="Testo"><a name="d3e2878"> </a>Blue + Yellow
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2882"> </a>Con-rod big end bearing-crankshaft journal coupling clearance
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2885"> </a>Pin selection
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2888"> </a>Ø 42.014 mm/0 ÷ 0.016 mm
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2894"> </a>Piston and gudgeon pin clearance
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2898"> </a>0.015 ÷ 0.024 mm
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2904"> </a>Nominal diameter
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2907"> </a>Ø 20 mm
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2913"> </a>Piston
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2916"> </a>Ø 20 mm / 0.020 ÷ 0.015
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2922"> </a>Gudgeon pin
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2925"> </a>Ø 20 mm / 0 ÷ 0.004
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2930"> </a>Con-rod and gudgeon pin clearance
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2934"> </a>0.035 ÷ 0.049 mm
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2939"> </a>Cylinder compression measured with DDS2
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2943"> </a>11÷12 bar
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e2946"> </a>10 bar (MIN.), difference between cylinders: 2 bar (MAX.)
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </body>
+</html>

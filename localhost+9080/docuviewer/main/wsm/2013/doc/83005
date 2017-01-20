@@ -1,0 +1,174 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCe1a454f02e5b100581b1e23c1c37e99c"></a>Cylinder compression test
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4280"> </a>Engine performance is directly correlated to the pressure that can be measured in the combustion chambers of the&nbsp;two cylinders.
+            Pressure which is too high/low or an excessive difference between the two cylinders will cause a drop in engine performance
+            and can cause engine breakdown.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4283"> </a>Check the pressure in each cylinder:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4287"> </a>standard value: 11÷12&nbsp;bar;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4290"> </a>min. value: 10&nbsp;bar;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4293"> </a>maximum permissible difference between cylinders: 2&nbsp;bar.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4296"> </a>An excessively high pressure value can be caused by:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4300"> </a>build up of deposits in the combustion chamber.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4303"> </a>An excessively low pressure value can be caused by:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4307"> </a>gas escaping between the cylinder head and the barrel;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4310"> </a>worn valve seats;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4313"> </a>bent valve stems;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4316"> </a>incorrect valve clearances;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4319"> </a>worn cylinder or piston rings. 
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+   </body>
+</html>

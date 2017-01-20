@@ -1,0 +1,52 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC5b3cee082b3c10058188873ba02d26d2"></a>Steering angle adjustment
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e7391"> </a>Loosen the nuts (2).
+         </div>
+         <div class="Testo"><a name="d3e7393"> </a>Loosen the adjusting dowels (3) on both sides of the bottom yoke.
+         </div>
+         <div class="Testo"><a name="d3e7395"> </a>Use a 6 to 6.5&nbsp;mm spacer (A) fitted to the fork sleeve, or use a gauge.
+         </div>
+         <div class="Testo"><a name="d3e7397"> </a>Turn the front forks to the right until the spacer (A) is seated against the frame top tube.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_023103369.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e7402"> </a>Turn the adjuster dowel (3) on the opposite side to bring it into contact with the retainer on the steering head.
+         </div>
+         <div class="Testo"><a name="d3e7404"> </a>Apply threadlocker to the thread of nut (2).
+         </div>
+         <div class="Testo"><a name="d3e7406"> </a>Hold the dowel (3) firm and tighten the nut (2).
+         </div>
+         <div class="Testo"><a name="d3e7408"> </a>Turn the forks to the opposite side: and repeat the process to adjust the other adjuster dowel and tighten the relative nut.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_023203370.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e7413"> </a>Check steering lock correct operation both on the right side and on the left side.
+      </div>
+      <div class="Testo"><a name="d3e7415"> </a>In case of malfunction, repeat the steering adjustment procedure above until bike track alignment is perfect, i.e. until steering
+         lock works correctly.
+      </div>
+      <div class="Testo"><a name="d3e7417"> </a>After checking this point, make sure that the handlebar turned fully to the left does not interfere with the clutch master
+         cylinder filler cap on reservoir, and that - with the handlebar turned fully to the right - the throttle control does not
+         interfere with fuel tank.
+      </div>
+   </body>
+</html>

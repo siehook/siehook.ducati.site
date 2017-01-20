@@ -1,0 +1,55 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC91dec9282aff10058064a1973a55c3d2"></a>Removing the rear brake disc
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4487"> </a>Remove the rear eccentric hub (<a href="80802.html#DUCc1bbd2c82b7510058c3087d9909970d2">Removing the rear wheel eccentric hub and the rear wheel shaft</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4493"> </a>Undo and remove the four screws (1) of the brake disc to the wheel shaft, and remove the rear brake disc (2).
+         </div>
+         <div class="Testo"><a name="d3e4495"> </a>Undo the screws (3) and remove rear phonic wheel (4).
+         </div>
+         <div class="Testo"><a name="d3e4497"> </a>The brake disc must be perfectly clean, with no rust, oil, grease or other dirt and no deep scoring.
+         </div>
+         <div class="Testo"><a name="d3e4499"> </a>To check the wear limit of the brake disc, refer to Section <a href="50516.html#DUCe5db72f82968100587d2e8e482a98fd2">Hydraulic Brakes</a>.
+         </div>
+         <div class="Testo"><a name="d3e4504"> </a>Fit the rear brake disc (5) to rear wheel shaft (P), orientating it with chamfers (A) facing up.
+         </div>
+         <div class="Testo"><a name="d3e4506"> </a>Fasten brake disc, starting screws (1) after applying recommended threadlocker.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e4509"> </a>Pay attention to align screw heads to the corresponding seats on brake disc.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4512"> </a>Tighten the screws (1) to a torque of 27 Nm ±10%, following a 1-2-3-4 sequence.
+         </div>
+         <div class="Testo"><a name="d3e4514"> </a>Fit the phonic wheel (4) to brake disc (5), orientating it as shown in the figure.
+         </div>
+         <div class="Testo"><a name="d3e4516"> </a>Fasten phonic wheel (4), start screws (3) after applying threadlocker.
+         </div>
+         <div class="Testo"><a name="d3e4518"> </a>Tighten the screws (3) to a torque of 5 Nm ±10%, in a cross pattern.
+         </div>
+         <div class="Testo"><a name="d3e4520"> </a>Install the rear eccentric hub as described under Section "<a href="80802.html#DUCc1bbd2c82b7510058c3087d9909970d2">Removing the rear wheel eccentric hub and the rear wheel shaft</a>".
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_006503179.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_006903180.jpg"></center>
+      </div>
+   </body>
+</html>

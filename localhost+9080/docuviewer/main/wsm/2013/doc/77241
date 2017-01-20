@@ -1,0 +1,112 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC02eb27a829f510058c2aed44952c77d2"></a>Scheduled maintenance chart: operations to be carried out by the customer
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="3">&nbsp;
+                  <div class="Testo"><a name="d3e1433"> </a>List of operations and type of intervention
+                  </div>
+                  <div class="Testo"><a name="d3e1435"> </a>[set mileage (km/mi) or time interval *]
+                  </div>
+               </th>
+               <th rowspan="1" align="right">&nbsp;
+                  <div class="Testo"><a name="d3e1438"> </a>km. x1000
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e1441"> </a>1
+                  </div>
+               </th>
+            </tr>
+            <tr valign="top">
+               <th rowspan="1" align="right">&nbsp;
+                  <div class="Testo"><a name="d3e1445"> </a>mi. x1000
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e1448"> </a>0,6
+                  </div>
+               </th>
+            </tr>
+            <tr valign="top">
+               <th rowspan="1" align="right">&nbsp;
+                  <div class="Testo"><a name="d3e1452"> </a>Months
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e1455"> </a>6
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1461"> </a>Check engine oil level
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1464"> </a>•
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1468"> </a>Check the brake and clutch fluid level
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1471"> </a>•
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1475"> </a>Check tyre pressure and wear
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1478"> </a>•
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1482"> </a>Check the drive chain tension and lubrication. If necessary, contact your dealer to adjust
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1485"> </a>•
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1489"> </a>Check brake pads. If necessary, contact your dealer to replace pads
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1492"> </a>•
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1495"> </a>* Service operation to be carried out in accordance with the specified distance or time intervals (km, miles or months), whichever
+            occurs first.
+         </div>
+      </div>
+   </body>
+</html>

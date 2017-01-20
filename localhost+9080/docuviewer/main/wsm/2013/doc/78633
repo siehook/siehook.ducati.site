@@ -1,0 +1,28 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCc14e96602afb100587c08d91941052d2"></a>Overhauling the front brake components
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e4116"> </a>Critical safety components. The brake calliper manufacturer recommends you not to attempt to service the internal components
+         of the brake callipers. Incorrect overhaul of this component could endanger rider safety.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4119"> </a>Operations should be limited to replacement of the pads, fasteners and the bleed valve assembly.
+         </div>
+         <div class="Testo"><a name="d3e4121"> </a>The brake disc must be clean, without any signs of rust, oil, grease or dirt and no deep scoring.
+         </div>
+         <div class="Testo"><a name="d3e4123"> </a>To check the wear of the brake discs follow the data specified in Section <a href="50516.html#DUCe5db72f82968100587d2e8e482a98fd2">Hydraulic Brakes</a>.
+         </div>
+      </div>
+   </body>
+</html>

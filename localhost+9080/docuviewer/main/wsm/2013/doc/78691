@@ -1,0 +1,59 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC9bef9bd82b1110058b23851a8e1cd1d2"></a>Removing the ABS control unit
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5259"> </a>Remove the seat (<a href="77991.html#DUC7dd8e1d82a971005810ccc3160c450d2">Removing the seat</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5265"> </a>Drain off the hydraulic fluid from brake system hoses, by disconnecting these from the calliper and master cylinder (<a href="77259.html#DUC4261033029fa1005800f816ce97b3fd2">Changing the front brake system fluid</a> - <a href="77261.html#DUC957e61d829fb1005804484b414d9e1d2">Changing the rear brake system fluid</a>).
+         </div>
+         <div class="Testo"><a name="d3e5273"> </a>Remove ABS pipe cover (2) by undoing the retaining screws (1).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_008603210.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5278"> </a>Disconnect ABS control unit (4) connector (3), lift unit from the vehicle.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_008703208.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5283"> </a>Loosen the four special screws (5) and (6) retaining pipes (7), (8), (9) and (10), on ABS control unit (4), by removing the
+            sealing washers (11).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e5286"> </a>Whenever removed, seals must be renewed on reassembly.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_008803209.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5291"> </a>Remove the ABS control unit (4).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e5294"> </a>Do not open the ABS control unit: if faulty, replace it.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5298"> </a>Should it be necessary to replace one or several hoses, refer to “<a href="78699.html#DUC690d85c02b1310058c6793c8b30eb8d2">Routing wiring harnesses / hoses</a>” for the base version or to “<a href="78701.html#DUCba4d95002b1410058c6b93c8b30eb8d2">Routing wiring harnesses / hoses</a>” for the Pikes Peak, Granturismo or Touring versions.
+         </div>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,50 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCe236b8682b27100586e1b8b5655f9dd2"></a>Refitting the clutch master cylinder assembly
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6466"> </a>Fit the clutch master cylinder assembly (3) to left side handlebar, inserting centring pin (A) on handlebar into hole (B)
+            on clutch master cylinder control.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_018203277.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6471"> </a>Match clamp (6) to clutch master cylinder control and fasten them using screws (5).
+         </div>
+         <div class="Testo"><a name="d3e6473"> </a>Tighten fixing screws (5) to a torque of 10 Nm ±10%, following a 1-2-1 sequence starting from the upper screw.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_039503860.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6478"> </a>Locate the hose (4) and sealing washers (2) on the master cylinder unit (3) and secure with the special screw (1), without
+            tightening.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e6481"> </a>An incorrectly positioned hose can cause clutch faults and interfere with moving parts.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6484"> </a>To position clutch line (4) and hose clamps, refer to "<a href="78740.html#DUC1fe52c982b2410058cedd30e2bfae6c4">Refitting the clutch slave cylinder</a>".
+         </div>
+         <div class="Testo"><a name="d3e6489"> </a>Tighten the special screw (1) to a torque of 23 Nm ±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_017903274.jpg"></center>
+      </div>
+   </body>
+</html>

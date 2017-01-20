@@ -1,0 +1,43 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCb9d667d82e5b100581afe23c1c37e99c"></a>Checking the engine oil pressure
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4251"> </a>To carry out this procedure a commercial engine oil pressure tester can be used.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4254"> </a>Oil pressure test values:
+         </div>
+         <div class="Testo"><a name="d3e4256"> </a>Hot engine (oil temperature at least = 80 °C) 
+         </div>
+         <div class="Testo"><a name="d3e4258"> </a>1100÷1300 rpm
+         </div>
+         <div class="Testo"><a name="d3e4261"> </a>greater than 0.8 bar.
+         </div>
+         <div class="Testo"><a name="d3e4263"> </a>3500÷4000 rpm
+         </div>
+         <div class="Testo"><a name="d3e4266"> </a>greater than 4 bar.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e4269"> </a>The maximum pressure must never exceed 6.0&nbsp;bar.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4272"> </a>Excessively high pressure may indicate that the relief valve is stuck. Excessively low pressure, on the other hand, may be
+            caused&nbsp;by the relief valve being stuck in the open position, the spring being too weak, or a faulty oil pump. Other&nbsp;causes
+            are excessively worn seals and gaskets or a badly worn engine.
+         </div>
+      </div>
+   </body>
+</html>

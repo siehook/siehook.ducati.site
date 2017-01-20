@@ -1,0 +1,80 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC12fb35902aed100584d8b8bb6ec21ad2"></a>Removing the front brake system
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4013"> </a>Drain the front braking system (<a href="77259.html#DUC4261033029fa1005800f816ce97b3fd2">Changing the front brake system fluid</a>).
+         </div>
+         <div class="Testo"><a name="d3e4018"> </a>Remove the rear-view mirrors (<a href="78708.html#DUCc5891c002b2310058216d17ffc81d1d2">Removing the rear-view mirrors</a>).
+         </div>
+         <div class="Testo"><a name="d3e4023"> </a>Remove right-hand guard (<a href="78712.html#DUC6b0bc2b82b24100585a7c6c5c869a9d2">Removing the hand guards</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4029"> </a>For the front ABS brake system, please also refer to Section "<a href="78676.html#DUCb85606882b00100583eabb66a48558d2">ABS system operation information</a>".
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4035"> </a>Undo the special screw (1), recovering the sealing washers (2) and release the front brake master cylinder unit (3) from hose
+            (4).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_038903849.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4040"> </a>Loosen the screws (C) and remove the protection (B).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_003203127.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4045"> </a>Undo the screw (5) and slide the front brake hose (6) from the bracket (7) on the bottom yoke.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_003303128.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4050"> </a>Remove the front brake hose protection (D) loosening the screws (E).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_003403129.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4056"> </a>Loosen the two retaining screws (8) securing the front left brake calliper (9) to the fork leg.
+         </div>
+         <div class="Testo"><a name="d3e4058"> </a>Repeat the operation for the right brake calliper (10).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_003503131.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_003703130.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4065"> </a>Undo the special screws (11) and (12) and recover the sealing washers (2) from both callipers.
+         </div>
+         <div class="Testo"><a name="d3e4067"> </a>Detach the front brake callipers from hoses (6) and (13).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_003803132.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_003903133.jpg"></center>
+      </div>
+   </body>
+</html>

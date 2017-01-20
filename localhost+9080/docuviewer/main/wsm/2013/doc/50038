@@ -1,0 +1,749 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC6efa3640219010058daf815b6c300678"></a>Symbols - Abbreviations - References
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e11"> </a>To allow quick and easy consultation, this manual uses graphic symbols to highlight situations in which maximum care is required,
+            as well as practical advice or information. Pay attention to the meaning of the symbols since they serve to avoid repeating
+            technical concepts or safety warnings throughout the text. The symbols should therefore be seen as an aid to memory. Please&nbsp;refer
+            to this page whenever in doubt as to their meaning.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14"> </a>The terms right-hand and left-hand refer to the motorcycle
+            viewed from the riding position.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e17"> </a>Failure to comply with these instructions may put you at risk, and could lead to severe injury or even death.
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e20"> </a>Failure to follow the instructions in text marked with this symbol can lead to serious damage to the motorcycle and its components.
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e23"> </a>This symbol indicates additional useful information for the current operation.
+      </div>
+      <div class="SOTTO_PARA"><a name="DUC776469a0294610058ade8e0ec20b6cd2"></a>Product specifications
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e29"> </a>Symbols in the diagram show the type of thread locker, sealant or lubricant to be used at the points indicated. The table
+            below shows the symbols used and the specifications of the various products.
+         </div>
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1" colspan="2" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e41"> </a>Symbol
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e44"> </a>Specifications
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e47"> </a>Recommended product
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e53"> </a><img class="Default" src="img/Simb_motoroil00700.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e57"> </a>Engine oil (for characteristics see <a href="5182.html#DUC9b9889f817b910058541f84a299a05d0">Fluids and lubricants</a>).
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e63"> </a>SHELL Advance 4T Ultra
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e69"> </a><img class="Default" src="img/Simb_dot400701.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e73"> </a>DOT 4 special hydraulic brake fluid.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e76"> </a>SHELL Advance Brake DOT 4
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e80"> </a><img class="Default" src="img/Simb_chain00702.jpg"></div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e84"> </a>SAE 80-90 gear oil or special products for chains with O‑rings.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e87"> </a>SHELL Advance Chain or Advance Teflon Chain
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e92"> </a><img class="Default" src="img/Simb_gelo00703.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e96"> </a>Antifreeze (nitride, amine and phosphate free) 30 to 40% solution in water.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e99"> </a>SHELL Advance coolant or Glycoshell
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e104"> </a><img class="Default" src="img/Simb_grease_A00704.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e107"> </a>GREASE A
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e110"> </a>Multipurpose, medium fibre, lithium grease.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e113"> </a>SHELL Alvania R3
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e118"> </a><img class="Default" src="img/Simb_grease_B00705.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e121"> </a>GREASE B
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e124"> </a>Molybdenum disulphide grease, high mechanical stress and high temperature resistant.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e127"> </a>SHELL Retinax HDX2
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e132"> </a><img class="Default" src="img/Simb_grease_C00706.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e135"> </a>GREASE C
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e138"> </a>Bearing/joint grease for parts subject to prolonged mechanical stress. Temperature range: -10 to 110&nbsp;°C.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e141"> </a>SHELL Retinax LX2
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e146"> </a><img class="Default" src="img/Simb_grease_D00707.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e149"> </a>GREASE D
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e152"> </a>Protective grease, with anti-corrosive and waterproofing properties.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e155"> </a>SHELL Retinax HD2
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e160"> </a><img class="Default" src="img/Simb_grease_E00708.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e163"> </a>GREASE E
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e166"> </a>Grease
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e169"> </a>PANKL - PLB 05
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e174"> </a><img class="Default" src="img/Simb_grease_F00709.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e177"> </a>GREASE F
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e180"> </a>Grease
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e183"> </a>OPTIMOL - PASTE WHITE T
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e187"> </a><img class="Default" src="img/Simb_grease_G01807.jpg"></div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e190"> </a>GREASE G
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e193"> </a>Grease
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e196"> </a>PANKL - PLB07
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e201"> </a><img class="Default" src="img/Simb_grease_H01806.jpg"></div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e204"> </a>GREASE H
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e207"> </a>Grease
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e210"> </a>KLÜBER STABURAGS NBU 30 PTM
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e214"> </a><img class="Default" src="img/Simb_grease_I01805.jpg"></div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e217"> </a>GREASE I
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e220"> </a>Copper grease
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e223"> </a>CUPRUM 320
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e228"> </a><img class="Default" src="img/Simb_lock_100710.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e231"> </a>LOCK 1
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e234"> </a>Low-strength thread locker.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e237"> </a>Loctite 222
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e242"> </a><img class="Default" src="img/Simb_lock_200711.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e245"> </a>LOCK 2
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e248"> </a>Medium-strength thread locker, compatible with oil.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e251"> </a>Loctite 243
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e256"> </a><img class="Default" src="img/Simb_lock_300712.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e259"> </a>LOCK 3
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e262"> </a>High-strength thread locker for threaded parts.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e265"> </a>Loctite 270
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e270"> </a><img class="Default" src="img/Simb_lock_400713.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e273"> </a>LOCK 4
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e276"> </a>Flange sealant resistant to high mechanical stress and solvents. Resists high temperatures (up to 200&nbsp;°C) and pressures up
+                     to 350&nbsp;bar; fills gaps up to 0.4&nbsp;mm.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e279"> </a>Loctite 510
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e284"> </a><img class="Default" src="img/Simb_lock_500714.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e287"> </a>LOCK 5
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e290"> </a>Permanent adhesive for smooth or threaded cylindrical fasteners on mechanical parts. High resistance to mechanical stress
+                     and solvents. Temperature range: ‑55&nbsp;to 175&nbsp;°C.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e293"> </a>Loctite 128455
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e298"> </a><img class="Default" src="img/Simb_lock_600715.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e301"> </a>LOCK 6
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e304"> </a>Pipe sealant for pipes and medium to large fasteners. For&nbsp;water and gases (except oxygen). Maximum filling&nbsp;capacity: 0.40&nbsp;mm
+                     diameter clearance.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e307"> </a>Loctite 577
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e312"> </a><img class="Default" src="img/Simb_lock_700716.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e315"> </a>LOCK 7
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e318"> </a>Speed bonder for rubber and plastics with elastomer charged ethylic base.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e321"> </a>Loctite 480
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e326"> </a><img class="Default" src="img/Simb_lock_800717.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e329"> </a>LOCK 8
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e332"> </a>High-strength retaining compound for threaded parts, bearings, bushes, splines and keys. Temperature range: ‑55 to 150&nbsp;°C.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e335"> </a>Loctite 601
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e340"> </a><img class="Default" src="img/Simb_lock_900718.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e343"> </a>LOCK 9
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e346"> </a>Medium-strength thread locker.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e349"> </a>Loctite 406
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e355"> </a><img class="Default" src="img/Simb_lock_1000719.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e358"> </a>LOCK 10
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e361"> </a>Product for metal parts to seal and lock cylindrical freely sliding or threaded couplings. Resistant to high mechanical stress
+                     and high temperature, excellent resistance to solvents and chemical attack.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e364"> </a>Loctite 128443
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e369"> </a><img class="Default" src="img/Simb_lock_1100720.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e372"> </a>LOCK 11
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e375"> </a>Medium-strength thread locker.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e378"> </a>Loctite 401
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e383"> </a><img class="Default" src="img/Simb_lock_1200721.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e386"> </a>LOCK 12
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e389"> </a>Instant adhesive gel offering tensile/shear strength.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e392"> </a>Loctite 454 gel
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e397"> </a><img class="Default" src="img/Simb_seal00722.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e401"> </a>DUCATI liquid gasket.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e404"> </a>Three bond 1215 - Liquid gasket
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e409"> </a><img class="Default" src="img/Simb_scarico00723.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e413"> </a>Exhaust pipe paste. Self-sealing paste, hardens when heated; resists temperatures exceeding 1000&nbsp;°C.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e416"> </a>Holts Firegum
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e421"> </a><img class="Default" src="img/Simb_spry00724.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e425"> </a>Spray used to protect electrical systems. Eliminates&nbsp;moisture and condensation and provides excellent corrosion resistance.
+                     Water repellent.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e428"> </a>SHELL Advance Contact Cleaner
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e433"> </a><img class="Default" src="img/Simb_LubrSecco00725.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e437"> </a>Dry lubricant, polymerising on contact with air.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e440"> </a>Molycote M55 Plus
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e445"> </a><img class="Default" src="img/Simb_LubrGomma00726.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e449"> </a>Emulsion for lubrication of rubber.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e452"> </a>P 80
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="SOTTO_PARA">
+                     <div class="Testo"><a name="d3e457"> </a><img class="Default" src="img/Simb_LubrProtettivo00727.jpg"></div>
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e461"> </a>Protective lubricant emulsion.
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e464"> </a>KlUBERPLUS S 06/100
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e468"> </a><img class="Default" src="img/Simb_castor-oil01804.jpg"></div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e472"> </a>Lubricant for mechanical parts
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e475"> </a>Castor oil
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="nocolsep">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e479"> </a><img class="Default" src="img/Simb_DetaBlu02707.jpg"></div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e483"> </a>Degreaser
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e486"> </a>Deta Blu
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="SOTTO_PARA"><a name="DUC8a73167829541005802a8cf47b9235d2"></a>Acronyms and abbreviations used in the Manual
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e492"> </a>ABS
+         </div>
+         <div class="Testo"><a name="d3e494"> </a>Antilock Braking System
+         </div>
+         <div class="Testo"><a name="d3e496"> </a>BBS
+         </div>
+         <div class="Testo"><a name="d3e498"> </a>Black Box System
+         </div>
+         <div class="Testo"><a name="d3e500"> </a>CAN
+         </div>
+         <div class="Testo"><a name="d3e502"> </a>Controller Area Network
+         </div>
+         <div class="Testo"><a name="d3e504"> </a>DDA
+         </div>
+         <div class="Testo"><a name="d3e506"> </a>DUCATI Data Acquisition
+         </div>
+         <div class="Testo"><a name="d3e508"> </a>DSS
+         </div>
+         <div class="Testo"><a name="d3e510"> </a>DUCATI Skyhook Suspension
+         </div>
+         <div class="Testo"><a name="d3e512"> </a>DSB
+         </div>
+         <div class="Testo"><a name="d3e515"> </a>Dashboard
+         </div>
+         <div class="Testo"><a name="d3e517"> </a>DTC
+         </div>
+         <div class="Testo"><a name="d3e519"> </a>DUCATI Traction Control
+         </div>
+         <div class="Testo"><a name="d3e521"> </a>HF
+         </div>
+         <div class="Testo"><a name="d3e523"> </a>Hands Free
+         </div>
+         <div class="Testo"><a name="d3e525"> </a>ECU
+         </div>
+         <div class="Testo"><a name="d3e527"> </a>Engine Control Unit
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e530"> </a>Technological Dictionary
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e533"> </a>Riding Mode
+         </div>
+         <div class="Testo"><a name="d3e535"> </a>The rider can choose from four different preset bike configurations (Riding Modes) and pick the one that best suits his/her
+            riding style or ground conditions. The Riding Modes allow user to instantly change the engine power delivery (ENGINE), the
+            ABS settings, the DTC settings as well as, on the "Sport" versions, the suspension settings (DSS).
+         </div>
+         <div class="Testo"><a name="d3e537"> </a>Available riding modes are: Sport, Touring, Urban and Enduro.
+         </div>
+         <div class="Testo"><a name="d3e539"> </a>Within every Riding Mode, the rider can customise any settings.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e542"> </a>DSS (Ducati SkyHook System)
+         </div>
+         <div class="Testo"><a name="d3e544"> </a>Multistrada 1200 is equipped with the brand new suspension control system called DSS (Ducati Skyhook System): DSS is a dynamic
+            suspension damping control system. By selecting a certain Riding Mode, the rider can establish the base suspension behaviour,
+            suspension response and hence the motorcycle response. DSS default setting can be changed using the corresponding menu through
+            the instrument panel. This menu allows the rider to increase or decrease the base damping settings characterising the operation
+            of fork and 25 rear shock absorber for every Riding Mode.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e547"> </a>Ducati Traction Control (DTC)
+         </div>
+         <div class="Testo"><a name="d3e549"> </a>The Ducati Traction Control system (DTC) supervises the rear wheel slipping control and settings vary through eight different
+            levels that are programmed to offer a different tolerance level to rear wheel slipping. Each Riding Mode features a preset
+            intervention level. Level eight indicates system intervention whenever a slight slipping is detected, while level one is for
+            very expert riders because it is less sensitive to slipping and intervention is hence more rare.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e552"> </a>Anti-lock Braking System (ABS)
+         </div>
+         <div class="Testo"><a name="d3e554"> </a>The ABS system fitted to Multistrada 1200 is a system that actuates combined braking with anti lift-up function for the rear
+            wheel so as to guarantee not only a reduced stopping distance, but also a higher stability under braking. The ABS features
+            3 levels, one associated to each Riding Mode.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e557"> </a>Hands Free (HF)
+         </div>
+         <div class="Testo"><a name="d3e559"> </a>The Hands free system allows the rider to start the motorbike without actually using the ignition key. The key must simply
+            be within a certain range from the motorbike, for instance in the rider's pocket.
+         </div>
+         <div class="Testo"><a name="d3e561"> </a>The electric steering lock used by the Hands free system locks the handlebar on the right or on the left, making for a more
+            versatile parking solution.
+         </div>
+         <div class="Testo"><a name="d3e563"> </a>The Hands free system is connected to the other control units on the bike and to the instrument panel via the CAN line.
+         </div>
+         <div class="Testo"><a name="d3e565"> </a>The system can enable ignition (key present and acknowledged) or disable it (key not present or not acknowledged - immobilizer
+            function) thanks to this line. The instrument panel displays any notice, such as the warnings concerning low key battery or
+            key not present.
+         </div>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,30 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCf94158202f7710058fee9b9e1bbe609c"></a>Canister Filter system
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5458"> </a>USA models are equipped with an additional system with a Canister filter that prevents fuel fumes from being discharged into
+            the atmosphere.
+         </div>
+         <div class="Testo"><a name="d3e5460"> </a>The breather hose (4) is connected to the Canister filter (1); when the fuel has been filtered, it is returned through the
+            hose (2) to the horizontal (A) and vertical (B) intake manifolds via the hoses (2A) and (2B).
+         </div>
+         <div class="Testo"><a name="d3e5462"> </a>Breather hose (C) and hose (5) vent to the ground.
+         </div>
+         <div class="Testo"><a name="d3e5464"> </a>For correct positioning of the connection hoses consult the indications given below.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_010104292.jpg"></center>
+      </div>
+   </body>
+</html>

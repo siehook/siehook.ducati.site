@@ -1,0 +1,371 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC3add15f82956100583cacec75cf24dd2"></a>Model identification
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e707"> </a>Identification data
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e710"> </a>Each Ducati motorcycle has two identification numbers - the frame number and the engine number- and an EC nameplate (A) (not
+            present on the US version).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e713"> </a>Please quote these numbers, which identify the motorcycle model, when ordering spare parts.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_2_000102708.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_2_000202709.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_2_000302710.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e722"> </a>Data stamped on the frame
+         </div>
+         <div class="Testo"><a name="d3e724"> </a>Europe/Brazil/Australia/Japan Version
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">1 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e728"> </a>Manufacturer: Ducati Motor Holding
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">2 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e731"> </a>Type - identical for all MTS 1200 models
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">3 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e734"> </a>Variant
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">4 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e737"> </a>Version
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">5 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e740"> </a>Year of manufacture (C = 2012) (D = 2013)
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">6 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e743"> </a>Manufacturing facility
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">7 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e746"> </a>Progressive serial No.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e749"> </a>Data stamped on the frame - Europe/Australia/Brazil
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_2_000402711.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e755"> </a>Data stamped on the frame - France
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_2_000502712.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e760"> </a>Data stamped on the frame for Japan
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_2_000904549.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e765"> </a>Data stamped on the frame
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e768"> </a>US version
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">1 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e772"> </a>Manufacturer: Ducati Motor Holding
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">2 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e775"> </a>Motorcycle type
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">3 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e778"> </a>Variant - numeric or X (Check digit)
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">4 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e781"> </a>Model year (C=2012) (D=2013)
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">5 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e784"> </a>Manufacturing facility
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">6 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e787"> </a>Progressive serial No.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_2_000602714.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e792"> </a>Data stamped on engine
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">1 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e796"> </a>Manufacturer: Ducati Motor Holding
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">2 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e799"> </a>Engine type
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">3 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e802"> </a>Progressive production No.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_2_000702715.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e808"> </a>Data stamped on engine
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e811"> </a>US version
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">1 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e815"> </a>Engine type
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">2 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e818"> </a>Progressive production No.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_2_000802716.jpg"></center>
+      </div>
+   </body>
+</html>

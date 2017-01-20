@@ -1,0 +1,150 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCe61edd702b2210058210d17ffc81d1d2"></a>Adjusting the AIR-GAP of phonic wheel sensor
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5685"> </a>(For front as well as rear sensor) In each case of maintenance that foresees:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e5689"> </a>replacement or refitting of the wheel;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e5692"> </a>replacement or refitting of the phonic wheel (1) or (2);
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e5695"> </a>replacement or refitting of the brake discs;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e5698"> </a>replacement or refitting of the speed sensor (3) or (4);
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e5701"> </a>(front) replacement or refitting of the sensor holder bracket;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e5704"> </a>(rear) replacement or refitting of the calliper holder plate.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5707"> </a>It is necessary to check the air-gap between the speed sensor and the phonic wheel, once the components are refitted.
+         </div>
+         <div class="Testo"><a name="d3e5709"> </a>For this purpose, use a feeler gauge to check the air-gap; then, carry out 4 measures of the air-gap, one every 90° of wheel
+            turn.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_007803246.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_012203247.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5716"> </a>If the difference between the minimum and maximum values detected is higher than 0.40 mm, replace the phonic wheel.
+         </div>
+         <div class="Testo"><a name="d3e5718"> </a>Once checked that the difference is lower than or equal to 0.40 mm, carry out the shimming of the speed sensor (3) or (4)
+            by the appropriate calibrated shims (B).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_012303248.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e5723"> </a>Phonic wheels cleaning
+         </div>
+         <div class="Testo"><a name="d3e5725"> </a>It is important to check that both phonic wheels (1) and (2) are always clean.
+         </div>
+         <div class="Testo"><a name="d3e5727"> </a>Otherwise: gently remove any possible dirt deposits with a cloth or metal brush.
+         </div>
+         <div class="Testo"><a name="d3e5729"> </a>Avoid using solvents, abrasives and air or water jets directly on the phonic wheel (1) or (2).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_012403249.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_012703850.jpg"></center>
+      </div>
+   </body>
+</html>

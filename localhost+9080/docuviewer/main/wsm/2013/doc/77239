@@ -1,0 +1,918 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC8bc216c829f410058c29ed44952c77d2"></a>Scheduled maintenance chart: operations to be carried out by the dealer
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e737"> </a>This scheduled maintenance chart refers to a road use of the Multistrada. If it is used on the track, although not in sports
+         competitions, all motorcycle parts are more heavily stressed and this means that scheduled maintenance is required more frequently.
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="2">&nbsp;
+                  <div class="Testo"><a name="d3e754"> </a>List of operations and type of intervention
+                  </div>
+               </th>
+               <th rowspan="1" align="right">&nbsp;
+                  <div class="Testo"><a name="d3e757"> </a>km. x 1000
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e760"> </a>1
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e763"> </a>12
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e766"> </a>24
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e769"> </a>36
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e772"> </a>48
+                  </div>
+               </th>
+               <th rowspan="2" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e775"> </a>Time
+                  </div>
+                  <div class="Testo"><a name="d3e777"> </a>Months
+                  </div>
+               </th>
+            </tr>
+            <tr valign="top">
+               <th rowspan="1" align="right">&nbsp;
+                  <div class="Testo"><a name="d3e781"> </a>mi. x 1000
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e784"> </a>0,6
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e787"> </a>7,5
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e790"> </a>15
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e793"> </a>22,5
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e796"> </a>30
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e801"> </a>Read the error memory with DDS 2.0 and check of Software version update on control units.
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e804"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e807"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e810"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e813"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e816"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e819"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e823"> </a>Check whether there are technical updates and recall campaigns
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e826"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e829"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e832"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e835"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e838"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e841"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e845"> </a>Change engine oil and filter
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e848"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e851"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e854"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e857"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e860"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e863"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e867"> </a>Clean engine oil filter at intake
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e870"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e877"> </a>-
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e881"> </a>Check and/or adjust valve clearance
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e886"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e890"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e893"> </a>-
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e897"> </a>Replace timing belts
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e902"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e906"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e909"> </a>60
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e913"> </a>Replace spark plug
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e918"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e922"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e925"> </a>-
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e929"> </a>Change the air filter
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e934"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e938"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e941"> </a>-
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e945"> </a>Check brake and clutch fluid level
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e948"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e951"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e954"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e957"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e960"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e963"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e967"> </a>Change brake and clutch fluid
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e975"> </a>36
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e979"> </a>Check pad wear and brake discs. Replace if necessary
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e982"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e985"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e988"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e991"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e994"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e997"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1002"> </a>Check tightening of the safety components (brake disc carrier screws, brake calliper screws, front/rear wheel nuts, sprocket
+                     and final drive sprocket nuts)
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1005"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1008"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1011"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1014"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1017"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1020"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1024"> </a>Check and lubricate the rear wheel shaft
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1029"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1033"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1036"> </a>-
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1040"> </a>Check the drive chain tension and lubrication
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1043"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1046"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1049"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1052"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1055"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1058"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1062"> </a>Check final drive wear (chain, front and rear sprockets) and chain sliders
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1066"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1069"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1072"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1075"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1078"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1082"> </a>Visually check the front fork and rear shock absorber seals
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1085"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1088"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1091"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1094"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1097"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1100"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1105"> </a>Change front fork fluid
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1111"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1115"> </a>-
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1120"> </a>Check the freedom of movement and tightening of side and central stand (if installed)
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1123"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1126"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1129"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1132"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1135"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1138"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1142"> </a>Check rubbing points, clearance, freedom of movement and routing of flexible cables and electric wiring in view.
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1145"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1148"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1151"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1154"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1157"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1160"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1164"> </a>Check coolant level
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1167"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1170"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1173"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1176"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1179"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1182"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1187"> </a>Change coolant
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;</td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1195"> </a>48
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1199"> </a>Check electric fan operation
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1202"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1205"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1208"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1211"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1214"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1217"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1222"> </a>Check tyre pressure and wear
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1225"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1228"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1231"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1234"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1237"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1240"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1245"> </a>Check the battery charge level
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1248"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1251"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1254"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1257"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1260"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1263"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1267"> </a>Check idling
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1270"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1273"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1276"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1279"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1282"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1285"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1289"> </a>Check the operation of the electric safety devices (side stand sensor, front and rear brake switches, engine kill switch,
+                     gear/neutral sensor)
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1292"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1295"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1298"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1301"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1304"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1307"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1311"> </a>Check indicators and lighting
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1314"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1317"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1320"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1323"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1326"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1329"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1333"> </a>Reset Service indication through DDS 2.0
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1336"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1339"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1342"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1345"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1348"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1351"> </a>-
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1355"> </a>Road test of the motorcycle, testing the safety devices (ex. ABS and DTC)
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1358"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1361"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1364"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1367"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1370"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1373"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1377"> </a>Softly clean the motorcycle
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1380"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1383"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1386"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1389"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1392"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1395"> </a>12
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1399"> </a>Fill out that the service was performed in on-board documentation (Service Booklet)
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1402"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1405"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1408"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1411"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1414"> </a>•
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1417"> </a>12
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </body>
+</html>

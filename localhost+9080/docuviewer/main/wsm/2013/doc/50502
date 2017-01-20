@@ -1,0 +1,90 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCe20a1c50295a100581779858899a76d2"></a>Cooling system
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1">&nbsp;</th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e3031"> </a>Reference
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e3034"> </a>Technical specifications
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3039"> </a>Type
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3042"> </a>Liquid-cooled, with two closed loop radiators featuring double curved radiator with double fan and mixing thermostat
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3047"> </a>Coolant capacity
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3051"> </a>2.3±0.5 litres
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3055"> </a>Thermostat
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3058"> </a>Starts opening at
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3061"> </a>65 °C ±2 °C
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3066"> </a>Electric fan enabling
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3069"> </a>103 °C
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3074"> </a>Electric fan disabling
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e3077"> </a>102 °C
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </body>
+</html>

@@ -1,0 +1,143 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCc273a278258e100586b6fed1f18860d2"></a>Disassembly of the gearbox shafts
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15523"> </a>Place the shaft in a vice in such a way as to facilitate the disassembly operations.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e15526"> </a>Take care not to invert the positions of the shims on reassembly: this would potentially lead to jamming when using the gear
+         selector control, making it necessary to reopen the engine crankcase.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e15529"> </a>Disassembly of the gearbox secondary shaft
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15532"> </a>Remove the chain-side shim washer (1) and clutch-side shim washer (2) from the secondary shaft.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_037502088.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_035502089.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15539"> </a>Withdraw the first speed driven gear (3) with the roller cage (4) and the shim (5).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_035602090.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15544"> </a>Remove the fifth speed driven gear (6).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_035902093.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15550"> </a>Slide off the splined washer (8).
+         </div>
+         <div class="Testo"><a name="d3e15552"> </a>Use two flat blade screwdrivers to remove the snap ring (7) taking care not to damage the shaft surface, and remove it.
+         </div>
+         <div class="Testo"><a name="d3e15554"> </a>Remove the fourth speed driven gear (9) and the relevant roller cage (10).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_036002094.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15559"> </a>Remove the third speed driven gear (12).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_036402098.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15564"> </a>Remove the roller cage (10), the splined washer (8) and snap ring (7).
+         </div>
+         <div class="Testo"><a name="d3e15566"> </a>Remove the sixth speed driven gear (13).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_036602100.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15571"> </a>Remove the circlip (7) and withdraw the splined washer (8) and the second speed driven gear (14).
+         </div>
+         <div class="Testo"><a name="d3e15573"> </a>Withdraw the roller cage (10) and the shim (15). All the components have thus been removed from gearbox secondary shaft (16).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_036802102.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_037202106.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e15580"> </a>Disassembly of the gearbox primary shaft
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15583"> </a>Remove the chain-side shim washer (17) and the clutch-side shim washer (18) from the primary shaft.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_037302107.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_037402108.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15591"> </a>Remove the second speed driving gear (19). Use two screwdrivers to prise out the snap ring (7) and the splined washer (8).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e15594"> </a>Take care to avoid damaging the surface of the shaft while removing snap ring.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15597"> </a>Remove the sixth speed driving gear (20) with its roller cage (10). Remove the splined washer (8) and the circlip (7).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_037602109.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_062803204.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15604"> </a>Withdraw the third and fourth speed driving gear (21).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_038202115.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15609"> </a>Remove the circlip (7) and the splined washer (8).
+         </div>
+         <div class="Testo"><a name="d3e15611"> </a>Slide out the fifth speed driving gear (22) with the relevant roller cage (10) and shim (15), to obtain the primary shaft
+            (23).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_063003205.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_063103206.jpg"></center>
+      </div>
+   </body>
+</html>

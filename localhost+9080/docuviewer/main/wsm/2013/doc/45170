@@ -1,0 +1,54 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC7aee0a402590100586c0fed1f18860d2"></a>Reassembly of the gearbox
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15768"> </a>To refit the gearbox components follow the procedure under Section "Reassembling the crankcase halves".
+         </div>
+         <div class="Testo"><a name="d3e15770"> </a>As a final practical test, ensure that with the gearbox in neutral the front coupling dogs (A) of sliding gears (B) are equidistant
+            on both sides with respect to the corresponding coupling dogs on the fixed gears (C).
+         </div>
+         <div class="Testo"><a name="d3e15772"> </a>Check also that there is always a small amount of clearance between fork (D) and relative groove (E) on sliding gear (B) when
+            engaging the gears.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_039802131.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15777"> </a>Reassemble the crankcase halves (<a href="45230.html#DUC54da126825b810058735b8c023d015d2">Reassembling the crankcase halves</a>).
+         </div>
+         <div class="Testo"><a name="d3e15782"> </a>Refit the primary drive gear (<a href="45146.html#DUC7228af08257e100580b78e32a097eed2">Refitting the primary drive gear and checking the backlash</a>).
+         </div>
+         <div class="Testo"><a name="d3e15787"> </a>Refit the clutch cover (<a href="45142.html#DUC71320cb8257c10058cbcf04d994144d2">Refitting the clutch cover</a>).
+         </div>
+         <div class="Testo"><a name="d3e15792"> </a>Refit the clutch cover, drum and housing (<a href="45128.html#DUCafa47568257b10058cb2f04d994144d2">Refitting the clutch</a>).
+         </div>
+         <div class="Testo"><a name="d3e15797"> </a>Refit the starter motor (<a href="45213.html#DUCc8b137a826841005887ee38e40fd97d2">Refitting the starter motor</a>).
+         </div>
+         <div class="Testo"><a name="d3e15802"> </a>Refit the oil pump (<a href="44904.html#DUCcbf54ac824f2100583a5b051d7198fd2">Refitting the oil pump</a>).
+         </div>
+         <div class="Testo"><a name="d3e15807"> </a>Refit the generator and its cover (<a href="45184.html#DUCe2a16b98259310058919eb60359b4bd2">Refitting the flywheel/generator unit</a>).
+         </div>
+         <div class="Testo"><a name="d3e15812"> </a>Refit the cylinder/piston assembly (<a href="45120.html#DUC24353f28257910058ca3f04d994144d2">Refitting the cylinder/piston assembly</a>).
+         </div>
+         <div class="Testo"><a name="d3e15817"> </a>Refit the complete cylinder head unit (<a href="45101.html#DUC9e3e589025291005853db664ff2668d2">Reassembling the cylinder head</a>).
+         </div>
+         <div class="Testo"><a name="d3e15822"> </a>Refit the camshafts (<a href="45078.html#DUC388127a0256810058981df0f9b3366d2">Refitting the camshafts</a>).
+         </div>
+         <div class="Testo"><a name="d3e15827"> </a>Refit the timing components (<a href="45054.html#DUC2edb28d02519100584b1d8c3784850d2">Refitting the head pulleys/idler tensioners</a>).
+         </div>
+         <div class="Testo"><a name="d3e15833"> </a>Fit the engine on the frame (<a href="44896.html#DUCbe26f6e024f1100583a1b051d7198fd2">Refitting the engine</a>).
+         </div>
+      </div>
+   </body>
+</html>

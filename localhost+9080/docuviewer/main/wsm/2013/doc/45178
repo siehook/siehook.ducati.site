@@ -1,0 +1,50 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC97279a08259210058917eb60359b4bd2"></a>Removal of the flywheel/generator assembly
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15963"> </a>Use tool (A) no. <span class="bold">88713.3367</span> fixed to the M10 side stand fixing holes (B).
+         </div>
+         <div class="Testo"><a name="d3e15968"> </a>Secure the tool to the flywheel with the screws (C). Unscrew the generator-flywheel retaining nut (1).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e15971"> </a>While unscrewing the nut, apply axial pressure to the socket to avoid damage or injury in the event of the wrench suddenly
+         slipping off the nut.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_040802140.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15976"> </a>Remove the nut (1), the washer (2) and the flywheel assembly (3) with the driven gear (4) from the crankshaft.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_040902141.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_041002142.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15983"> </a>Remove the bushing (5), the roller cage (6) and the washer (7).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15986"> </a>Check the bushing (5), the roller cage (6) and the washer (7) for wear. Replace if worn.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_041102143.jpg"></center>
+      </div>
+   </body>
+</html>

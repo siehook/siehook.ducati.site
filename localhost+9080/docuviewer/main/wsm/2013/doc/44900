@@ -1,0 +1,42 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC3b7e07f024f2100583a3b051d7198fd2"></a>Disassembly of the oil pump
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e10791"> </a>Hold the oil pump (1) in a vice taking care not to damage the drive gear (2).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_000701711.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e10796"> </a>Make sure that vice jaws are faced with soft material.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e10799"> </a>Remove the plug (3) and extract the spring (4) and by-pass valve (5).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_059103011.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e10804"> </a>Check the condition of the above components.
+         </div>
+         <div class="Testo"><a name="d3e10806"> </a>Remove the circlip (6) and withdraw the pump drive gear (7).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_059302993.jpg"></center>
+      </div>
+   </body>
+</html>

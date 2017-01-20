@@ -1,0 +1,50 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC3cd769982b37100580b38b55a208bfd2"></a>Refitting the gearchange mechanism
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6726"> </a>Apply the threadlocker on pivot (1).
+         </div>
+         <div class="Testo"><a name="d3e6728"> </a>Install O-ring (3) onto pivot (1).
+         </div>
+         <div class="Testo"><a name="d3e6730"> </a>Insert the pivot (1) in the gearchange lever (2), and insert the other O-ring (3) and the washer (4).
+         </div>
+         <div class="Testo"><a name="d3e6732"> </a>Fit the gearchange lever (1) on the footpeg plate inserting and tightening the pivot (1) to the specified torque 23±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_040503939.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_020203314.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6739"> </a>Fit lever (7) on gear transmission rod assembly (8), starting screw (9).
+         </div>
+         <div class="Testo"><a name="d3e6741"> </a>Tighten screw (9) to a torque of 10 Nm ±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_020003310.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6746"> </a>Fit the gearchange control unit inserting the lever (7) on the gear control pivot, apply threadlocker on the screw (6) and
+            insert it on the lever (7).
+         </div>
+         <div class="Testo"><a name="d3e6748"> </a>Tighten screw (6) to a torque of 10 Nm ±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_020303315.jpg"></center>
+      </div>
+   </body>
+</html>

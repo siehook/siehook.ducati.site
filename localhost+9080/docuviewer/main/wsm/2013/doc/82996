@@ -1,0 +1,92 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC06ba5f502e4d10058389c272b5ad609c"></a>Resetting the Throttle Potentiometer Sensor (TPS)
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4123"> </a>The linear throttle potentiometer sensor has no potentiometer adjustments, the following procedure shall thus be applied to
+            ensure a correct system operation.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e4126"> </a>This procedure must precede the first start-up of the vehicle after replacement of the throttle body, potentiometer, ECU,
+         or wiring.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4129"> </a>Make sure that the throttle valve is seated against the stop screw (throttle twistgrip released).
+         </div>
+         <div class="Testo"><a name="d3e4131"> </a>In this position the ECU learns the position sensor angle. The DDS diagnosis instrument is necessary to carry out this operation.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e4134"> </a>The following screens are given just as an example, and thus do not exactly refer to the model described in this manual.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4137"> </a>Select the Ducati model, engine type, and model year.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_007604070.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4142"> </a>From the self-diagnosis menu, select the type of engine electronic control unit: OEM or Performance.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_007704071.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4147"> </a>Connect the interface wiring to the bike diagnosis socket, and the two VCI interface power clamps to the battery. Connect
+            the remaining connector to the VCI (Vehicle Communication Interface) module.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_007804072.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4153"> </a>Switch on the instrument panel.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_007904073.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4158"> </a>Select the ADJUSTMENTS menu on the left column, then select "TPS Reset", then press ADJUST.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_008004074.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4163"> </a>Press "CONFIRM" and make sure that engine is off, then press "CONFIRM" again.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_008104075.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_008304076.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4170"> </a>Should the engine be ON, a message will ask you to turn it off.
+         </div>
+         <div class="Testo"><a name="d3e4172"> </a>If the operation has been completed successfully, the corresponding message will be displayed. If not, an error message will
+            appear, and the procedure will have to be repeated making sure that the conditions necessary for the TPS reset function to
+            be successfully executed are present.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_008304077.jpg"></center>
+      </div>
+   </body>
+</html>

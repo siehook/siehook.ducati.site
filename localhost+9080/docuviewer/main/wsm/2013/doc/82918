@@ -1,0 +1,122 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCd406d5782e5d1005805dd9a97d992e9c"></a>Recharging the battery
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3191"> </a>Refer to the label on the battery showing the check intervals in order to determine when to test the voltage.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_000604086.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3196"> </a>Charge the battery if the open circuit voltage is lower than 12.8&nbsp;V. Leaving the battery discharged for more than one month
+            could damage it. Check the battery charge with a voltmeter.
+         </div>
+         <div class="Testo"><a name="d3e3198"> </a>Always check the condition of the battery before recharging and 1 to 2 hours afterwards.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e3201"> </a>Pay careful attention to recharging times. Stop charging immediately if the battery becomes too hot to the touch. Leave to
+         cool before resuming charging.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3204"> </a>Use only constant-voltage battery chargers.
+         </div>
+         <div class="Testo"><a name="d3e3206"> </a>Check that battery terminals are properly connected to the battery charger.
+         </div>
+         <div class="Testo"><a name="d3e3208"> </a>To charge the battery, proceed as follows.
+         </div>
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e3219"> </a>Type of charging
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e3222"> </a>Volt
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e3225"> </a>Ampere (A)
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e3228"> </a>Time (Hours)
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3233"> </a>Normal
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3236"> </a>12
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3239"> </a>1,8
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3242"> </a>5-10
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3246"> </a>Fast
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3249"> </a>12
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3252"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3255"> </a>1
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3258"> </a>Use fast charging in emergencies only.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e3261"> </a>Storing the battery
+         </div>
+         <div class="Testo"><a name="d3e3263"> </a>If the battery voltage is less than or equal to 11.5&nbsp;V, it must be recharged.
+         </div>
+         <div class="Testo"><a name="d3e3265"> </a>Connect the battery charger to the battery.
+         </div>
+         <div class="Testo"><a name="d3e3267"> </a>Use a voltage of 16-17&nbsp;V.
+         </div>
+         <div class="Testo"><a name="d3e3269"> </a>If the ammeter shows no change, increase the voltage to maximum 25&nbsp;V.
+         </div>
+         <div class="Testo"><a name="d3e3271"> </a>Charge for 5&nbsp;minutes.
+         </div>
+         <div class="Testo"><a name="d3e3273"> </a>If the ammeter shows a change, restore a voltage of 16-17&nbsp;V; otherwise replace the battery.
+         </div>
+      </div>
+   </body>
+</html>

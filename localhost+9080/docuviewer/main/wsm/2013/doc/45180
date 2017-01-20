@@ -1,0 +1,150 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCdb2f7ec8259210058919eb60359b4bd2"></a>Overhaul of the flywheel/generator assembly
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15996"> </a>Examine the inner part of generator rotor (8) for signs of damage.
+         </div>
+         <div class="Testo"><a name="d3e15998"> </a>Check that the starter clutch is working properly and that the roller races do not show signs of wear or damage of any kind.
+            Disassemble the unit if you find faulty operation.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_041202144.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e16003"> </a>Disassembly of the generator flywheel
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16006"> </a>Loosen the screws (9) and remove the generator rotor (10) from the flywheel.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_041302145.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16011"> </a>Insert two of the screws (9) just removed from the rotor in order to remove the flange (11) and the starter clutch (12) from
+            the flywheel (13).
+         </div>
+         <div class="Testo"><a name="d3e16013"> </a>The starter clutch is a slight interference fit on the flange. Use a suitable drift to remove it.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_041402146.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_041502147.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e16020"> </a>Reassembly of the flywheel/generator assembly
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16023"> </a>Insert the starter clutch (12) in flange (11) bringing the starter clutch edge (A) with chamfered side (B) fully against the
+            flange.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e16027"> </a>Assemble the components (starter clutch and flange) so that, once assembled, starter clutch edge is on flange chamfered side.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_041602148.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/Graphic02149.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16034"> </a>Fit the flange (11) with starter clutch (12) fully home into the flywheel (13), ensuring the centring hole (C) on flange matches
+            the flywheel centring hole (D). 
+         </div>
+         <div class="Testo"><a name="d3e16036"> </a>The flange centring hole (C) is the hole with the countersunk lead-in (E). 
+         </div>
+         <div class="Testo"><a name="d3e16038"> </a>The centring hole (D) of the flywheel can be either one of the two holes (F).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e16041"> </a>Use suitable tools to align the centring holes.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_041802150.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_041902151.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_042002153.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e16050"> </a>Assemble the components (flange and flywheel) so that edge of the starter clutch is enclosed between the flange and flywheel.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_042102152.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16055"> </a>Install rotor (10) on flywheel (13), matching one of the two flywheel centring holes (D) with the rotor centring hole (G).
+         </div>
+         <div class="Testo"><a name="d3e16057"> </a>The rotor centring hole (G) is the one positioned on the same diameter as the fixing holes (H).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e16061"> </a>Use suitable tools to align the centring holes.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16064"> </a>Smear some threadlocker on the rotor/flywheel retaining screws (26) and start them in their holes.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_042202154.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_042302155.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16071"> </a>Tighten the screws (26) to a torque of 13 Nm (Min. 11 Nm - Max. 15 Nm), following the specified sequence.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_042402156.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16076"> </a>Lubricate the race (L) of the driven gear (4) with engine oil.
+         </div>
+         <div class="Testo"><a name="d3e16078"> </a>Install the driven gear on the starter clutch, ensuring it is properly seated.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e16081"> </a>To help insertion, turn the driven gear in the direction indicated by the green arrow.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16084"> </a>Hold the flywheel (13) with one hand and check that the driven gear can rotate freely in the direction of the green arrow
+            but not in the direction of the red arrow.
+         </div>
+         <div class="Testo"><a name="d3e16086"> </a>If either of these two conditions is not met, this means that the starter clutch has not been installed correctly.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_042502157.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_042602159.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_042702160.jpg"></center>
+      </div>
+   </body>
+</html>

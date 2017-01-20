@@ -1,0 +1,2743 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCa0215588299110058d8aa647859521d2"></a>Engine tightening torques
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="middle">
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e7369"> </a>Application description
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e7372"> </a>Thread length
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e7375"> </a>Thread pitch
+                  </div>
+               </th>
+               <th rowspan="1" colspan="3">&nbsp;
+                  <div class="Testo"><a name="d3e7378"> </a>Torque (Nm)
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e7381"> </a>Note
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="middle">
+               <td rowspan="1" colspan="7" align="center" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7388"> </a>Head
+                  </div>
+               </td>
+            </tr>
+            <tr valign="middle">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7393"> </a>Fixed and mobile tensioner pin 
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7397"> </a>M20x1
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7400"> </a>50
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7403"> </a>45
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7406"> </a>55
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7409"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7414"> </a>Camshaft pulley ring nut
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7418"> </a>M17x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7421"> </a>71
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7424"> </a>64
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7427"> </a>78
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7430"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7435"> </a>Rocker arm shaft blanking cap
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7439"> </a>M12x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7442"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7445"> </a>14
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7448"> </a>16
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7451"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7456"> </a>Water union temperature sensor
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7460"> </a>M12x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7463"> </a>23
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7466"> </a>20
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7469"> </a>26
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7472"> </a>LOCK 4 - Lock insert when tightening
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7477"> </a>Cylinder/head stud bolt nut
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7481"> </a>M10x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7490"> </a>Snug torque
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7495"> </a>20
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7500"> </a>GREASE C on nut underside and on stud bolt thread
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7505"> </a>Preload torque 
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7510"> </a>40
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7513"> </a>38
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7516"> </a>42
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7522"> </a>Tightening torque
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7527"> </a>60
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7530"> </a>57
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7533"> </a>63
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7539"> </a>Cam cap retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7543"> </a>M8x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7552"> </a>Preload torque
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7557"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7560"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e7563"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7570"> </a>Tightening torque 
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7575"> </a>23
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7578"> </a>21
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7581"> </a>25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7587"> </a>Coil screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7591"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7594"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7597"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7600"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7606"> </a>Pulley flange screws
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7610"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7613"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7616"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7619"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7625"> </a>Head cover retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7629"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7632"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7635"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7638"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7644"> </a>Secondary air cover retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7648"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7651"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7654"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7657"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7663"> </a>Stud bolt for exhaust manifold
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7667"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7670"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7673"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7676"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7679"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7684"> </a>Screw for securing vacuum gauge to cylinder head (EU only)
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7688"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7691"> </a>5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7694"> </a>4
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7697"> </a>6
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7700"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7705"> </a>Union on head for canister (California only)
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7709"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7712"> </a>5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7715"> </a>4
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7718"> </a>6
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7721"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7726"> </a>Horizontal head air breather union 
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7730"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7733"> </a>2.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7736"> </a>2
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7739"> </a>3
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7742"> </a>LOCK 2
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7747"> </a>Vertical head air breather blanking dowel
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7751"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7754"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7757"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7760"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7763"> </a>LOCK 6
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7768"> </a>Intake manifold retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7772"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7775"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7778"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7781"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7788"> </a>Water temperature sensor
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7792"> </a>M8x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7795"> </a>6
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7798"> </a>5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7801"> </a>7
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7807"> </a>Head unions on head retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7811"> </a>M5x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7814"> </a>6
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7817"> </a>5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7820"> </a>7
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7823"> </a>Pre-applied threadlocker on new part - LOCK 2 for reuse
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="7" align="center" valign="middle" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7829"> </a> Crankcase
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7834"> </a>Oil cartridge
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7838"> </a>M16x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7841"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7844"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7847"> </a>12
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7850"> </a>Engine oil on seal
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7855"> </a>Nipple for oil cartridge
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7859"> </a>M16x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7862"> </a>42
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7865"> </a>38
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7868"> </a>46
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7871"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7876"> </a>Oil intake duct cap 
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7880"> </a>M16x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7883"> </a>24
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7886"> </a>21
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7889"> </a>27
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7892"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7897"> </a>Oil cooler nipple
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7901"> </a>M14x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7904"> </a>32
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7907"> </a>29
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7910"> </a>35
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7913"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7918"> </a>Oil drain plug with magnet
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7922"> </a>M12x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7925"> </a>20
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7928"> </a>18
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7931"> </a>22
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7934"> </a>TB1215
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7939"> </a>Gear acknowledgement sensor
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7943"> </a>M12x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7946"> </a>12
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7949"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7952"> </a>13
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7958"> </a>Clutch-side crankcase oil channel blanking cap
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7962"> </a>M10x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7965"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7968"> </a>13
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7971"> </a>17
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7974"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7979"> </a>Taper cap
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7983"> </a>M10x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7986"> </a>20
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7989"> </a>18
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7992"> </a>22
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e7995"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8001"> </a>Neutral sensor
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8005"> </a>M10x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8008"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8011"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8014"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8020"> </a>Oil pump screw adapter bush
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8024"> </a>M10x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8030"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8035"> </a>Dowel for oil channel inside clutch-side crankcase
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8039"> </a>M10x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8042"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8045"> </a>13
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8048"> </a>17
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8051"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8056"> </a>Roller bearing flange hole taper blanking plug
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8060"> </a>M10x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8063"> </a>22
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8066"> </a>20
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8069"> </a>24
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8072"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8077"> </a>Cylinder/head stud bolt
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8081"> </a>M10x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8084"> </a>30
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8087"> </a>28
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8090"> </a>32
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8093"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8098"> </a>Crankcase jointing screw at cylinder area
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8102"> </a>M10x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8111"> </a>Preload torque
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8116"> </a>19
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8119"> </a>17
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8122"> </a>21
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8125"> </a>GREASE B on thread
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8130"> </a>Tightening torque
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8135"> </a>25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8138"> </a>22
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8141"> </a>28
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8147"> </a>Screw for jointing crankcase + swinging arm shaft
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8151"> </a>M8x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8160"> </a>Preload torque
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8165"> </a>19
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8168"> </a>17
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8171"> </a>21
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8174"> </a>GREASE B on thread
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8179"> </a>Tightening torque
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8184"> </a>25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8187"> </a>22
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8190"> </a>28
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8197"> </a>Gear stopper retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8201"> </a>M8x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8204"> </a>18
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8207"> </a>16
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8210"> </a>20
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8213"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8218"> </a>Special grub screw for roller bearing flange
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8222"> </a>M8x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8225"> </a>16
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8228"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8231"> </a>17
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8234"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8239"> </a>Blow-by valve retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8243"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8246"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8249"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8252"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8258"> </a>Secondary bearing stopper screw (chain side)
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8262"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8265"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8268"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8271"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8274"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8279"> </a>Primary bearing stopper screw (clutch side)
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8283"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8286"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8289"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8292"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8295"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8300"> </a>Crankcase jointing screw at idle gear pin area
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8304"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8307"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8310"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8313"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8319"> </a>External crankcase jointing screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8323"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8326"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8329"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8332"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8338"> </a>Mesh filter cover screws TSPEI - TEF
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8342"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8345"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8348"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8351"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8357"> </a>Radial pick-up retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8361"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8364"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8367"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8370"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8376"> </a>FCC clutch recess screw with brass washer S=2mm
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8380"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8383"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8386"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8389"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8395"> </a>Screw retaining upper shell of blow-by valve
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8399"> </a>M3
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8402"> </a>1.2
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8405"> </a>1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8408"> </a>1.4
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8411"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8417"> </a>Piston oil squirters screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8421"> </a>M5x0.8
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8424"> </a>8
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8427"> </a>7
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8430"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8433"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="7" align="center" valign="middle" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8439"> </a>Electric starter
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8444"> </a>Inner starter motor retaining screw TCEI - TCEIF
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8448"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8451"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8454"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8457"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8460"> </a>Pre-applied threadlocker on new part - LOCK2 for reuse
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8465"> </a>External starter motor retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8469"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8472"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8475"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8478"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8481"> </a>Pre-applied threadlocker on new part - LOCK2 for reuse
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8486"> </a>Rear starter motor retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8490"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8493"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8496"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8499"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8502"> </a>Pre-applied threadlocker on new part - LOCK2 for reuse
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8507"> </a>Idle gear pin retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8511"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8514"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8517"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8520"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8523"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="7" align="center" valign="middle" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8529"> </a>Connecting rods
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8534"> </a>FCC clutch primary sprocket retaining ring nut
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8538"> </a>M24x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8541"> </a>190
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8544"> </a>171
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8547"> </a>209
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8550"> </a>GREASE B
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8555"> </a>Flywheel nut
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8559"> </a>M24x1
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8562"> </a>330
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8565"> </a>313
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8568"> </a>346
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8571"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8576"> </a>Balancing plug
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8580"> </a>M12x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8583"> </a>28
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8586"> </a>26
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8589"> </a>30
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8592"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8597"> </a>Con-rod screw (Class 14.9)
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8601"> </a>M10x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8607"> </a>M10x1
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8613"> </a>Tightening torque at 50 rpm
+                  </div>
+               </td>
+               <td rowspan="1" class="noborder">&nbsp;</td>
+               <td rowspan="1" class="noborder">&nbsp;</td>
+               <td rowspan="1" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8618"> </a>35
+                  </div>
+               </td>
+               <td rowspan="1" class="noborder">&nbsp;</td>
+               <td rowspan="1" class="noborder">&nbsp;</td>
+               <td rowspan="1" class="noborder">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8626"> </a>Pause 2 seconds and undo by 360° at 30rpm
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8637"> </a>Snug torque at 30 rpm
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8642"> </a>20
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8650"> </a>Snug torque at 10 rpm
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8655"> </a>35
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="noborder">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="noborder">&nbsp;
+                  <div class="Testo"><a name="d3e8663"> </a>Tightening by 65°±1° at 14 rpm
+                  </div>
+               </td>
+               <td rowspan="1" class="noborder">&nbsp;</td>
+               <td rowspan="1" class="noborder">&nbsp;</td>
+               <td rowspan="1" class="noborder">&nbsp;</td>
+               <td rowspan="1" class="noborder">&nbsp;</td>
+               <td rowspan="1" class="noborder">&nbsp;</td>
+               <td rowspan="1" class="noborder">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8674"> </a>Torque check
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8680"> </a>70
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8683"> </a>103
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8689"> </a>Crankshaft grub screw 
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8693"> </a>M8x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8696"> </a>13
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8699"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8702"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8705"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8710"> </a>Crankshaft drilled grub screw
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8714"> </a>M8x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8717"> </a>13
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8720"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8723"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8726"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="7" align="center" valign="middle" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8732"> </a>Gearchange mechanism
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8737"> </a>Gearbox drum positioning screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8741"> </a>M16x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8744"> </a>30
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8747"> </a>27
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8750"> </a>33
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8756"> </a>Gearbox pawl screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8760"> </a>M8x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8763"> </a>36
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8766"> </a>34
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8769"> </a>38
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8772"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8778"> </a>Pawl positioning nut
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8782"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8785"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8788"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8791"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8797"> </a>Gearbox pawl screw
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8801"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8804"> </a>16
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8807"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8810"> </a>17
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8813"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="7" align="center" valign="middle" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8819"> </a>Timing system
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8824"> </a>Timing transmission pulley ring nut 
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8828"> </a>M15x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8831"> </a>71
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8834"> </a>64
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8837"> </a>78
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8840"> </a>GREASE A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8845"> </a>Timing idle gear nut
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8849"> </a>M14x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8852"> </a>55
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8855"> </a>50
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8858"> </a>60
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8861"> </a>GREASE A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8866"> </a>Fixed and mobile tensioner nut
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8870"> </a>M8x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8873"> </a>25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8876"> </a>22
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8879"> </a>28
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8882"> </a>GREASE A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8887"> </a>Carbon cover screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8891"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8894"> </a>6
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8897"> </a>5.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8900"> </a>6.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8903"> </a>Pre-applied threadlocker on new part - LOCK2 for reuse
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8908"> </a>Plastic cover screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8912"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8915"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8918"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8921"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8924"> </a>Pre-applied threadlocker on new part - LOCK2 for reuse
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8929"> </a>Carbon cover filter support screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8933"> </a>M4x0.7
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8936"> </a>1.75
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8939"> </a>1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8942"> </a>2
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8948"> </a>Self-tapping screw for cover filter
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8952"> </a>3.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8955"> </a>1.75
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8958"> </a>1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8961"> </a>2
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="7" align="center" valign="middle" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8968"> </a>Covers
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8974"> </a>Water inlet union 
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8978"> </a>M30x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8981"> </a>25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8984"> </a>23
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8987"> </a>27
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8990"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8995"> </a>Water delivery union
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e8999"> </a>M22x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9002"> </a>25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9005"> </a>23
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9008"> </a>27
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9011"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9016"> </a>FCC clutch fluid filler cap
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9020"> </a>M20x2.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9023"> </a>5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9026"> </a>4.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9029"> </a>5.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9035"> </a>Soundproofing element screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9039"> </a>M14x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9042"> </a>24
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9045"> </a>22
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9048"> </a>26
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9051"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9056"> </a>Pick-up inspection screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9060"> </a>M12x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9063"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9066"> </a>13
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9069"> </a>17
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9072"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9077"> </a>Water pump cover plug
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9081"> </a>M10x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9084"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9087"> </a>13.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9090"> </a>16.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9096"> </a>Clutch recess blanking plug
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9100"> </a>M10x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9103"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9106"> </a>13.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9109"> </a>16.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9115"> </a>Oil duct blanking cap
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9119"> </a>M10x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9122"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9125"> </a>13.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9128"> </a>16.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9131"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9136"> </a>Water pump bearing stopper screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9140"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9143"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9146"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9149"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9152"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9157"> </a>Timing inspection cover screw TSPEI
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9161"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9164"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9167"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9170"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9173"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9178"> </a>Water pump cover screw (through hole) TCEI
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9182"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9185"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9188"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9191"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9194"> </a>LOCK 6
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9200"> </a>Water pump cover screw TCEI
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9204"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9207"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9210"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9213"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9219"> </a>Generator cover screw TCEIF
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9223"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9226"> </a>13.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9229"> </a>12.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9232"> </a>14.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9238"> </a>Generator stator retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9242"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9245"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9248"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9251"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9254"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9259"> </a>FCC clutch cover screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9263"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9266"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9269"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9272"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9278"> </a>Screw securing special generator cover to stud bolt
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9282"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9285"> </a>13.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9288"> </a>12.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9291"> </a>14.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9297"> </a>Stator cable grommet retaining screw TCEI
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9301"> </a>M5x0.8
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9304"> </a>5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9307"> </a>.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9310"> </a>5.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9313"> </a>LOCK 2 or TB1324
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="7" align="center" valign="middle" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9319"> </a>Gearbox and clutch
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9324"> </a>FCC clutch drum nut
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9328"> </a>M25x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9331"> </a>190
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9334"> </a>180
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9337"> </a>200
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9340"> </a>GREASE B
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9345"> </a>FCC wet clutch spring screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9349"> </a>M6X1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9352"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9355"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9358"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="7" align="center" valign="middle" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9365"> </a>Ignition
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9370"> </a>Spark plug
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9374"> </a>M10x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9377"> </a>12
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9380"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9383"> </a>13
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9390"> </a>Rotor to flywheel retaining screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9394"> </a>M5x0.8
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9397"> </a>13
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9400"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9403"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9406"> </a>Pre-applied threadlocker on new part - LOCK2 for reuse
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="7" align="center" valign="middle" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9412"> </a>Oil pump
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9417"> </a>By-pass pump cap
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9421"> </a>M15x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9424"> </a>17
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9427"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9430"> </a>19
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9433"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9438"> </a>Oil pump screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9442"> </a>M8x1.25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9445"> </a>26
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9448"> </a>23
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9451"> </a>29
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9457"> </a>Oil pump assembly screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9461"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9464"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9467"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9470"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9476"> </a>Oil pump screw
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9480"> </a>M6x1
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9483"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9486"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9489"> </a>11
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="7" align="center" valign="middle" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9496"> </a>Cylinders
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9501"> </a>Water delivery union
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9505"> </a>M22x1.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9508"> </a>25
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9511"> </a>23
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9514"> </a>27
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9517"> </a>LOCK 5
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="7" align="center" valign="middle" style="background-color: #d0d0d0" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9523"> </a>Cylinders
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9528"> </a>Water circuit clamps
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9533"> </a>2.5
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9536"> </a>2
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e9539"> </a>3
+                  </div>
+               </td>
+               <td rowspan="1" valign="middle" class="nocolsep">&nbsp;</td>
+            </tr>
+         </tbody>
+      </table>
+   </body>
+</html>

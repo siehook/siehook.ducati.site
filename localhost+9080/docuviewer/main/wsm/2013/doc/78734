@@ -1,0 +1,54 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCad3ac9382b27100586deb8b5655f9dd2"></a>Removing the clutch master cylinder assembly
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e6424"> </a>The clutch master cylinder manufacturer advises against servicing of the clutch master cylinder (1) due to the safety-critical
+         nature of this component. Incorrect overhaul of this component could endanger rider safety.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6427"> </a>Replacement operations shall be limited to the following parts: control lever, reservoir assembly, and master cylinder fasteners.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6430"> </a>Drain the clutch system (<a href="77265.html#DUCa0b42f982a22100581ac94271418e7d2">Draining the clutch hydraulic circuit</a>).
+         </div>
+         <div class="Testo"><a name="d3e6435"> </a>Remove the LH rear-view mirror (<a href="78708.html#DUCc5891c002b2310058216d17ffc81d1d2">Removing the rear-view mirrors</a>).
+         </div>
+         <div class="Testo"><a name="d3e6440"> </a>Remove left hand guard (<a href="78712.html#DUC6b0bc2b82b24100585a7c6c5c869a9d2">Removing the hand guards</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6446"> </a>Unscrew the special screw (1) recovering the sealing washers (2), to release the clutch master cylinder unit (3) from the
+            clutch control hose (4).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_017903274.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6451"> </a>Undo the screws (5) securing the U-bolt (6), and then remove the clutch master cylinder assembly (3) from the handlebar.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_018003275.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6456"> </a>Refer to the exploded view for indications on disassembly and replacement of unit components.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_018103276.jpg"></center>
+      </div>
+   </body>
+</html>

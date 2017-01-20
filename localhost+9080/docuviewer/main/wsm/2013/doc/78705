@@ -1,0 +1,44 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCa622cb682b2310058214d17ffc81d1d2"></a>Bleeding of the ABS hydraulic system
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5741"> </a>If brake controls feel “spongy” due to the presence of air bubbles in the system, bleed as usual, as described under Section
+            "<a href="77259.html#DUC4261033029fa1005800f816ce97b3fd2">Changing the front brake system fluid</a>" and "<a href="77261.html#DUC957e61d829fb1005804484b414d9e1d2"> Changing the rear brake system fluid</a>".
+         </div>
+         <div class="Testo"><a name="d3e5749"> </a>Before bleeding a brake cylinder, move back the calliper pistons to drain in the cylinder any air build-up near the ABS control
+            unit.
+         </div>
+         <div class="Testo"><a name="d3e5751"> </a>Purge must be carried out by means of the corresponding joints (A) placed near the callipers and the brake pumps.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e5754"> </a>Do not undo the fixing screws of the joints of the pipes on the ABS hydraulic control unit, unless control unit replacement
+         is necessary.
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e5757"> </a>If the ABS hydraulic control unit has been replaced, it will be supplied with the secondary circuit already filled with fluid.
+         Control unit must thus be assembled and the system filled and drained as a traditional system.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_012803251.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_012903252.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_013003253.jpg"></center>
+      </div>
+   </body>
+</html>

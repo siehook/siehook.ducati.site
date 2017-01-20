@@ -1,0 +1,280 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC896474a8257a10058ca6f04d994144d2"></a>Description of the clutch assembly
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14542"> </a>The clutch is disengaged by a drive unit consisting of a thrust piston (C) accommodated inside a small cap mounted to the
+            generator cover. This piston (C) pushes a pushrod (B), which runs through gearbox primary shaft and operates the pressure
+            plate&nbsp;(1) located on top of the clutch plate pack (2).
+         </div>
+         <div class="Testo"><a name="d3e14544"> </a>Drive is transmitted from the crankshaft to the gearbox primary shaft by a gear integrated with the clutch housing/primary
+            drive gear pair (A).
+         </div>
+         <div class="Testo"><a name="d3e14546"> </a>Accommodated in the clutch housing is a set of drive and driven plates (2). When the clutch is operated, the driven plates
+            push away a drum (3) which is splined onto the gearbox primary shaft.
+         </div>
+         <div class="Testo"><a name="d3e14548"> </a>Before working on the internal clutch parts, check that the clutch operates correctly. Then deal with the problem in a systematic
+            manner.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_028602020.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14553"> </a>The following is a list of possible causes of clutch malfunction.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14556"> </a>A clutch which does not disengage may be caused by:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14560"> </a>excessive play of the control lever;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14563"> </a>distorted clutch plates;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14566"> </a>incorrect spring tension;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14569"> </a>faulty clutch release mechanism;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14572"> </a>excessive wear of the hub or clutch drum.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14575"> </a>A clutch which slips may be caused by:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14579"> </a>insufficient play of the control lever;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14582"> </a>worn clutch plates;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14585"> </a>weakened springs;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14588"> </a>faulty clutch release mechanism;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14591"> </a>excessive wear of the hub or clutch drum.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14594"> </a>A noisy clutch may be caused by:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14598"> </a>excessive backlash between the primary drive gears;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14601"> </a>damaged primary drive gear teeth;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14604"> </a>excessive play between friction plate tabs and the clutch drum;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14607"> </a>worn gear/clutch drum bearings;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14610"> </a>the presence of metal particles (filings) on the gear teeth.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+   </body>
+</html>

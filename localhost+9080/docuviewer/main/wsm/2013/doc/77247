@@ -1,0 +1,262 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCd8b8daa029f610058c32ed44952c77d2"></a>Checking valve clearance
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1637"> </a>To check the valves clearance, it is necessary to have access to the cylinder head covers and then remove the components listed
+            below.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1640"> </a>Remove both seats (<a href="77991.html#DUC7dd8e1d82a971005810ccc3160c450d2">Removing the seat</a>).
+         </div>
+         <div class="Testo"><a name="d3e1645"> </a>Remove the left and right-hand side instrument panel (<a href="77975.html#DUCc08298b82a73100585b0e07f17a720d2">Removing the panel</a>).
+         </div>
+         <div class="Testo"><a name="d3e1650"> </a>Remove the front half-fairing (<a href="77983.html#DUC6b420cf82a8210058217e66c96b901d2">Removing the front half-fairing</a>).
+         </div>
+         <div class="Testo"><a name="d3e1655"> </a>Remove the tank fairings (<a href="77987.html#DUC104f7d582a9610058109cc3160c450d2">Removing the tank fairings</a>).
+         </div>
+         <div class="Testo"><a name="d3e1660"> </a>Remove the fuel tank (Removing the fuel tank<a href="79858.html#DUC4747a3202b2310058d67a5fdf30dcfc4"></a>).
+         </div>
+         <div class="Testo"><a name="d3e1664"> </a>Remove the filter box without disconnecting the throttle control cables and duly supporting it (<a href="79870.html#DUC50db19582b2310058d68a5fdf30dcfc4">Removing filter box and throttle body</a>).
+         </div>
+         <div class="Testo"><a name="d3e1669"> </a>Remove the coils.
+         </div>
+         <div class="Testo"><a name="d3e1671"> </a>Undo the upper retaining screws of the timing belt covers (<a href="45036.html#DUC5af7ddf82516100581d2e6ffb59083d2">Removing the timing outer covers</a>).
+         </div>
+         <div class="Testo"><a name="d3e1676"> </a>Remove the cylinder head covers (<a href="45072.html#DUC92cac200251a100584bad8c3784850d2">Removing the camshafts</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1682"> </a>Undo the two retaining screws (1) of the centre cap (2) over the end of the crankshaft.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_006302782.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1687"> </a>Fit the tool handgrip (E) part no. <span class="bold">88713.0123</span> in the holes of the generator cover to be able to turn the crankshaft so that the valve on which the control is carried out
+            is in rest position.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_006402783.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1695"> </a>With the valve in the rest position, slide a feeler gauge between rocker arm slider (A) and the lowest side of the cam (B)
+            to measure the clearance.
+         </div>
+         <div class="Testo"><a name="d3e1697"> </a>The clearance must be within the specified limits:
+         </div>
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e1708"> </a>Opening rocker arm
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;</th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" colspan="2" align="center" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1714"> </a>Intake
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1718"> </a>Operation
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1721"> </a>0.13 to 0.18&nbsp;mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1725"> </a>Checking clearance
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1728"> </a>0.10 to 0.25&nbsp;mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" align="center" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1732"> </a>Exhaust
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1736"> </a>Operation
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1739"> </a>0.13 to 0.18&nbsp;mm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1743"> </a>Checking clearance
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1746"> </a>0.10 to 0.25&nbsp;mm
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_006502784.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_006602785.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1754"> </a>With the valve in the rest position, slide a feeler gauge between closing rocker arm slider (C) and the highest side of the
+            cam (D) to&nbsp;measure the clearance.
+         </div>
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e1765"> </a>Closing rocker arm
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;</th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" colspan="2" align="center" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1771"> </a>Intake
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1775"> </a>Operation
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1778"> </a> 0.05 to 0.10&nbsp;mm 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1782"> </a>Checking clearance
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1785"> </a> 0.05 to 0.15 mm 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" colspan="2" align="center" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1789"> </a>Exhaust
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1793"> </a>Operation
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1796"> </a> 0.05 to 0.10&nbsp;mm 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1800"> </a>Checking clearance
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e1803"> </a> 0.05 to 0.15 mm 
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_006702786.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_006802787.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_006902788.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1812"> </a>If detected values exceed the specified limits, replace opening and/or closing shims, as described in paragraph “<a href="45089.html#DUCdf2d2f98251a100584bdd8c3784850d2">Removing the valves</a>”, with one featuring an adequate height to obtain the specified clearance.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e1818"> </a>Opening rocker arm shims measuring from 1.8 to 3.45 and closing rocker arm shims from 2.2 to 4.5 are available as spare parts:
+         the size is punched on the shim.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1821"> </a>Remove tool handle (E) part no. <span class="bold">88713.0123</span> from generator cover hole.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_006402783.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1829"> </a>Make sure that the O-ring (3) is installed in the cover (2).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_007002789.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1835"> </a>Refit cover (2) and tighten the two retaining screws (1) to a torque of 10 Nm (Min. 9 Nm - Max. 11 Nm).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_006302782.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e1840"> </a>Refit the cylinder head covers (<a href="45078.html#DUC388127a0256810058981df0f9b3366d2">Refitting the camshafts</a>).
+         </div>
+         <div class="Testo"><a name="d3e1845"> </a>Tighten the upper retaining screws of the timing belt covers (<a href="45058.html#DUC3ceb11c8251a100584b8d8c3784850d2">Refitting the timing outer covers</a>).
+         </div>
+         <div class="Testo"><a name="d3e1850"> </a>Refit the coils.
+         </div>
+         <div class="Testo"><a name="d3e1852"> </a>Refit the filter box (<a href="79872.html#DUC528844882b2310058d68a5fdf30dcfc4">Refitting filter box and throttle body</a>).
+         </div>
+         <div class="Testo"><a name="d3e1857"> </a>Refit the fuel tank (Refitting the fuel tank<a href="79868.html#DUC4f6912c82b2310058d68a5fdf30dcfc4"></a>).
+         </div>
+         <div class="Testo"><a name="d3e1861"> </a>Refit the tank fairings (<a href="77989.html#DUCad6937a02a961005810acc3160c450d2">Refitting the tank fairings</a>).
+         </div>
+         <div class="Testo"><a name="d3e1866"> </a>Refit the front half-fairing (<a href="77985.html#DUC1ccd37182a8810058cfc8ef6d8d608d2">Refitting the front half-fairing</a>).
+         </div>
+         <div class="Testo"><a name="d3e1871"> </a>Refit the left and right-hand side instrument panel (<a href="77977.html#DUC2fbfd0b02a74100585b5e07f17a720d2">Refitting the panel</a>).
+         </div>
+         <div class="Testo"><a name="d3e1876"> </a>Refit both seats (<a href="77997.html#DUC853ddbd82a9a10058426b9f0263a2cd2">Refitting the seat</a>).
+         </div>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,992 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCd53d8aa02c27100585fed307bcff45d2"></a>Key to system wiring diagram
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">1 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e11"> </a>Right-hand switch
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">2 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14"> </a>Immobilizer
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">3 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17"> </a>Hands Free relay
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">4 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e20"> </a>Hands free
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">5 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e23"> </a>Front fuse box
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">6 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e26"> </a>Right fan
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">7 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e29"> </a>Left fan
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">8 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e32"> </a>ABS fuse box
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">9 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e35"> </a>Fuel pump relay
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">10 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e38"> </a>Ride-by-wire relay (ETV)
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">11 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e41"> </a>Injection control unit (EMS)
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">12 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e45"> </a>Navigator
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">13 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e48"> </a>Left 12V power outlet
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">14 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e51"> </a>Right 12V power outlet
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">15 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e54"> </a>Rear fuse box
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">16 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e57"> </a>Data Acquisition/Diagnosis
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">17 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e60"> </a>Starter motor
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">18 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e63"> </a>Secondary air actuator
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">19 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e66"> </a>Fused solenoid
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">20 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e69"> </a>Battery
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">21 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e72"> </a>Wiring ground
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">22 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e75"> </a>Regulator
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">23 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e79"> </a>Generator
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">24 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e82"> </a>Fuel pump
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">25 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e85"> </a>Fuel level
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">26 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e88"> </a>Rear right turn indicator
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">27 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e91"> </a>Rear light
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">28 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e94"> </a>Rear left turn indicator
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">29 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e97"> </a>Rear wiring loom
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">30 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e100"> </a>Vehicle control unit (BBS)
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">31 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e103"> </a>Antitheft alarm
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">32 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e106"> </a>Exhaust valve starter motor
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">33 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e109"> </a>Gear sensor
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">34 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e113"> </a>Rear speed sensor
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">35 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e116"> </a>ABS control unit
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">36 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e119"> </a>Throttle twistgrip position sensor (APS)
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">37 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e122"> </a>Potentiometer motor / ride-by-wire (TPS/ETV)
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">38 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e125"> </a>Timing/rpm sensor
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">39 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e128"> </a>Vertical MAP sensor
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">40 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e131"> </a>Horizontal MAP sensor
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">41 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e134"> </a>Engine temperature
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">42 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e137"> </a>Air temperature sensor
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">43 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e140"> </a>Vertical lambda sensor
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">44 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e143"> </a>Horizontal lambda sensor
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">45 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e147"> </a>Oil pressure switch
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">46 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e150"> </a>Rear stop
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">47 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e153"> </a>Side stand switch
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">48 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e156"> </a>Clutch switch
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">49 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e159"> </a>Front stop
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">50 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e162"> </a>Main vertical injector
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">51 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e165"> </a>Main horizontal injector
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">52 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e168"> </a>Horizontal coil
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">53 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e171"> </a>Vertical coil
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">54 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e174"> </a>Left-hand switch
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">55 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e177"> </a>Horn
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">56 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e181"> </a>Front speed sensor
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">57 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e184"> </a>Antitheft alarm led
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">58 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e187"> </a>Front left turn indicator
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">59 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e190"> </a>Instrument panel
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">60 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e193"> </a>Front right turn indicator
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">61 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e196"> </a>High beam relay
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">62 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e199"> </a>Low beam
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">63 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e202"> </a>Left high beam headlight
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">64 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e205"> </a>Right high beam headlight
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">65 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e208"> </a>ABS serial line
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,48 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC6e530d982aeb100584ceb8bb6ec21ad2"></a>Overhauling the rear wheel
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3835"> </a>Check wheel rim conditions.
+         </div>
+         <div class="Testo"><a name="d3e3837"> </a>As wheel rim has no bearings, duly support it with special service shaft (A) no. <span class="bold">88713.2951</span>.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e3843"> </a>This service shaft can be also used to assemble the wheel on the balancing machine.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_0801_7_001900919.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e3848"> </a>Overhauling the wheel rim
+         </div>
+         <div class="Testo"><a name="d3e3850"> </a>Inspect the wheel rim as follows.
+         </div>
+         <div class="Testo"><a name="d3e3852"> </a>Visually inspect the rim for cracks, scoring and deformation: change the rim if damaged.
+         </div>
+         <div class="Testo"><a name="d3e3854"> </a>Fit the wheel rim on the service shaft no. <span class="bold">88713.2951</span> using the original fasteners.
+         </div>
+         <div class="Testo"><a name="d3e3859"> </a>Using a dial gauge, measure rim run-out and out-of-round relative to the shaft axis (<a href="50510.html#DUC8c293ad82968100587cee8e482a98fd2">Rear wheel</a>).
+         </div>
+         <div class="Testo"><a name="d3e3864"> </a>If the values measured are not within the tolerance limits, renew the wheel.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_001503110.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_001603111.jpg"></center>
+      </div>
+   </body>
+</html>

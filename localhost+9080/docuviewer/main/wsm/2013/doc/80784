@@ -1,0 +1,27 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC81d14f402b7410058c2787d9909970d2"></a>Rear suspension system
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e7646"> </a>The rear suspension system uses a hydraulic single shock absorber (1) adjustable for rebound and spring preload.
+         </div>
+         <div class="Testo"><a name="d3e7648"> </a>Shock absorber pivots onto a swinging arm at the bottom and rear subframe at the top. This system makes the motorcycle extremely
+            stable.
+         </div>
+         <div class="Testo"><a name="d3e7650"> </a>For rear shock absorber adjustment, refer to Section "<a href="77285.html#DUC1198eba02a5e10058d51d82abd9709d2">Adjusting the rear shock absorber</a>" for the base version or Section "<a href="77776.html#DUCa414a5502a5e10058d55d82abd9709d2"> Adjusting the rear shock absorber</a>" for the Pikes Peak, Granturismo or Touring versions.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_024203381.jpg"></center>
+      </div>
+   </body>
+</html>

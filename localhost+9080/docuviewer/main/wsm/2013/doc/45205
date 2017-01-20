@@ -1,0 +1,71 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC4ae620a825a4100582b8b7cf0bc2f3d2"></a>Refitting the timing gears
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16667"> </a>Before reassembling the removed parts, check timing gears (6) for wear. Change, if necessary.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e16670"> </a>The two timing gears must always be replaced as a pair.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16673"> </a>Refitting is the reverse of removal.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16676"> </a>When introducing the driven gear (B) check that the tongue (5) is correctly fitted on the timing system shaft, align the gear
+            slot with the tongue matching the driving gear timing mark (A) with the gear (B).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_045902199.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_046002200.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16683"> </a>Under gear (A) there must be spacer (7).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_056502345.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16688"> </a>At the end of the refitting operations, check that washer (3) is staked against nut (4) so as to prevent the nut from working
+            loose.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_045702197.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e16694"> </a>Refit the generator cover and the flywheel/generator unit (<a href="45184.html#DUCe2a16b98259310058919eb60359b4bd2">Refitting the flywheel/generator unit</a>).
+         </div>
+         <div class="Testo"><a name="d3e16699"> </a>Refit the water pump/radiator pipes (<a href="44926.html#DUC62ddf200250210058a868a10427928d2">Refitting cooling system pipes and unions</a>).
+         </div>
+         <div class="Testo"><a name="d3e16704"> </a>Refit the pump-cylinder hoses (<a href="45120.html#DUC24353f28257910058ca3f04d994144d2">Refitting the cylinder/piston assembly</a>).
+         </div>
+         <div class="Testo"><a name="d3e16709"> </a>Refill the cooling system (<a href="77257.html#DUCf34a5aa829f91005800d816ce97b3fd2">Changing the coolant</a>).
+         </div>
+         <div class="Testo"><a name="d3e16714"> </a>Refit the clutch slave cylinder (<a href="78740.html#DUC1fe52c982b2410058cedd30e2bfae6c4">Refitting the clutch slave cylinder</a>).
+         </div>
+         <div class="Testo"><a name="d3e16719"> </a>Refit the sprocket cover (<a href="79976.html#DUC6a6ab4402b2410058de4ee3905e05ec4">Refitting the front sprocket</a>).
+         </div>
+         <div class="Testo"><a name="d3e16724"> </a>Fill the system with engine oil (<a href="77245.html#DUCc57ed0d029f510058c2bed44952c77d2">Changing engine oil and filter cartridge</a>).
+         </div>
+         <div class="Testo"><a name="d3e16729"> </a>Refit the oil sump guard (<a href="78008.html#DUC69eeed302aaa10058bbcf20939ae18d2">Refitting the oil sump guard</a>).
+         </div>
+      </div>
+   </body>
+</html>

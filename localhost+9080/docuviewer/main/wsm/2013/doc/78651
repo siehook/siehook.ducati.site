@@ -1,0 +1,102 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC46e6b3b02afd100587d28d91941052d2"></a>Refitting the rear brake control
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4347"> </a>If removed, apply recommended threadlocker to screw (17), install brake cylinder control rod (18) with spacer (19) and tighten
+            screw (17) to 10 Nm ±10%.
+         </div>
+         <div class="Testo"><a name="d3e4349"> </a>Make sure that the adjustment screw (20) and nut (21) setting is the specified one.
+         </div>
+         <div class="Testo"><a name="d3e4351"> </a>Apply grease on the internal surface of the bush (10) and threadlocker on the pin (6).
+         </div>
+         <div class="Testo"><a name="d3e4353"> </a>Install O-ring (11) onto pin (6).
+         </div>
+         <div class="Testo"><a name="d3e4355"> </a>Insert pin (6) on brake control lever (7), fit the other O-ring (11) and washer (9).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_005603170.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_006103171.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_005703172.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4364"> </a>Reconnect the hose (14), locating the sealing washers (15) on both sides of the union, and secure it with the special screw
+            (12) and hose (16) securing it with the hose clip (13).
+         </div>
+         <div class="Testo"><a name="d3e4366"> </a>Tighten the special screw (12) to a torque of 23 Nm ±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_005803173.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e4371"> </a>Pay special attention to hose orientation on rear brake cylinder.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_041704544.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4376"> </a>Apply recommended threadlocker on pin (6).
+         </div>
+         <div class="Testo"><a name="d3e4378"> </a>Install brake control lever (7) with spring (8), and start pin (6) in its hole.
+         </div>
+         <div class="Testo"><a name="d3e4380"> </a>Position the end (A) of spring (8) as shown.
+         </div>
+         <div class="Testo"><a name="d3e4382"> </a>Tighten pin (6) to a torque of 23 Nm ±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_006203175.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4388"> </a>Refit the rear brake (1) fixing bracket (5) on rear brake control (7).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_005103156.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4393"> </a>Apply the recommended threadlocker on the screws (2).
+         </div>
+         <div class="Testo"><a name="d3e4395"> </a>Position the rear brake master cylinder (3) on the vehicle and insert the fixing screws (2).
+         </div>
+         <div class="Testo"><a name="d3e4397"> </a>Insert the rod (4) inside the master cylinder (3), after applying the recommended grease.
+         </div>
+         <div class="Testo"><a name="d3e4399"> </a>Tighten the screws (2) to a torque of 10 Nm ±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_006303176.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4404"> </a>Connect rear stop switch (1) to main wiring.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_004903153.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4409"> </a>For position of hoses (14) and (16) and hose clips, comply with the provisions under Section "<a href="78699.html#DUC690d85c02b1310058c6793c8b30eb8d2">Routing wiring harnesses / hoses</a>" for the base version or under Section "<a href="78701.html#DUCba4d95002b1410058c6b93c8b30eb8d2">Routing wiring harnesses / hoses</a>" for the Pikes Peak, Granturismo or Touring versions.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4418"> </a>Fill the rear braking system (<a href="77261.html#DUC957e61d829fb1005804484b414d9e1d2">Changing the rear brake system fluid</a>).
+         </div>
+      </div>
+   </body>
+</html>

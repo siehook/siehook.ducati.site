@@ -1,0 +1,61 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC1e6098082b2410058cedd30e2bfae6c4"></a>Removing the clutch slave cylinder
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e6499"> </a>The clutch slave cylinder manufacturer advises against servicing the internal components of clutch slave cylinder due to the
+         safety critical nature of this component.
+      </div>
+      <div class="Testo"><a name="d3e6501"> </a>Incorrect overhaul can endanger rider and passenger safety.
+      </div>
+      <div class="Testo"><a name="d3e6503"> </a>The replacement operations shall be limited to the following components: clutch slave cylinder, bleed valve, seals and complete
+         clutch pushrod assembly.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6506"> </a>Drain the clutch system (<a href="77265.html#DUCa0b42f982a22100581ac94271418e7d2">Draining the clutch hydraulic circuit</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6512"> </a>Remove ties (A) and separate clutch line (2) from side stand cable (B).
+         </div>
+         <div class="Testo"><a name="d3e6514"> </a>Loosen screws (3) and take out clutch slave cylinder (1) keeping the O-ring (4) located inside it.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_008503278.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6519"> </a>Remove dust cap (5) and bleed valve (6), and undo screw (7), taking care not to damage sealing washers (8): unit (1) has been
+            released from hose (2).
+         </div>
+         <div class="Testo"><a name="d3e6521"> </a>Push the piston to force out all the fluid from inside the cap.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_013403279.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6526"> </a>At this point, it is possible to slide also the clutch pushrod (9). Check the two O-rings (10) for wear and, if necessary,
+            replace them.
+         </div>
+         <div class="Testo"><a name="d3e6528"> </a>If the two O-rings (10) are renewed, also change O-ring (4) of unit (1).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_018303280.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_018403281.jpg"></center>
+      </div>
+   </body>
+</html>

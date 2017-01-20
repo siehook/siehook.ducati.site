@@ -1,0 +1,133 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC6991e1602507100584d1b5bb0033ffd2"></a>Checking the engine timing
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12034"> </a>Remove the seat (<a href="77991.html#DUC7dd8e1d82a971005810ccc3160c450d2">Removing the seat</a>).
+         </div>
+         <div class="Testo"><a name="d3e12039"> </a>Remove the rear right side body panel (<a href="77993.html#DUCa04e3f602a971005810ecc3160c450d2">Removing side body panels and tail guard</a>).
+         </div>
+         <div class="Testo"><a name="d3e12044"> </a>Remove the front half-fairings (<a href="77983.html#DUC6b420cf82a8210058217e66c96b901d2">Removing the front half-fairing</a>).
+         </div>
+         <div class="Testo"><a name="d3e12049"> </a>Remove the tank fairing (<a href="77987.html#DUC104f7d582a9610058109cc3160c450d2">Removing the tank fairings</a>).
+         </div>
+         <div class="Testo"><a name="d3e12054"> </a>Remove the fuel tank (Removing the fuel tank<a href="79858.html#DUC4747a3202b2310058d67a5fdf30dcfc4"></a>).
+         </div>
+         <div class="Testo"><a name="d3e12058"> </a>Remove the filter box (<a href="79870.html#DUC50db19582b2310058d68a5fdf30dcfc4">Removing filter box and throttle body</a>).
+         </div>
+         <div class="Testo"><a name="d3e12063"> </a>Remove the oil breather expansion reservoir (<a href="49889.html#DUCbc7f6478261b1005866ad8c33bc4a2d2">Removing the oil breather tank</a>).
+         </div>
+         <div class="Testo"><a name="d3e12068"> </a>Loosen the timing belt covers (<a href="45036.html#DUC5af7ddf82516100581d2e6ffb59083d2">Removing the timing outer covers</a>).
+         </div>
+         <div class="Testo"><a name="d3e12073"> </a>Loosen the water radiator retaining screws by leaving it connected to the cooling system (<a href="44918.html#DUC508f6558250110058a7e8a10427928d2">Removing the water radiator</a>).
+         </div>
+         <div class="Testo"><a name="d3e12078"> </a>Disconnect the caps from the spark plugs.
+         </div>
+         <div class="Testo"><a name="d3e12080"> </a>Disconnect the secondary air system from the cylinder head covers (<a href="79878.html#DUC452deae02b2310058d66a5fdf30dcfc4">Removing the secondary air system</a>).
+         </div>
+         <div class="Testo"><a name="d3e12086"> </a>Remove the cylinder head cover (<a href="45072.html#DUC92cac200251a100584bad8c3784850d2">Removing the camshafts</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12092"> </a>Set the engine to the condition previously described in “<a href="45030.html#DUCf38f8ae02505100586ba875a75e136d2">Checking and adjusting the valve clearance</a>. Install tool no. <span class="bold">88713.2087</span> (A) in the spark plug bore to determine the piston TDC, the gauges (B) on tool no. <span class="bold">88765.1518</span> and the timing check tool (degree wheel - (C) no. <span class="bold">88713.0123</span> with graduated disc).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_010401810.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_010501811.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12111"> </a>Set the opening valve clearance to zero when the camshaft is in its rest position by fitting a feeler gauge between the upper
+            rocker arm and the opening shim.
+         </div>
+         <div class="Testo"><a name="d3e12113"> </a>Check that in this condition the camshaft can rotate. If it moves stiffly, use a thinner feeler gauge.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_010601812.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12118"> </a>In this condition, with the piston of the horizontal cylinder at TDC with the valves fully closed as confirmed by the reading
+            on gauge (A), set the gauges (B) to zero.
+         </div>
+         <div class="Testo"><a name="d3e12120"> </a>Tension the belts as described in chapter "Checking and adjusting the timing belt tension".
+         </div>
+         <div class="Testo"><a name="d3e12122"> </a>Turn the degree wheel (C) anticlockwise until the gauge dial (B), on the exhaust side, shows a lift of 1 mm. Check that the
+            value of the angular displacement read on the degree wheel (C) is as specified (<a href="50494.html#DUC3f825678295a100581719858899a76d2">Timing system/valves</a>).
+         </div>
+         <div class="Testo"><a name="d3e12127"> </a>Continue to rotate in the same direction until you obtain a lift of 1 mm on the intake side. Check the angular value on the
+            degree wheel. Continue to rotate until you obtain an intake valve lift of 1 mm on the gauge (B), during closure of the valve
+            for the compression stroke. Check the angular value with the specified one (<a href="50494.html#DUC3f825678295a100581719858899a76d2">Timing system/valves</a>). Continue to rotate the degree wheel (C) counter clockwise until you obtain a lift of 1 mm of the exhaust valve, when opening
+            or closing the valve.
+         </div>
+         <div class="Testo"><a name="d3e12132"> </a>Check the angular displacement value against the specified value.
+         </div>
+         <div class="Testo"><a name="d3e12134"> </a>Repeat the procedure for the vertical cylinder.
+         </div>
+         <div class="Testo"><a name="d3e12136"> </a>A tolerance of ±3° is allowed in the values detected with the described procedure compared to the specified ones (<a href="50494.html#DUC3f825678295a100581719858899a76d2">Timing system/valves</a>).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_010401810.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_010501811.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12146"> </a>Remove the installed tools to check timing. Then tension the belts to the prescribed operation value.
+         </div>
+         <div class="Testo"><a name="d3e12148"> </a>In case of values different from the described ones (<a href="50494.html#DUC3f825678295a100581719858899a76d2">Timing system/valves</a>), loosen the fixing screws (D) of the timing belt rollers and correct the value detected by turning the ring nut of the timing
+            shaft with the supplied wrench (E) no. <span class="bold">88713.1806</span>.
+         </div>
+         <div class="Testo"><a name="d3e12156"> </a>Tighten the timing pulley three retaining screws (D) to 10 Nm (Min. 9 Nm - Max. 11 Nm) and mark the new position on the components.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_010701814.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_010801815.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12164"> </a>Refit the components removed in the procedure.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12167"> </a>Refit the cylinder head cover (<a href="45078.html#DUC388127a0256810058981df0f9b3366d2">Refitting the camshafts</a>).
+         </div>
+         <div class="Testo"><a name="d3e12172"> </a>Connect the caps to the spark plugs.
+         </div>
+         <div class="Testo"><a name="d3e12174"> </a>Connect the secondary air hose to the cylinder head (<a href="79880.html#DUC435821402b2310058d66a5fdf30dcfc4">Refitting the secondary air system</a>).
+         </div>
+         <div class="Testo"><a name="d3e12179"> </a>Fix the water radiator to the frame (<a href="44922.html#DUC8e956eb0250110058a828a10427928d2">Refitting the water radiator</a>).
+         </div>
+         <div class="Testo"><a name="d3e12184"> </a>Fix the timing belt covers (<a href="45058.html#DUC3ceb11c8251a100584b8d8c3784850d2">Refitting the timing outer covers</a>).
+         </div>
+         <div class="Testo"><a name="d3e12189"> </a>Refit the oil breather expansion reservoir (<a href="49891.html#DUC08b61e90261c1005866bd8c33bc4a2d2">Refitting the oil breather tank</a>).
+         </div>
+         <div class="Testo"><a name="d3e12194"> </a>Refit the filter box (<a href="79872.html#DUC528844882b2310058d68a5fdf30dcfc4">Refitting the filter box and the throttle body</a>).
+         </div>
+         <div class="Testo"><a name="d3e12199"> </a>Refit the fuel tank (Refitting the fuel tank<a href="79868.html#DUC4f6912c82b2310058d68a5fdf30dcfc4"></a>).
+         </div>
+         <div class="Testo"><a name="d3e12203"> </a>Refit the tank fairings (Refitting the tank<a href="77989.html#DUCad6937a02a961005810acc3160c450d2"> fairings</a>).
+         </div>
+         <div class="Testo"><a name="d3e12208"> </a>Refit the front half-fairings (<a href="77985.html#DUC1ccd37182a8810058cfc8ef6d8d608d2">Refitting the front half-fairing</a>).
+         </div>
+         <div class="Testo"><a name="d3e12213"> </a>Refit the right side body panel (<a href="77995.html#DUC521908882a9810058110cc3160c450d2">Refitting side body panels and tail guard</a>).
+         </div>
+         <div class="Testo"><a name="d3e12219"> </a>Refit the seat (<a href="77997.html#DUC853ddbd82a9a10058426b9f0263a2cd2">Refitting the seat</a>).
+         </div>
+      </div>
+   </body>
+</html>

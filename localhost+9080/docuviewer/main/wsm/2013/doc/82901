@@ -1,0 +1,272 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC596085a82c2810058b11f8591a4485d2"></a>Key to fuse box 
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e749"> </a>Front fuse box key
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_000103805.jpg"></center>
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e762"> </a>Pos
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e765"> </a>El. item
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e768"> </a>Rat.
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e773"> </a>1
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e776"> </a>Lights
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e779"> </a>20 A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e783"> </a>2
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e786"> </a>Instrument panel
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e789"> </a>10 A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e793"> </a>3
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e796"> </a>ECU
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e799"> </a>5 A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e803"> </a>4
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e806"> </a>Key-sense
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e809"> </a>10 A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e813"> </a>5
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e816"> </a>Injection solenoid
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e819"> </a>20 A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e823"> </a>6
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e826"> </a>Throttle opening starter motor solenoid (ETV)
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e829"> </a>10 A
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e832"> </a>Rear fuse box key
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_000203806.jpg"></center>
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e845"> </a>Pos
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e848"> </a>El. item
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e851"> </a>Rat.
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e856"> </a>1
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e859"> </a>Black Box System (BBS)
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e862"> </a>10 A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e866"> </a>2
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e869"> </a>BBS electromagnetic switch
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e872"> </a>10 A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e876"> </a>3
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e879"> </a>Power outlets/navigator/alarms
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e882"> </a>10 A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e886"> </a>4
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e889"> </a>Diagnosis
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e892"> </a>7.5 A
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e895"> </a>ABS fuse box key
+         </div>
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e906"> </a>Pos
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e909"> </a>El. item
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e912"> </a>Rat.
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e917"> </a>1
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e920"> </a>ABS 1
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e923"> </a>40 A
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e927"> </a>2
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e930"> </a>ABS 2
+                  </div>
+               </td>
+               <td rowspan="1" align="center" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e933"> </a>25 A
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e936"> </a>Main fuse
+         </div>
+         <div class="Testo"><a name="d3e938"> </a>The main fuse (D) is positioned in front of the rear fuse box, on solenoid starter (E). Remove the fuse cap (F) to reach it.
+         </div>
+         <div class="Testo"><a name="d3e940"> </a>Main fuse (D): 30 A.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_2_000303807.jpg"></center>
+      </div>
+   </body>
+</html>

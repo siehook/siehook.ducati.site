@@ -1,0 +1,36 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC5f365ac02afc100587c88d91941052d2"></a>Disassembling the rear brake control
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4324"> </a>The brake master cylinder is supplied only as a complete unit; internal components cannot be replaced.
+         </div>
+         <div class="Testo"><a name="d3e4326"> </a>To disassemble the master cylinder's outer parts, follow the indications given in the exploded view at the beginning of this
+            Section.
+         </div>
+         <div class="Testo"><a name="d3e4328"> </a>If the bush (10) inside the brake pedal (6) needs to be replaced, grease the external surface and fit the new bush using a
+            press to insert it. The bush must be placed at 2&nbsp;mm from the pedal external face.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4331"> </a>To disassemble the various parts of the system, refer to the exploded view at the beginning of this chapter.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_005503166.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4336"> </a>After servicing the rear brake control, check the brake pedal position following the instructions under Section "<a href="77281.html#DUCf3ae7b702a5b100582138189c241cfd2">Adjusting the position of the gear change and rear brake pedals</a>".
+         </div>
+      </div>
+   </body>
+</html>

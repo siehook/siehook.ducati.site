@@ -1,0 +1,450 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCc38382c825bb10058d42be8b2bb436d2"></a>Overhaul of the connecting rods
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e17790"> </a>Make the following dimensional checks on the connecting rods:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17794"> </a>clearance with gudgeon pin on assembly.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e17797"> </a>In case of excessive wear (<a href="50496.html#DUC7f0cb9c8295a100581729858899a76d2">Crankshaft</a>), replace the connecting rod.
+         </div>
+         <div class="Testo"><a name="d3e17802"> </a>The small end bushing must be in good condition and firmly driven into its seat.
+         </div>
+         <div class="Testo"><a name="d3e17804"> </a>Check for parallelism error measured at 100 mm from the connecting rod longitudinal axis: it must be H-h lower than 0.02 mm;
+            otherwise change the con-rod.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_053502275.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_053602276.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e17811"> </a>The connecting rod is supplied in two size classes A and B relative to the big end diameter (<a href="50496.html#DUC7f0cb9c8295a100581729858899a76d2">Crankshaft</a>) as punch marked on the side of the cap.
+         </div>
+         <div class="Testo"><a name="d3e17816"> </a>It is preferable to use crankshafts and connecting rods of the same size class.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_053702277.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e17821"> </a>Renewal of the small end bushing
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e17824"> </a>To remove the worn bushing, use a suitable drift and a press.
+         </div>
+         <div class="Testo"><a name="d3e17826"> </a>When fitting the new bush it is necessary to align bush hole (X) with con-rod hole (Y).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_053803320.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e17832"> </a>Connecting rod big end bearings
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e17835"> </a>It is good practice to renew the bearings (3) each time the engine is overhauled.
+         </div>
+         <div class="Testo"><a name="d3e17837"> </a>Replacement bearings are supplied ready for assembly and they must not be reworked with scrapers or emery cloth.
+         </div>
+         <div class="Testo"><a name="d3e17839"> </a>They belong to two dimensional classes identified by a colour (YELLOW and BLUE) - reference (S) in figure.
+         </div>
+         <div class="Testo"><a name="d3e17841"> </a>The bearings are comprised of an external steel ring, the inner face of which is electro-plated with a lead-based compound.
+         </div>
+         <div class="Testo"><a name="d3e17843"> </a>The table shows the appropriate bearings to be fitted according to the size class of the crankshaft and connecting rod.
+         </div>
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e17853"> </a>Crankshaft class
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e17856"> </a>Con-rod class
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e17859"> </a>Bearings colour
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17865"> </a>B
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17868"> </a>B
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17871"> </a>BLUE/YELLOW
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17875"> </a>B
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17878"> </a>A
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17881"> </a>YELLOW/YELLOW
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17885"> </a>A
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17888"> </a>B
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17891"> </a>BLUE/BLUE
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17895"> </a>A
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17898"> </a>A
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e17901"> </a>BLUE/YELLOW
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_053902280.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e17906"> </a>Crankshaft
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e17909"> </a>The main bearing and big end journals must not be scored or grooved; threads, keyways and splines must be in good conditions.
+         </div>
+         <div class="Testo"><a name="d3e17911"> </a>Check for fretting or burrs in the fillet between journal and shoulder.
+         </div>
+         <div class="Testo"><a name="d3e17913"> </a>Fillet radius: 2&nbsp;mm.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_054002281.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e17918"> </a>Use a micrometer to measure oval and taper of the crank pin. Measure oval and taper in several different directions.
+         </div>
+         <div class="Testo"><a name="d3e17920"> </a>Use a dial gauge to measure the alignment of the main journals by setting the crankshaft between two opposing centres.
+         </div>
+         <div class="Testo"><a name="d3e17922"> </a>At each overhaul, it is advisable to clean the crankshaft’s internal oilways.
+         </div>
+         <div class="Testo"><a name="d3e17924"> </a>The specified values are indicated in Section "<a href="50496.html#DUC7f0cb9c8295a100581729858899a76d2">Crankshaft</a>".
+         </div>
+         <div class="Testo"><a name="d3e17929"> </a>The crankshaft is supplied in two size classes (crank pin) A and B, as punch marked (P) on the side of the crank web on the
+            pinion side.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_054102282.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_053702277.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e17936"> </a>Loosen all crankshaft plugs (2) and (3), heating the crankshaft, if necessary, to remove the sealant applied upon assembly.
+         </div>
+         <div class="Testo"><a name="d3e17938"> </a>Clean all the oilways using suitable diameter metal brushes and then blow with compressed air to remove any residues that
+            have accumulated and are restricting the oil flow.
+         </div>
+         <div class="Testo"><a name="d3e17940"> </a>Apply recommended threadlocker on the plug threads (2) and (3) and reinstall them.
+         </div>
+         <div class="Testo"><a name="d3e17942"> </a>Tighten all plugs to a torque of 13 Nm (Min. 11 Nm - Max. 15 Nm).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_054202283.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_064603321.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_064703322.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e17952"> </a>Big-end bearing-crank pin clearance
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e17955"> </a>To pair the big-end bearings - crank pin, it is necessary to proceed as follows:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17959"> </a>smear a bead (A) of “Plastigauge PG-1 GREEN” on the crank pin;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17962"> </a>fit the original con-rod and big-end bearings.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e17965"> </a><span class="bold">Tightening procedure</span></div>
+         <div class="Testo"><a name="d3e17968"> </a>Tighten the connecting rod screws (Class 14.9) as described below:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17972"> </a>apply specified threadlocker on the thread;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17975"> </a>tighten the screw to a torque of 35 Nm ± 10% at 50 rpm;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17978"> </a>after a 2-second pause, loosen by 360° at 30 rpm;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17981"> </a>tighten to a snug torque of 20 Nm ± 10% at 30 rpm;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17984"> </a>tighten to a snug torque of 35 Nm ± 10% at 10 rpm;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17987"> </a>tighten by turning 65°±1° at 14 rpm;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17990"> </a>Check the applied tightening torque (Min. 70 Nm - Max. 113 Nm).
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e17993"> </a>Continue the pairing procedure as follows:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e17997"> </a>loosen the screws and remove the con-rod;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e18000"> </a>check the thickness of “Plastigauge PG-1 GREEN” (A), using the special reference tool (B);
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e18003"> </a>the thickness measured with tool (B) is the actual clearance: if the clearance is not within the specified limits (<a href="50496.html#DUC7f0cb9c8295a100581729858899a76d2">Crankshaft</a>), it is necessary to replace bearing shells or the crankshaft and repeat the procedure;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e18009"> </a>If the clearance value is within the specified limits, thoroughly clean the crankshaft from “Plastigauge PG-1 GREEN” (A) and
+                           repeat the described tightening procedure.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_064803330.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_064903331.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_054402285.jpg"></center>
+      </div>
+   </body>
+</html>

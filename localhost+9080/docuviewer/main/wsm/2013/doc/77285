@@ -1,0 +1,68 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC11c0e6002a5e10058d52d82abd9709d2"></a>Adjusting the rear shock absorber
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3064"> </a>The shock absorber has external adjusters that enable you to adjust the set up to suit the load on the motorcycle.
+         </div>
+         <div class="Testo"><a name="d3e3066"> </a>The adjuster (1) on the shock absorber expansion reservoir controls compression damping.
+         </div>
+         <div class="Testo"><a name="d3e3068"> </a>Undo the screws (5) and remove the cover (4) to reach adjuster (1).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_015202872.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_015302873.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3075"> </a>The adjuster&nbsp;(2), located on the left-hand side at the point at which the shock absorber is fixed to the swinging arm, controls
+            rebound damping.
+         </div>
+         <div class="Testo"><a name="d3e3077"> </a>Turn the adjusters (1) and (2) clockwise to stiffen the damping or anticlockwise to soften it.
+         </div>
+         <div class="Testo"><a name="d3e3079"> </a>The adjuster knob (3), located on the left side of the motorcycle, adjusts the preload of the shock absorber external spring.
+            Follow the instructions on the knob.
+         </div>
+         <div class="Testo"><a name="d3e3081"> </a>STANDARD setting corresponds to minimum position of adjuster knob (LOW).
+         </div>
+         <div class="Testo"><a name="d3e3083"> </a>STANDARD preloaded spring length on shock absorber: 162±1.5 mm.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_015402874.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3088"> </a>STANDARD setting:
+         </div>
+         <div class="Testo"><a name="d3e3090"> </a>from fully closed (clockwise) loosen:
+         </div>
+         <div class="Testo"><a name="d3e3092"> </a>adjuster (1) by 1.5 clicks; 
+         </div>
+         <div class="Testo"><a name="d3e3094"> </a>adjuster (2) by 9 clicks.
+         </div>
+         <div class="Testo"><a name="d3e3096"> </a>Spring preload: 18 mm (Max. 18 mm - Min. 25 mm)
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e3099"> </a>The shock absorber is filled with high-pressure gas and can cause injuries if removed by unskilled personnel.
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e3102"> </a>If the motorcycle is to be ridden with a pillion rider and luggage, we recommend setting the rear shock absorber spring preload
+         to the maximum to ensure the best handling and proper ground clearance at all times. It may also be necessary to adjust the
+         rebound damping accordingly.
+      </div>
+   </body>
+</html>

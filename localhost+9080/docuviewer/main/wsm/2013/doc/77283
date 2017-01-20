@@ -1,0 +1,105 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC768994f82a5c100582208189c241cfd2"></a>Adjusting the front fork
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2998"> </a>The front fork can be adjusted in rebound, compression and spring preload.
+         </div>
+         <div class="Testo"><a name="d3e3000"> </a>This adjustment is done using the outer adjusters:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">1 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e3004"> </a>to adjust rebound damping;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">2 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e3007"> </a>to adjust internal spring preload
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">3 </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e3010"> </a>to adjust compression damping.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3013"> </a>Park the motorcycle in a stable position on its side stand.
+         </div>
+         <div class="Testo"><a name="d3e3015"> </a>Turn adjuster (1), set on the top of each fork leg, with a flat screwdriver to adjust rebound damping.
+         </div>
+         <div class="Testo"><a name="d3e3017"> </a>Turn the adjuster (3) on the bottom of each fork leg with a flat-blade screwdriver to adjust the compression damping setting.
+         </div>
+         <div class="Testo"><a name="d3e3019"> </a>As you turn the adjusters (1) and (3), you will hear them click. Each click corresponds to different damping setting.
+         </div>
+         <div class="Testo"><a name="d3e3021"> </a>The stiffest damping setting is obtained with the adjuster turned fully clockwise to the “0” position.
+         </div>
+         <div class="Testo"><a name="d3e3023"> </a>Start with this position and turn anticlockwise. Count the clicks, which correspond to position 1, 2 and so forth.
+         </div>
+         <div class="Testo"><a name="d3e3025"> </a>To change the preload of the spring inside each fork leg, turn the hex. adjuster (2): every full turn clockwise corresponds
+            to 1 mm of spring preload, up to a maximum of 15 mm.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_015002870.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_015102871.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3032"> </a>The STANDARD factory settings are as follows:
+         </div>
+         <div class="Testo"><a name="d3e3034"> </a>compression: 1 and a half turns;
+         </div>
+         <div class="Testo"><a name="d3e3036"> </a>rebound: 2 turns.
+         </div>
+         <div class="Testo"><a name="d3e3038"> </a>Spring preload: (A): 15 mm.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e3041"> </a>Set both leg adjusters on the same positions.
+      </div>
+   </body>
+</html>

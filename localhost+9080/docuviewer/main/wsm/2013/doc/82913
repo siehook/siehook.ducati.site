@@ -1,0 +1,1055 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCeb2985702c2810058b12f8591a4485d2"></a>Routing of wiring on frame
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e957"> </a>Table
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e960"> </a>Position
+                  </div>
+               </th>
+               <th rowspan="1">&nbsp;
+                  <div class="Testo"><a name="d3e963"> </a>Reference
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e968"> </a><a href="96034.html#DUC123021682e47100585e69e3bffbb3f9c">Table&nbsp;A</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e972"> </a>1
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e975"> </a>Vertical MAP sensor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e979"> </a><a href="96163.html#DUC8a6f1ad02e47100585e79e3bffbb3f9c">Table B</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e983"> </a>2
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e986"> </a>Injection control unit connector 1 (EMS)
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e990"> </a><a href="96163.html#DUC8a6f1ad02e47100585e79e3bffbb3f9c">Table B</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e994"> </a>3
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e997"> </a>Injection control unit connector 2 (EMS)
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1001"> </a><a href="96163.html#DUC8a6f1ad02e47100585e79e3bffbb3f9c">Table B</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1005"> </a>4
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1008"> </a>Injection relay
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1012"> </a><a href="96163.html#DUC8a6f1ad02e47100585e79e3bffbb3f9c">Table B</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1016"> </a>5
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1019"> </a>Ride-by-wire relay (ETV)
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1023"> </a><a href="96163.html#DUC8a6f1ad02e47100585e79e3bffbb3f9c">Table B</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1027"> </a>7
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1030"> </a>Horizontal MAP sensor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1034"> </a><a href="96163.html#DUC8a6f1ad02e47100585e79e3bffbb3f9c">Table B</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1038"> </a>8
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1041"> </a>Navigator (optional)
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1045"> </a><a href="96172.html#DUCa50058002e47100585ed9e3bffbb3f9c">Table C</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1049"> </a>9
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1052"> </a>High beam relay
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1057"> </a><a href="96172.html#DUCa50058002e47100585ed9e3bffbb3f9c">Table C</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1061"> </a>10
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1064"> </a>Front fuse box
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1068"> </a><a href="96172.html#DUCa50058002e47100585ed9e3bffbb3f9c">Table C</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1072"> </a>13
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1075"> </a>Hands Free relay
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1079"> </a><a href="96174.html#DUCdd5745882e47100585ef9e3bffbb3f9c">Table D</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1083"> </a>14
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1086"> </a>Instrument panel
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1091"> </a><a href="96174.html#DUCdd5745882e47100585ef9e3bffbb3f9c">Table D</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1095"> </a>15
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1098"> </a>Right high beam headlight
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1102"> </a><a href="96174.html#DUCdd5745882e47100585ef9e3bffbb3f9c">Table D</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1106"> </a>16
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1109"> </a>Low beam parking light
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1113"> </a><a href="96174.html#DUCdd5745882e47100585ef9e3bffbb3f9c">Table D</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1117"> </a>17
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1120"> </a>Front speed sensor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1124"> </a><a href="96174.html#DUCdd5745882e47100585ef9e3bffbb3f9c">Table D</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1128"> </a>18
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1131"> </a>Oil pressure switch
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1135"> </a><a href="96174.html#DUCdd5745882e47100585ef9e3bffbb3f9c">Table D</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1139"> </a>19
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1142"> </a>Left high beam headlight
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1146"> </a><a href="96174.html#DUCdd5745882e47100585ef9e3bffbb3f9c">Table D</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1150"> </a>21
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1153"> </a>Antitheft alarm led
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1157"> </a><a href="96179.html#DUC154e4b202e49100585f99e3bffbb3f9c">Table E-1</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1161"> </a>22
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1164"> </a>Front stop connector
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1168"> </a><a href="96179.html#DUC154e4b202e49100585f99e3bffbb3f9c">Table E-1</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1172"> </a>23
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1175"> </a>Front right turn indicator
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1179"> </a><a href="96179.html#DUC154e4b202e49100585f99e3bffbb3f9c">Table E-1</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1183"> </a>24
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1186"> </a>Right-hand switch
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1190"> </a><a href="96179.html#DUC154e4b202e49100585f99e3bffbb3f9c">Table E-1</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1194"> </a>25
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1197"> </a>Air temperature sensor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1201"> </a><a href="96179.html#DUC154e4b202e49100585f99e3bffbb3f9c">Table E-1</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1205"> </a>26
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1208"> </a>Hands free connector
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1213"> </a><a href="96179.html#DUC154e4b202e49100585f99e3bffbb3f9c">Table E-1</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1217"> </a>27
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1220"> </a>RH heated handgrip 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1224"> </a><a href="96179.html#DUC154e4b202e49100585f99e3bffbb3f9c">Table E-1</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1228"> </a>29
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1231"> </a>Secondary air actuator
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1235"> </a><a href="96179.html#DUC154e4b202e49100585f99e3bffbb3f9c">Table E-1</a></div>
+                  <div class="Testo"><a name="d3e1238"> </a><a href="96179.html#DUC4807d7e82e49100585fb9e3bffbb3f9c">Table E-2</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1242"> </a>30
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1245"> </a>Handfree - tank fuel cap connector
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1249"> </a><a href="96179.html#DUC4807d7e82e49100585fb9e3bffbb3f9c">Table E-2</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1253"> </a>31
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1256"> </a>Handfree - immobilizer connector
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1260"> </a><a href="96181.html#DUC6bcde4d82e49100585fb9e3bffbb3f9c">Table&nbsp;F</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1264"> </a>28
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1267"> </a>LH heated handgrip
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1271"> </a><a href="96181.html#DUC6bcde4d82e49100585fb9e3bffbb3f9c">Table&nbsp;F</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1275"> </a>32
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1278"> </a>Left-hand switch
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1282"> </a><a href="96181.html#DUC6bcde4d82e49100585fb9e3bffbb3f9c">Table&nbsp;F</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1286"> </a>33
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1289"> </a>Front left turn indicator
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1293"> </a><a href="96181.html#DUC6bcde4d82e49100585fb9e3bffbb3f9c">Table&nbsp;F</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1297"> </a>34
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1300"> </a>Clutch switch
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1305"> </a><a href="96183.html#DUC999b53c82e49100585fe9e3bffbb3f9c">Table&nbsp;G</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1309"> </a>36
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1312"> </a>Potentiometer motor / ride-by-wire (TPS/ETV)
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1316"> </a><a href="96183.html#DUC999b53c82e49100585fe9e3bffbb3f9c">Table&nbsp;G</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1320"> </a>37
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1323"> </a>Side stand switch
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1328"> </a><a href="96185.html#DUCb051eed82e49100586009e3bffbb3f9c">Table&nbsp;H</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1332"> </a>38
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1335"> </a>Main horizontal injector
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1341"> </a><a href="96185.html#DUCb051eed82e49100586009e3bffbb3f9c">Table&nbsp;H</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1345"> </a>39
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1348"> </a>Main vertical injector
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1353"> </a><a href="96185.html#DUCb051eed82e49100586009e3bffbb3f9c">Table&nbsp;H</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1357"> </a>40
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1360"> </a>Engine temperature
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1365"> </a><a href="96185.html#DUCb051eed82e49100586009e3bffbb3f9c">Table&nbsp;H</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1369"> </a>54
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1372"> </a>Vertical coil 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1377"> </a><a href="96185.html#DUCb051eed82e49100586009e3bffbb3f9c">Table&nbsp;H</a></div>
+                  <div class="Testo"><a name="d3e1380"> </a><a href="96187.html#DUCe381a5a02e49100586019e3bffbb3f9c">Table I</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1384"> </a>41
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1387"> </a>Wiring ground
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1391"> </a><a href="96187.html#DUCe381a5a02e49100586019e3bffbb3f9c">Table I</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1395"> </a>42
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1398"> </a>Left fan
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1402"> </a><a href="96187.html#DUCe381a5a02e49100586019e3bffbb3f9c">Table I</a></div>
+                  <div class="Testo"><a name="d3e1405"> </a><a href="99792.html#DUC7e4f85b02f13100589a99a60dbb0ae9c">Table&nbsp;T</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1409"> </a>44
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1412"> </a>Battery negative - ground cable
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1417"> </a><a href="96189.html#DUCef74f9202e49100586039e3bffbb3f9c">Table&nbsp;J</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1421"> </a>43
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1424"> </a>Horizontal coil
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1429"> </a><a href="96189.html#DUCef74f9202e49100586039e3bffbb3f9c">Table&nbsp;J</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1433"> </a>45
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1436"> </a>Timing/rpm sensor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1441"> </a><a href="96189.html#DUCef74f9202e49100586039e3bffbb3f9c">Table&nbsp;J</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1445"> </a>46
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1448"> </a> Right fan 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1453"> </a><a href="96189.html#DUCef74f9202e49100586039e3bffbb3f9c">Table&nbsp;J</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1457"> </a>47
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1460"> </a> Throttle twistgrip position sensor (APS) 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1465"> </a><a href="96189.html#DUCef74f9202e49100586039e3bffbb3f9c">Table&nbsp;J</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1469"> </a>48
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1472"> </a> Horn 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1477"> </a><a href="96191.html#DUC094f61a02e4a100586049e3bffbb3f9c">Table&nbsp;K</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1481"> </a>49
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1484"> </a> Horizontal lambda sensor 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1488"> </a><a href="96191.html#DUC094f61a02e4a100586049e3bffbb3f9c">Table&nbsp;K</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1492"> </a>50
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1495"> </a>Rear stop connector
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1499"> </a><a href="96193.html#DUC4b2fb3402e4a100586069e3bffbb3f9c">Table&nbsp;L</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1503"> </a>51
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1506"> </a>Fuel level
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1510"> </a><a href="96193.html#DUC4b2fb3402e4a100586069e3bffbb3f9c">Table&nbsp;L</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1514"> </a>52
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1517"> </a>Fuel pump
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1521"> </a><a href="96195.html#DUC53f71f182e4a100586079e3bffbb3f9c">Table&nbsp;M</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1525"> </a>53
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1528"> </a>Rear speed sensor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1532"> </a><a href="96195.html#DUC53f71f182e4a100586079e3bffbb3f9c">Table&nbsp;M</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1536"> </a>54
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1539"> </a>Vertical coil
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1543"> </a><a href="96195.html#DUC53f71f182e4a100586079e3bffbb3f9c">Table&nbsp;M</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1547"> </a>56
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1550"> </a>Gear sensor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1554"> </a><a href="96195.html#DUC53f71f182e4a100586079e3bffbb3f9c">Table&nbsp;M</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1558"> </a>57
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1561"> </a>Gear sensor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1565"> </a><a href="96195.html#DUC53f71f182e4a100586079e3bffbb3f9c">Table&nbsp;M</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1569"> </a>58
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1572"> </a>Left 12V power outlet
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1576"> </a><a href="96195.html#DUC53f71f182e4a100586079e3bffbb3f9c">Table&nbsp;M</a></div>
+                  <div class="Testo"><a name="d3e1579"> </a><a href="99789.html#DUC7bf230d82f131005899d9a60dbb0ae9c">Table&nbsp;S</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1583"> </a>84
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1586"> </a>Exhaust valve starter motor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1590"> </a><a href="99780.html#DUC7540cbf02f13100589799a60dbb0ae9c">Table&nbsp;O</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1594"> </a>61
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1597"> </a>ABS control unit
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1602"> </a><a href="99780.html#DUC7540cbf02f13100589799a60dbb0ae9c">Table&nbsp;O</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1606"> </a>62
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1609"> </a> Vertical lambda sensor cable 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1613"> </a><a href="99780.html#DUC7540cbf02f13100589799a60dbb0ae9c">Table&nbsp;O</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1617"> </a>63
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1620"> </a>Vertical lambda sensor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1624"> </a><a href="99780.html#DUC7540cbf02f13100589799a60dbb0ae9c">Table&nbsp;O</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1628"> </a>64
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1631"> </a> Vehicle control unit (BBS) 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1635"> </a><a href="99783.html#DUC76e2cbc02f13100589859a60dbb0ae9c">Table&nbsp;P</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1639"> </a>65
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1642"> </a>Data Acquisition/Diagnosis
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1646"> </a><a href="99783.html#DUC76e2cbc02f13100589859a60dbb0ae9c">Table&nbsp;P</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1650"> </a>66
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1653"> </a>Rear light cable
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1657"> </a><a href="99783.html#DUC76e2cbc02f13100589859a60dbb0ae9c">Table&nbsp;P</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1661"> </a>67
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1664"> </a>Rear light
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1668"> </a><a href="99783.html#DUC76e2cbc02f13100589859a60dbb0ae9c">Table&nbsp;P</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1672"> </a>68
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1675"> </a>Rear wiring loom
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1679"> </a><a href="99783.html#DUC76e2cbc02f13100589859a60dbb0ae9c">Table&nbsp;P</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1683"> </a>69
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1686"> </a>Rear wiring loom unit
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1690"> </a><a href="99783.html#DUC76e2cbc02f13100589859a60dbb0ae9c">Table&nbsp;P</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1694"> </a>71
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1697"> </a>Rear right turn indicator
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1701"> </a><a href="99783.html#DUC76e2cbc02f13100589859a60dbb0ae9c">Table&nbsp;P</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1705"> </a>72
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1708"> </a>Rear left turn indicator
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1712"> </a><a href="99783.html#DUC76e2cbc02f13100589859a60dbb0ae9c">Table&nbsp;P</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1716"> </a>73
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1719"> </a> Number plate light 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1724"> </a><a href="99786.html#DUC78556aa82f13100589919a60dbb0ae9c">Table&nbsp;R</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1728"> </a>60
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1731"> </a>ABS fuse box
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1735"> </a><a href="99786.html#DUC78556aa82f13100589919a60dbb0ae9c">Table&nbsp;R</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1739"> </a>74
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1742"> </a>Service power outlet
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1746"> </a><a href="99786.html#DUC78556aa82f13100589919a60dbb0ae9c">Table&nbsp;R</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1750"> </a>75
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1753"> </a>Rear fuse box
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1758"> </a><a href="99786.html#DUC78556aa82f13100589919a60dbb0ae9c">Table&nbsp;R</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1762"> </a>76
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1765"> </a>Fused solenoid 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1769"> </a><a href="99786.html#DUC78556aa82f13100589919a60dbb0ae9c">Table&nbsp;R</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1773"> </a>77
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1776"> </a> ABS positive 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1780"> </a><a href="99786.html#DUC78556aa82f13100589919a60dbb0ae9c">Table&nbsp;R</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1784"> </a>80
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1787"> </a>Solenoid starter - battery positive
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1791"> </a><a href="99786.html#DUC78556aa82f13100589919a60dbb0ae9c">Table&nbsp;R</a></div>
+                  <div class="Testo"><a name="d3e1794"> </a><a href="99792.html#DUC7e4f85b02f13100589a99a60dbb0ae9c">Table&nbsp;T</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1798"> </a>81
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1801"> </a>Solenoid starter - starter motor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1805"> </a><a href="99789.html#DUC7bf230d82f131005899d9a60dbb0ae9c">Table&nbsp;S</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1809"> </a>82
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1812"> </a>Regulator
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1816"> </a><a href="99789.html#DUC7bf230d82f131005899d9a60dbb0ae9c">Table&nbsp;S</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1820"> </a>83
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1823"> </a>Exhaust valve starter motor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1828"> </a><a href="99789.html#DUC7bf230d82f131005899d9a60dbb0ae9c">Table&nbsp;S</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1832"> </a>85
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1835"> </a>Antitheft alarm
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1840"> </a><a href="99789.html#DUC7bf230d82f131005899d9a60dbb0ae9c">Table&nbsp;S</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1844"> </a>86
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1847"> </a>Right 12V power outlet
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e1852"> </a><a href="99789.html#DUC7bf230d82f131005899d9a60dbb0ae9c">Table&nbsp;S</a></div>
+                  <div class="Testo"><a name="d3e1855"> </a><a href="99792.html#DUC7e4f85b02f13100589a99a60dbb0ae9c">Table&nbsp;T</a></div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1859"> </a>87
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e1862"> </a>Regulator - generator
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </body>
+</html>

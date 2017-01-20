@@ -1,0 +1,76 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCc3a412f82b7510058c3187d9909970d2"></a>Removing the rear wheel eccentric hub and the rear wheel shaft
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e7907"> </a>Before removing the eccentric hub, you must first remove the parts listed below.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e7910"> </a>Remove the silencers. <a href="79882.html#DUC408fed082b2310058d65a5fdf30dcfc4">Removing the silencer</a>.
+         </div>
+         <div class="Testo"><a name="d3e7915"> </a>Remove the rear wheel (<a href="78610.html#DUC64d8fb602aeb100584ccb8bb6ec21ad2">Removing the rear wheel</a>).
+         </div>
+         <div class="Testo"><a name="d3e7920"> </a>Remove rear sprocket (<a href="80840.html#DUC35a1fd282b87100583a689ec0e3196d2">Replacing the rear sprocket</a>).
+         </div>
+         <div class="Testo"><a name="d3e7925"> </a>Remove the rear brake calliper (<a href="78655.html#DUC6ea2fad82aff1005805fa1973a55c3d2">Removing the rear brake calliper</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e7931"> </a>Loosen the screws (A).
+         </div>
+         <div class="Testo"><a name="d3e7933"> </a>Remove the spacer (1) and the inner ring (2) on the chain side, and remove the wheel shaft (3) with the brake disc (4) from
+            the opposite side.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_026603398.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_025803397.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_025603396.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e7942"> </a>Remove the circlip (5) on the wheel side of the eccentric hub.
+         </div>
+         <div class="Testo"><a name="d3e7944"> </a>Remove the washer (6) and the calliper holder plate (7) with the O-rings (8).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_026303404.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_040003945.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e7951"> </a>Remove the second washer (6).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_040103946.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e7957"> </a>Slide out the eccentric hub (9) from swingarm chain side.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_026003400.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e7962"> </a>The rear hub is a component critical to the dynamic safety of the motorcycle. For this reason, any operation on the internal
+         components of the hub is strictly forbidden. The hub is available as complete assembly, part no.&nbsp;756.2.013.1A.
+      </div>
+   </body>
+</html>

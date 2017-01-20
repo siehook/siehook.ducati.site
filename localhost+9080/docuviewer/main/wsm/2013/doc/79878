@@ -1,0 +1,85 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC455291b02b2310058d67a5fdf30dcfc4"></a>Removing the secondary air system
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5068"> </a>Please find below a chart showing the secondary air system.
+         </div>
+         <div class="Testo"><a name="d3e5070"> </a>(F) Clean air
+         </div>
+         <div class="Testo"><a name="d3e5072"> </a>(G) Exhaust gas
+         </div>
+         <div class="Testo"><a name="d3e5074"> </a>(5) Secondary air actuator
+         </div>
+         <div class="Testo"><a name="d3e5076"> </a>(11) Reed valve
+         </div>
+         <div class="Testo"><a name="d3e5078"> </a>(12) spark arrestor
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_011604548.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5083"> </a>Remove the panel (<a href="77975.html#DUCc08298b82a73100585b0e07f17a720d2">Removing the panel</a>).
+         </div>
+         <div class="Testo"><a name="d3e5088"> </a>Remove the seat (<a href="77991.html#DUC7dd8e1d82a971005810ccc3160c450d2">Removing the seat</a>).
+         </div>
+         <div class="Testo"><a name="d3e5093"> </a>Remove the front half-fairings (<a href="77983.html#DUC6b420cf82a8210058217e66c96b901d2">Removing the front half-fairing</a>).
+         </div>
+         <div class="Testo"><a name="d3e5098"> </a>Remove the tank fairings (<a href="77987.html#DUC104f7d582a9610058109cc3160c450d2">Removing the tank fairings</a>).
+         </div>
+         <div class="Testo"><a name="d3e5103"> </a>Remove the fuel tank (Removing the fuel tank<a href="79858.html#DUC4747a3202b2310058d67a5fdf30dcfc4"></a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5108"> </a>Loosen and remove the two retaining screws (1) and remove the actuator support (2). Disconnect the actuator connector (3).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008403787.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5113"> </a>Remove clamps (4), the pipes and recover actuator (5).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008003783.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5118"> </a>Remove clamp (4) on the opposite side and remove air hoses (6) from vertical head (7), from horizontal head (8) and from the
+            airbox.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008103784.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008203785.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008303786.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5128"> </a>If necessary, disassemble the secondary air system valves (A) following the same procedure for both of them: 
+         </div>
+         <div class="Testo"><a name="d3e5130"> </a>loosen the two screws (9) and remove cover (10), reed valve (11) and spark arrestor (12) in this sequence.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008503788.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e5135"> </a>Close the secondary air system duct on the head cover using a clean cloth to prevent impurities from entering.
+      </div>
+   </body>
+</html>

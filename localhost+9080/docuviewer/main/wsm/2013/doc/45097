@@ -1,0 +1,371 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC52157dd0251b100584c1d8c3784850d2"></a>Overhauling the cylinder head components
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e13873"> </a>Cylinder heads
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13876"> </a>Remove any carbon deposits from the combustion chamber and its ducts.
+         </div>
+         <div class="Testo"><a name="d3e13878"> </a>Remove any scale from the coolant ducts.
+         </div>
+         <div class="Testo"><a name="d3e13880"> </a>Check for cracking and inspect the sealing surfaces for scoring, ridges or other damage.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_061203195.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_020601880.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13887"> </a>Check that the cylinder mating surfaces of the cylinder head are free of carbon deposits and scale. If this is not the case,
+            spread diamond lapping paste (6&nbsp;to&nbsp;12&nbsp;micron thickness) on a reference surface and slide the cylinder head on the surface
+            as shown in the figure until a flat&nbsp;surface is obtained.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_020801879.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e13892"> </a>Valve seats
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13895"> </a>Visually inspect the valve seats: there must be no pitting or cracks.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_020901881.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13900"> </a>Minor damage can be repaired by grinding with special 45° and 60° single-blade grinders. Grind the valves and check the seal.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_020701882.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13906"> </a>If the valve seats are excessively damaged, fit oversize seats. Replacement seats are available with 0.03 and 0.06&nbsp;mm oversized
+            outside diameters.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e13909"> </a>When you change the valve seats, change the valve guides as well.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13912"> </a>Proceed as follows.
+         </div>
+         <div class="Testo"><a name="d3e13914"> </a>Remove the worn seats, grinding carefully to avoid any damage to cylinder head housings.
+         </div>
+         <div class="Testo"><a name="d3e13916"> </a>Check the diameter of head housings and choose the oversized valve seat that will give an interference fit of 0.04 to 0.10&nbsp;mm.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_021001883.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13921"> </a>Heat the cylinder head gradually and evenly up to 150&nbsp;°C and chill the new valve seats in dry ice.
+         </div>
+         <div class="Testo"><a name="d3e13923"> </a>Drive the seats perfectly square into the head housings using the appropriate valve guide seat installer 88713.2846 and 88713.2847.
+         </div>
+         <div class="Testo"><a name="d3e13925"> </a>Allow the cylinder head to cool down and grind the seats to the following dimensions: CA = Ø 41.6 ± 0.025 mm. CS = Ø 33.6
+            ± 0.025 mm. S = 1.2 mm. D = 0.2 ÷ 0.4 mm.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e13928"> </a>Do not use any lapping compound after final grinding.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_021101884.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13933"> </a>It is advisable to lap the radius between the intake valve seats and the intake ducts (F = before; G = after).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_021201885.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e13938"> </a>Valve guides
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13942"> </a>Check the internal surface of the valve guides: there should be no signs of deformation or cracking.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_020901881.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13947"> </a>Thoroughly check the dimensions of the inner surface of the valve guide. Measure the inside diameter with a suitable gauge.
+         </div>
+         <div class="Testo"><a name="d3e13949"> </a>Measure the diameter at different positions of the valve guide.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_021301886.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13954"> </a>Coupling clearance upon assembly: highest measured value - lowest measured value = 0.03 ÷ 0.045 mm.
+         </div>
+         <div class="Testo"><a name="d3e13956"> </a>the maximum permissible wear limit is 0.08&nbsp;mm.
+         </div>
+         <div class="Testo"><a name="d3e13958"> </a>Change the valve guides when the ovality exceeds permissible limit or the valve stem clearance is outside the tolerance range.
+         </div>
+         <div class="Testo"><a name="d3e13960"> </a>When you change the valve guide, you must also change the valve.
+         </div>
+         <div class="Testo"><a name="d3e13962"> </a>Valve guides as spare parts are available with outside diameter oversized by 0.03, 0.06 and 0.09&nbsp;mm.
+         </div>
+         <div class="Testo"><a name="d3e13964"> </a>Change the valve guides as follows:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e13968"> </a>heat up the cylinder head gradually and evenly up to 150&nbsp;°C;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e13971"> </a>remove the original valve guides using tool no.&nbsp;88713.2842;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e13974"> </a>allow the cylinder head to cool down and check the condition of the seats;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e13977"> </a>choose suitable valve guides to obtain an interference fit in the cylinder head of 0.022 to 0.051&nbsp;mm;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e13980"> </a>heat up the cylinder head again and chill the new valve guides in dry ice;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e13983"> </a>lubricate the seats in the cylinder head and install the valve guides using the appropriate service tools and with reference
+                           to the dimensions given in the figure;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13986"> </a>A= 22.4 ± 0.15 mm.
+         </div>
+         <div class="Testo"><a name="d3e13988"> </a>B= 28.45 ± 0.15 mm.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13991"> </a>Hone the mating surface with a reamer.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_021401887.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e13996"> </a>Checking the valve
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13999"> </a>Check that the stem and the valve seat contact surface are in good condition.
+         </div>
+         <div class="Testo"><a name="d3e14001"> </a>There must be no pitting, cracks, deformations or signs of wear.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e14005"> </a>The valves cannot be ground.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_021501888.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14010"> </a>Perform the following checks.
+         </div>
+         <div class="Testo"><a name="d3e14012"> </a>Measure the diameter of the valve stem at various points along the section that runs in the valve guide.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_021601889.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14017"> </a>Check the valve stem for buckling. Place it on a “V” reference and measure deformation with a dial gauge.
+         </div>
+         <div class="Testo"><a name="d3e14019"> </a>Service limit: 0.053&nbsp;mm.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14022"> </a>Check the valve stem for buckling. Place the valve on a "V" reference block, set a dial gauge perpendicular to head and measure
+            concentricity of valve face at 45°.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14026"> </a>Nominal concentricity: 0.01&nbsp;mm;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e14029"> </a>Service limit: 0.03&nbsp;mm.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_021701890.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14034"> </a>Use Prussian blue or a mixture of minimum and oil to check that the contact surface (W) between valve and seat is 1.4 to 1.6&nbsp;mm
+            (1.05 to 1.35&nbsp;mm when new). Grind the seat if the dimension measured is greater than the above limit.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_021801891.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_021901892.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e14042"> </a>Checking the valve seal
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14045"> </a>After grinding the seats it is important to check the seal between valve face and seat: if the seat contact area (S) on the
+            valve is wider than the 45° band (W) this could lead to poor sealing.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_022001893.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e14050"> </a>Checking the rocker arms
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14053"> </a>Check for signs of wear, grooves or chrome flaking off.
+         </div>
+         <div class="Testo"><a name="d3e14055"> </a>Check the condition of rocker arm bore and shaft.
+         </div>
+         <div class="Testo"><a name="d3e14057"> </a>Assembly clearance: 0.025÷0.049&nbsp;mm.
+         </div>
+         <div class="Testo"><a name="d3e14059"> </a>Wear limit: 0.08&nbsp;mm.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_022101894.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_022201895.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e14066"> </a>Opening and closing shims - Springs
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14069"> </a>Check the condition of the contact surfaces of the valve opening and closing shims (C): there must be no signs of wear.
+         </div>
+         <div class="Testo"><a name="d3e14071"> </a>Check the conditions of the closing rocker arm return springs (D): check for cracks, distortion, or loss of elasticity.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_022301896.jpg"></center>
+      </div>
+   </body>
+</html>

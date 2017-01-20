@@ -1,0 +1,113 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCf3fdf33829f91005800e816ce97b3fd2"></a>Changing the coolant
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e2166"> </a>Make sure the engine is cold before proceeding. A warm engine could provoke the ejection of coolant or hot vapor resulting
+         in serious burns.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2169"> </a>Remove the left and right-hand side instrument panel (<a href="77975.html#DUCc08298b82a73100585b0e07f17a720d2">Removing the panel</a>).
+         </div>
+         <div class="Testo"><a name="d3e2174"> </a>Remove the front half-fairing (<a href="77983.html#DUC6b420cf82a8210058217e66c96b901d2">Removing the front half-fairing</a>).
+         </div>
+         <div class="Testo"><a name="d3e2179"> </a>Remove the complete oil sump guard (<a href="78006.html#DUCdebde6802aa910058bbaf20939ae18d2">Removing the oil sump guard</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2185"> </a>Place a vessel under the engine and place the motorcycle on its side stand.
+         </div>
+         <div class="Testo"><a name="d3e2187"> </a>Remove the expansion reservoir filler cap (1).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_008602804.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2192"> </a>Loosen screw (3) to slacken clamp (2), disconnect hose (4) and allow coolant to flow out in a vessel.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_008702805.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_008802806.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2199"> </a>Undo plug (5) from drain hole on pump cover.
+         </div>
+         <div class="Testo"><a name="d3e2201"> </a>Allow the coolant to drain off completely.
+         </div>
+         <div class="Testo"><a name="d3e2203"> </a>Fit plug (5) with a new seal in coolant drain hole and tighten.
+         </div>
+         <div class="Testo"><a name="d3e2205"> </a>Tighten plug (5) to a torque of 19 Nm ±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_008902807.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2210"> </a>Fill the system with fresh coolant through the remote filler.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_009002808.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2216"> </a>Connect hose (4) by tightening screw (3) on clamp (2) to 1 Nm ±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_008702805.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2221"> </a>Wait several minutes for the coolant to fill all the internal passages.
+         </div>
+         <div class="Testo"><a name="d3e2223"> </a>Start up the engine and wait for the coolant to reach 110&nbsp;°C; run the engine for about 10&nbsp;minutes.
+         </div>
+         <div class="Testo"><a name="d3e2225"> </a>Stop the engine and allow it to cool down so that all the air is expelled from the circuit.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e2228"> </a>Keep your hands, clothing and tools well clear of the radiator fan at all times; this fan starts automatically without warning
+         and could cause serious injury or damage.
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e2231"> </a>Check the cooling circuit for possible leaks.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2234"> </a>Top up the coolant through the expansion reservoir filler to bring the level up to the MAX. mark.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_009102809.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2239"> </a>Tighten the cap (1) of the expansion reservoir.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_008502803.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2244"> </a>Refit the complete oil sump guard (<a href="78008.html#DUC69eeed302aaa10058bbcf20939ae18d2">Refitting the oil sump guard</a>).
+         </div>
+         <div class="Testo"><a name="d3e2249"> </a>Refit the front half-fairing (<a href="77985.html#DUC1ccd37182a8810058cfc8ef6d8d608d2">Refitting the front half-fairing</a>).
+         </div>
+         <div class="Testo"><a name="d3e2254"> </a>Refit the left and right-hand side instrument panel (<a href="77977.html#DUC2fbfd0b02a74100585b5e07f17a720d2">Refitting the panel</a>).
+         </div>
+      </div>
+   </body>
+</html>

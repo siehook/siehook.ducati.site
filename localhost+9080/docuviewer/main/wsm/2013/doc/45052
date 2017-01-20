@@ -1,0 +1,31 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC1eb979982519100584b0d8c3784850d2"></a>Reassembling the timing pulleys
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12732"> </a>Fit the pulley (3) on the flange (4), aligning the timing pulley mark (D) on the pulley with the flange timing mark (E).
+         </div>
+         <div class="Testo"><a name="d3e12734"> </a>Install the washer (2) up against the pulley, aligning the timing notch (F) with the pulley and flange timing marks.
+         </div>
+         <div class="Testo"><a name="d3e12736"> </a>Insert the three screws (1) in the threaded holes (G) of the flange.
+         </div>
+         <div class="Testo"><a name="d3e12738"> </a>Tighten screws (1) to a torque of 10 Nm (Min. 9 Nm - Max. 11 Nm).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_011601824.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_012701836.jpg"></center>
+      </div>
+   </body>
+</html>

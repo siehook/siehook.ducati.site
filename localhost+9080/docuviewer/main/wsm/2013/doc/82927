@@ -1,0 +1,173 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCf53d1d182e5f10058881b90e3cb9319c"></a>Generator
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3420"> </a>It is equipped with a 12 V, 500 W generator, consisting of a fixed element (stator, A) located in the generator cover and
+            of a movable element (rotor, B) fixed to the crankshaft.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_001004090.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3425"> </a>To check the battery charging system for faults, use the "DDS" diagnosis instrument and follow the instructions given in the
+            paragraph "<a href="83009.html#DUCf4a7ac002e5b100581b6e23c1c37e99c">Testing the battery charging system</a>".
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3431"> </a>The absolute value of voltage measured across the terminals of two of the three yellow cables (the measured value will be
+            the same whichever combination of cable is used) must be within the range indicated in the table below (ambient temperature:
+            20 °C).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e3434"> </a>Before testing, disconnect the generator wiring from the electrical system when the ignition key is set to OFF.
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3444"> </a>Engine speed
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3447"> </a>2000
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3450"> </a>6000
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3454"> </a>Effective V
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3457"> </a>34±5
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3460"> </a>104±10
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3463"> </a>Values significantly lower than those indicated above can be due to:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e3467"> </a>partially demagnetised rotor;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e3470"> </a>short-circuited windings.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3473"> </a>In the above cases the whole generator assembly (rotor and stator) should be replaced.
+         </div>
+         <div class="Testo"><a name="d3e3475"> </a>If checks have a favourable outcome, reconnect the generator to the regulator with ignition key on OFF. Make sure that no
+            cables are damaged or disconnected.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e3478"> </a>Removing the generator
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3482"> </a>Drain the cooling system (<a href="77257.html#DUCf34a5aa829f91005800d816ce97b3fd2">Changing the coolant</a>).
+         </div>
+         <div class="Testo"><a name="d3e3487"> </a>Remove the sprocket cover (<a href="79974.html#DUC678e5bc82b2410058de4ee3905e05ec4">Removing the front sprocket</a>).
+         </div>
+         <div class="Testo"><a name="d3e3492"> </a>Drain the engine oil (<a href="77245.html#DUCc57ed0d029f510058c2bed44952c77d2">Changing engine oil and filter cartridge</a>).
+         </div>
+         <div class="Testo"><a name="d3e3497"> </a>Remove the clutch slave cylinder (<a href="78738.html#DUC1e4714c82b2410058cedd30e2bfae6c4">Removing the clutch slave cylinder</a>).
+         </div>
+         <div class="Testo"><a name="d3e3502"> </a>Remove the pump-cylinder hoses (<a href="45114.html#DUCad1f8410256a10058d3dd14d9928c7d2">Removing the cylinder/piston assembly</a>).
+         </div>
+         <div class="Testo"><a name="d3e3507"> </a>Remove the water pump/radiator pipes (<a href="44924.html#DUCc06658c8250110058a838a10427928d2">Removing cooling system pipes and unions</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3513"> </a>Disconnect the cables of the generator side electric system.
+         </div>
+         <div class="Testo"><a name="d3e3515"> </a>Remove the generator cover, stator (A) and rotor (B).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_001104213.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_001204214.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e3522"> </a>Refitting the generator
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3525"> </a>Fit the rotor (B), the stator (A) and the generator cover.
+         </div>
+         <div class="Testo"><a name="d3e3527"> </a>Connect the generator side electric system (refer to the table in chapter "<a href="82913.html#DUCeaf640702c2810058b12f8591a4485d2">Routing of wiring on frame</a>" (base), "<a href="83157.html#DUC6083c3882c2b1005850ba1bf847bafd2">Routing of wiring on frame</a>" (PP, GT, T)).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_001104213.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_001204214.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3540"> </a>Refit the water pump/radiator pipes (<a href="44926.html#DUC62ddf200250210058a868a10427928d2">Refitting cooling system pipes and unions</a>).
+         </div>
+         <div class="Testo"><a name="d3e3545"> </a>Refit the pump-cylinder hoses (<a href="45120.html#DUC24353f28257910058ca3f04d994144d2">Refitting the cylinder/piston assembly</a>).
+         </div>
+         <div class="Testo"><a name="d3e3550"> </a>Refill the cooling system (<a href="77257.html#DUCf34a5aa829f91005800d816ce97b3fd2">Changing the coolant</a>).
+         </div>
+         <div class="Testo"><a name="d3e3555"> </a>Refit the clutch slave cylinder (<a href="78740.html#DUC1fe52c982b2410058cedd30e2bfae6c4">Refitting the clutch slave cylinder</a>).
+         </div>
+         <div class="Testo"><a name="d3e3560"> </a>Refit the sprocket cover (<a href="79976.html#DUC6a6ab4402b2410058de4ee3905e05ec4">Refitting the front sprocket</a>).
+         </div>
+         <div class="Testo"><a name="d3e3565"> </a>Refill the system with engine oil.
+         </div>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,63 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCc7b4abc02aec100584d5b8bb6ec21ad2"></a>Refitting the front brake master cylinder
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3943"> </a>Insert the front brake master cylinder unit (3) on the right side of the handlebar to bring the terminal internal edge in
+            correspondence to the mark (A).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_003003122.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3948"> </a>Fit clamp (6) on handlebar and start screws (5).
+         </div>
+         <div class="Testo"><a name="d3e3950"> </a>Tighten fixing screws (5) to a torque of 10 Nm ± 10%, following a 1-2-1 sequence, starting from the upper screw.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_002903121.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3955"> </a>Locate the hose (4) and sealing washers (2) on the master cylinder unit (3) and secure with the special screw (1), without
+            tightening.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_002803120.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e3960"> </a>An incorrectly positioned hose can cause clutch faults and interfere with moving parts.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3963"> </a>Orientate the hose (4) as shown in the figure and then tighten the special screw (1) to the specified torque 23 Nm ±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_041504540.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3968"> </a>For position of hose (4) and hose clips, comply with the provisions under Section "<a href="78699.html#DUC690d85c02b1310058c6793c8b30eb8d2">Routing wiring harnesses / hoses</a>" for the base version or under Section "<a href="78701.html#DUCba4d95002b1410058c6b93c8b30eb8d2">Routing wiring harnesses / hoses</a>" for the Pikes Peak, Granturismo and Touring versions.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3978"> </a>Refit right hand guard (<a href="78714.html#DUCb02c2bf82b24100585a7c6c5c869a9d2">Refitting the hand guards</a>).
+         </div>
+         <div class="Testo"><a name="d3e3983"> </a>Refit the rear-view mirrors (<a href="78708.html#DUCc5891c002b2310058216d17ffc81d1d2">Refitting the rear-view mirrors</a>).
+         </div>
+         <div class="Testo"><a name="d3e3988"> </a>Fill the braking system (<a href="77259.html#DUC4261033029fa1005800f816ce97b3fd2">Changing the front brake system fluid</a>).
+         </div>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,191 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCac1343182b00100583e9bb66a48558d2"></a>Operating principle
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4583"> </a>The Ducati ABS braking system features a separate management of the front and rear braking systems. As for its mechanism,
+            a phonic wheel (pulse generator) is installed to every wheel, consisting of a slotted ring. There are HALL sensors on LH fork
+            leg bottom end and on rear brake calliper holder plate. With vehicle running, they read the slots on the phonic wheel thereby
+            detecting instant wheel speed. These sensors output data to ABS ECU which contains a software with a special control algorithm
+            developed by Ducati. The software compares the vehicle average speed with the instant wheel speed reading and assesses any
+            slipping condition. If control values are exceeded when the rider commands a certain pressure on brake calliper, the control
+            unit shall hydraulically control the braking system which is nearly locked up. The system can modulate pressure at the calliper
+            through a set of solenoid valves which first prevent any further increase of hydraulic pressure (EV valve closing), and then
+            make the pressure decrease (AV valve opening). The AV valve is opened in a series of pulses (with less than 10 milliseconds
+            between successive pulses), to reduce pressure in steps. When the wheel begins to rotate again in response to the diminished
+            braking force applied and the wheel speed reaches the reference value, the AV release valve is closed. Simultaneously, the
+            EV inlet valve is reopened, restoring normal operation of the brake system. The ABS control unit can monitor and modulate
+            brake force accordingly in the three following different conditions: dry road surface (high grip), wet or greasy road surface
+            (poor grip) and uneven road surface. ABS functionality is disabled at vehicle speeds lower than 5&nbsp;km/h.
+         </div>
+         <div class="Testo"><a name="d3e4585"> </a>Please find below a chart explaining ABS operation.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_038403187.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4590"> </a>The hydraulic component of the ABS system consists of a primary circuit (from the cylinder to the control unit and from the
+            control unit to the calliper) and a secondary circuit (completely within the control unit). Please find below a chart explaining
+            ABS hydraulic operation.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e4593"> </a>Key to ABS hydraulic system
+         </div>
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4603"> </a>A
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4606"> </a>Rear brake master cylinder
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4610"> </a>B
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4613"> </a>Front brake master cylinder
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4617"> </a>1A
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4620"> </a>EV rear - Rear calliper inlet valve
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4624"> </a>1B
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4627"> </a>EV front - Front calliper inlet valve
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4631"> </a>2A
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4634"> </a>AV rear - Rear calliper outlet valve
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4638"> </a>2B
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4641"> </a>AV front - Front calliper outlet valve 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4645"> </a>3
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4648"> </a>Brake master cylinder
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4652"> </a>4
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4655"> </a>Accumulators
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4659"> </a>5A
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4662"> </a>Rear calliper
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4666"> </a>5B
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4669"> </a>Left front calliper
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4673"> </a>6B
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4676"> </a>Right front calliper
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4681"> </a>7
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4684"> </a>ABS electronic unit
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4688"> </a>8A
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4691"> </a>Rear speed sensor
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4695"> </a>8B
+                  </div>
+               </td>
+               <td rowspan="1" class="nocolsep">&nbsp;
+                  <div class="Testo"><a name="d3e4698"> </a>Front speed sensor
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </body>
+</html>

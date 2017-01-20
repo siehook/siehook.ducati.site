@@ -1,0 +1,57 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCcc1b706824f2100583a6b051d7198fd2"></a>Refitting the oil pump
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e10835"> </a>If removed, apply specific threadlocker on the bushing (5) and screw it in the crankcase half, observing the height.
+         </div>
+         <div class="Testo"><a name="d3e10837"> </a>Position the reference bushings (6) and the O-rings (4) and (5) according to the crankcase lubrication channels.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_001201717.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e10842"> </a>Position the oil pump (3) on the crankcase, fit the relevant washers (A) and (B), and tighten the screws (1) to a torque of
+            26 Nm (Min. 23 Nm - Max. 29 Nm) and screws (2) to 10 Nm (Min. 9 Nm - Max. 11 Nm).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_000501709.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_059003029.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e10849"> </a>Check the gear clearance with the driving pinion by fixing a dial gauge (A), equipped with the appropriate traces, to the
+            crankcase half.
+         </div>
+         <div class="Testo"><a name="d3e10851"> </a>Position the dial gauge stylus on one tooth of oil pump gear and set the gauge to zero in this position.
+         </div>
+         <div class="Testo"><a name="d3e10853"> </a>Move the gear slightly to measure the backlash; take four readings in diametrically opposed positions of the gear.
+         </div>
+         <div class="Testo"><a name="d3e10855"> </a>The clearance should be 0.10&nbsp;mm.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_001401719.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e10860"> </a>Refit the clutch cover (<a href="45142.html#DUC71320cb8257c10058cbcf04d994144d2">Refitting the clutch cover</a>).
+         </div>
+         <div class="Testo"><a name="d3e10865"> </a>Refit the right side oil sump guard (<a href="78008.html#DUC69eeed302aaa10058bbcf20939ae18d2">Refitting the oil sump guard</a>).
+         </div>
+         <div class="Testo"><a name="d3e10870"> </a>Fill the system (<a href="77245.html#DUCc57ed0d029f510058c2bed44952c77d2">Changing engine oil and filter cartridge</a>).
+         </div>
+      </div>
+   </body>
+</html>

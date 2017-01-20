@@ -1,0 +1,38 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC2920fae02b37100580b08b55a208bfd2"></a>Disassembling the gearchange control
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6702"> </a>Refer to the exploded view for indications on disassembly and replacement of unit components.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_019803308.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6707"> </a>If the bush (5) inside the pedal (2) needs replacing, grease the external surface and drive the new bush into place using
+            a press. The bush must be seated 2&nbsp;mm below the outer face of the pedal.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_020103313.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e6712"> </a>After working on the gearchange control, check the position of the gearchange pedal.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e6715"> </a>To adjust the gearchange pedal position, follow the instructions indicated in Section "<a href="77281.html#DUCf3ae7b702a5b100582138189c241cfd2">Adjusting the position of the gear change and rear brake pedals</a>".
+         </div>
+      </div>
+   </body>
+</html>

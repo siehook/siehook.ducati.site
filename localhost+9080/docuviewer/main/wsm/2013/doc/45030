@@ -1,0 +1,95 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCf3b09fa02505100586ba875a75e136d2"></a>Checking and adjusting the valve clearances
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e11820"> </a>Remove the seat (<a href="77991.html#DUC7dd8e1d82a971005810ccc3160c450d2">Removing the seat</a>).
+         </div>
+         <div class="Testo"><a name="d3e11825"> </a>Remove the rear right side body panel (<a href="77993.html#DUCa04e3f602a971005810ecc3160c450d2">Removing side body panels and tail guard</a>).
+         </div>
+         <div class="Testo"><a name="d3e11830"> </a>Remove the front half-fairings (<a href="77983.html#DUC6b420cf82a8210058217e66c96b901d2">Removing the front half-fairing</a>).
+         </div>
+         <div class="Testo"><a name="d3e11835"> </a>Remove the tank fairing (<a href="77987.html#DUC104f7d582a9610058109cc3160c450d2">Removing the tank fairings</a>).
+         </div>
+         <div class="Testo"><a name="d3e11840"> </a>Remove the fuel tank (Removing the fuel tank<a href="79858.html#DUC4747a3202b2310058d67a5fdf30dcfc4"></a>).
+         </div>
+         <div class="Testo"><a name="d3e11844"> </a>Remove the filter box (<a href="79870.html#DUC50db19582b2310058d68a5fdf30dcfc4">Removing filter box and throttle body</a>).
+         </div>
+         <div class="Testo"><a name="d3e11849"> </a>Remove the oil breather expansion reservoir (<a href="49889.html#DUCbc7f6478261b1005866ad8c33bc4a2d2">Removing the oil breather tank</a>).
+         </div>
+         <div class="Testo"><a name="d3e11854"> </a>Loosen the timing belt covers (<a href="45036.html#DUC5af7ddf82516100581d2e6ffb59083d2">Removing the timing outer covers</a>).
+         </div>
+         <div class="Testo"><a name="d3e11859"> </a>Loosen the water radiator retaining screws by leaving it connected to the cooling system (<a href="44918.html#DUC508f6558250110058a7e8a10427928d2">Removing the water radiator</a>).
+         </div>
+         <div class="Testo"><a name="d3e11864"> </a>Remove the caps from the coils.
+         </div>
+         <div class="Testo"><a name="d3e11866"> </a>Disconnect the secondary air system from the cylinder head covers (<a href="79878.html#DUC452deae02b2310058d66a5fdf30dcfc4">Removing the secondary air system</a>).
+         </div>
+         <div class="Testo"><a name="d3e11872"> </a>Remove the cylinder head cover (<a href="45072.html#DUC92cac200251a100584bad8c3784850d2">Removing the camshafts</a>).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e11878"> </a>For clarity, the figures show the engine removed from the frame.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e11881"> </a>Move the piston of the cylinder being checked to TDC of the power stroke: in this condition, all valves are closed and the
+            camshafts come in neutral position and, therefore, free to rotate; check the valve clearance on the cylinder head you are
+            working on.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e11884"> </a>Checking the opening clearance
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e11887"> </a>Using a feeler gauge, check the clearance between the opening rocker arm (A) and the lowest point of the camshaft lobe (B),
+            taking care not to compress the rocker arm return spring. The value must be included in the specified ones (<a href="50494.html#DUC3f825678295a100581719858899a76d2">Timing system/valves</a>). If not, remove the opening shim (1<a href="45089.html#DUCf197270025661005897cdf0f9b3366d2"></a>), as described in paragraph “Removing the valves” and replace it with one of suitable height to obtain the specified clearance.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e11895"> </a>Opening rocker arm shims measuring 1.80 to 3.45 are available as spare parts: the size is punched on the shim.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_009601797.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_009701798.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_009801799.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e11904"> </a>Checking the closing clearance
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e11908"> </a>Using a feeler gauge, check the clearance between the closing rocker arm (C) and the highest point of the camshaft lobe (D).
+            The value must be included in the specified ones (<a href="50494.html#DUC3f825678295a100581719858899a76d2">Timing system/valves</a>). If not, remove the closing shim (2<a href="45089.html#DUCf197270025661005897cdf0f9b3366d2"></a>), as described in paragraph “Removing the valves” and replace it with one of suitable height to obtain the specified clearance.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e11916"> </a>Closing rocker arm shims measuring 2.2 to 4.5 are available as spare parts: the size is punched on the shim.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_009901800.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_010001801.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_010101802.jpg"></center>
+      </div>
+   </body>
+</html>

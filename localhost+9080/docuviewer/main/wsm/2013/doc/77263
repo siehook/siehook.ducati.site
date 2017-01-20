@@ -1,0 +1,62 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCf9f065f02a21100581a894271418e7d2"></a>Changing the clutch fluid
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e2476"> </a>Clutch fluid is corrosive and will damage paint. Avoid contact with eyes and skin. In case of accidental contact, wash&nbsp;thoroughly
+         with water.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2479"> </a>Remove the cover (1) with membrane of the clutch fluid reservoir system (2).
+         </div>
+         <div class="Testo"><a name="d3e2481"> </a>Siphon off the fluid from the reservoir (2).
+         </div>
+         <div class="Testo"><a name="d3e2483"> </a>Fill the reservoir (2) with new fluid up to the MAX mark.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_010902827.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2488"> </a>Operate the clutch lever two or three times until the circuit is pressurised.
+         </div>
+         <div class="Testo"><a name="d3e2490"> </a>Hold the lever pulled towards the grip.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_010902828.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2495"> </a>Attach a transparent plastic tubing to the bleed valve (3) and insert the other end of the tubing in a container placed on
+            the floor.
+         </div>
+         <div class="Testo"><a name="d3e2497"> </a>Open the bleed valve (3) to allow fluid to flow out.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_011002829.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e2502"> </a>During the filling operation, always keep the oil level above the MIN mark to prevent the development of air bubbles in the
+         circuit.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2505"> </a>Allow the fluid to flow from the bleed valve (3) until it changes colour.
+         </div>
+         <div class="Testo"><a name="d3e2507"> </a>Close the bleed valve (3) and tighten it to a torque of 10 Nm (Min. 9 Nm - Max. 11 Nm), then restore correct fluid level in
+            reservoir.
+         </div>
+      </div>
+   </body>
+</html>

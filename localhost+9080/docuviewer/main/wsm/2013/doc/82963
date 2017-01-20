@@ -1,0 +1,60 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCfc771d602e7110058bdb9618f294829c"></a>Headlight aim
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3885"> </a>The motorcycle must be perfectly upright with the tires inflated to the correct pressure and with a rider seated, perfectly
+            perpendicular to the longitudinal axis.
+         </div>
+         <div class="Testo"><a name="d3e3887"> </a>Position the motorcycle 10&nbsp;metres from a wall or a screen.
+         </div>
+         <div class="Testo"><a name="d3e3889"> </a>On the wall or surface, draw a horizontal line at the same height from the ground as the centre of the headlight and a vertical
+            line aligned with the longitudinal axis of the motorcycle.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e3892"> </a>If possible, perform this check in conditions of low ambient light.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3895"> </a>Switch on the low beam. The height of the upper limit between the dark area and the lit area must not be more than nine tenths
+            of the height of the headlight centre from the ground.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e3898"> </a>The procedure described here is in compliance with the Italian Standard establishing the maximum height of the light beam.
+         Owners in other countries will adapt said procedure to the provisions in force in their countries.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_003504110.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3903"> </a>To modify the headlight beam height work on adjustment screws (1).
+         </div>
+         <div class="Testo"><a name="d3e3905"> </a>Turn the screw (1) of the headlight clockwise, the light beam will move downwards; turn it counter clockwise to move beam
+            up.
+         </div>
+         <div class="Testo"><a name="d3e3907"> </a>To adjust the RH beam height, completely cover the LH one and vice versa.
+         </div>
+         <div class="Testo"><a name="d3e3909"> </a>To modify the headlight beam horizontal direction work on screws (2) located in the headlight top part.
+         </div>
+         <div class="Testo"><a name="d3e3911"> </a>Turn left screw (2) clockwise, the light beam will move to the right; turn it counter clockwise to move it to the left.
+         </div>
+         <div class="Testo"><a name="d3e3913"> </a>To obtain the same light beam movement turn the headlight right screw (1) counter clockwise.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_015904219.jpg"></center>
+      </div>
+   </body>
+</html>

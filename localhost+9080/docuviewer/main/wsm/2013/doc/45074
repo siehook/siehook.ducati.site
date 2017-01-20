@@ -1,0 +1,44 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC03aba460256810058980df0f9b3366d2"></a>Check of the camshafts and supports
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13159"> </a>Check the cam contact surfaces for scratches, grooves, steps and waving.
+         </div>
+         <div class="Testo"><a name="d3e13161"> </a>Worn cams are frequently the cause of poor timing, which leads to loss of engine power.
+         </div>
+         <div class="Testo"><a name="d3e13163"> </a>Place the camshaft between two centres and check the runout on the areas indicated using two dial gauges.
+         </div>
+         <div class="Testo"><a name="d3e13165"> </a>Service limit: 0.1&nbsp;mm.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_016201938.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e13170"> </a>Visually inspect the camshaft tracks for scoring and abnormal wear. If any of the above defects are found, the camshaft should
+            be renewed.
+         </div>
+         <div class="Testo"><a name="d3e13172"> </a>If you find scoring or excessive wear, check the operation of the engine lubrication circuit.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_016301939.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_016401940.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_016501941.jpg"></center>
+      </div>
+   </body>
+</html>

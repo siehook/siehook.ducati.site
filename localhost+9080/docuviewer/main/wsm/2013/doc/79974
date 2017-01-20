@@ -1,0 +1,72 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC67c3c7902b2410058de4ee3905e05ec4"></a>Removing the front sprocket
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e8382"> </a>Undo the screws (2), and remove the chain cover (1).
+         </div>
+         <div class="Testo"><a name="d3e8384"> </a>Slacken the chain (<a href="77273.html#DUCbf8887d82a23100581b094271418e7d2">Adjusting the chain tension</a>).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_030103435.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e8392"> </a>Remove the chain using tool (X) no.&nbsp;<span class="bold">88713.1344</span>.
+         </div>
+         <div class="Testo"><a name="d3e8397"> </a>The tool consists of a holder (A), a punch (B), a body (C) and two wrenches (D) and (E).
+         </div>
+         <div class="Testo"><a name="d3e8399"> </a>Fit the link to be opened into the holder (A).
+         </div>
+         <div class="Testo"><a name="d3e8401"> </a>Fit a punch (B) into the body (C) and manually undo the screw until the punch no longer protrudes.
+         </div>
+         <div class="Testo"><a name="d3e8403"> </a>Fit the holder (A) and the link into the body (C).
+         </div>
+         <div class="Testo"><a name="d3e8405"> </a>The tool is composed of a holder (A), punch (B), body (C) and two wrenches (D) and (E).
+         </div>
+         <div class="Testo"><a name="d3e8407"> </a>Fit the hexagon wrench (D) into the hexagonal part of the body (C) and the wrench (E) onto the bolt.
+         </div>
+         <div class="Testo"><a name="d3e8409"> </a>Fit a punch (B) into the body (C) and manually unscrew the screw until the punch no longer protrudes.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_030103436.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_030303437.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e8416"> </a>Remove the chain.
+         </div>
+         <div class="Testo"><a name="d3e8418"> </a>Engage a low gear and unscrew the nut (3).
+         </div>
+         <div class="Testo"><a name="d3e8420"> </a>Remove the nut (3) and the lockwasher (4) on the sprocket.
+         </div>
+         <div class="Testo"><a name="d3e8422"> </a>Remove the front sprocket (5) from the gearbox secondary shaft.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_030403438.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e8427"> </a>Remove the spacer (6) with O-ring (7) from the gearbox secondary shaft (8).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e8430"> </a>The O-ring must be renewed on reassembly.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_030503439.jpg"></center>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,31 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC704cc2282b9b10058aefe5f83bdfcbd2"></a>Checking the frame
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e9020"> </a>Compare the dimensions of the frame with the values indicated here to determine whether it needs to be re-aligned or replaced.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e9023"> </a>Damaged frames must be changed, not repaired. Any work carried out on the frame can give rise to potential danger, infringing
+         the requirements of EC directives concerning manufacturers' liability and general product safety.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e9026"> </a>Frame overall dimensions (mm)
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_035203504.jpg"></center>
+      </div>
+   </body>
+</html>

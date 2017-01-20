@@ -1,0 +1,115 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCb85da3982e6110058e53d0ef9f06539c"></a>Rectifier-regulator
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3573"> </a>Regulator (1) is located on the vehicle RH side under the tail guard half.
+         </div>
+         <div class="Testo"><a name="d3e3575"> </a>The rectifier/regulator consists of an aluminium casing containing the diodes that rectify the current produced by the generator.
+         </div>
+         <div class="Testo"><a name="d3e3577"> </a>It also contains an electronic device that regulates the current supplied by the generator in accordance with battery voltage.
+         </div>
+         <div class="Testo"><a name="d3e3579"> </a>If&nbsp;the&nbsp;battery is drained, the current has the value necessary to restore optimum operating conditions of the battery itself.
+            In contrast, if the battery is fully charged, the current value will be lower.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e3582"> </a>Control the charger current by using the DDS diagnosis tester instrument.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e3585"> </a>Removing the regulator
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3588"> </a>Remove both seats (<a href="77991.html#DUC7dd8e1d82a971005810ccc3160c450d2">Removing the seat</a>).
+         </div>
+         <div class="Testo"><a name="d3e3593"> </a>Remove the RH tail guard half (<a href="77993.html#DUCa04e3f602a971005810ecc3160c450d2">Removing the side body panels and tail guard</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3599"> </a>Disconnect voltage regulator connector (2) and generator connector (3) from regulator (1).
+         </div>
+         <div class="Testo"><a name="d3e3601"> </a>Undo the two retaining screws (4) of regulator (1) and remove them.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e3604"> </a>Do not disconnect the battery cables when engine is running because this would cause irreparable damage to the regulator.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_001304215.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e3609"> </a>Refitting the regulator
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3612"> </a>Position regulator (1) on the support.
+         </div>
+         <div class="Testo"><a name="d3e3614"> </a>Tighten screws (4) to a torque of 10 Nm ±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_001304215.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e3620"> </a>Do not disconnect the battery cables when engine is running because this would cause irreparable damage to the regulator.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3623"> </a>Connect voltage regulator connector (2) and generator connector (3) to the regulator.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3626"> </a>Refit the RH tail guard half (<a href="77995.html#DUC521908882a9810058110cc3160c450d2">Refitting the side body panels and tail guard</a>).
+         </div>
+         <div class="Testo"><a name="d3e3631"> </a>Refit both seats (<a href="77997.html#DUC853ddbd82a9a10058426b9f0263a2cd2">Refitting the seat</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e3637"> </a>Regulator fuse
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3640"> </a>The 30 A fuse, positioned inside the solenoid started on rear subframe RH side, protects the electronic regulator.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3643"> </a>Remove the rider seat (<a href="77991.html#DUC7dd8e1d82a971005810ccc3160c450d2">Removing the seat</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3649"> </a>Remove the fuse cap (A) to reach it.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_000404092.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3654"> </a>A blown fuse can be identified by breakage of the inner filament (B).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_001404093.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e3659"> </a>Switch the ignition key to OFF before replacing the fuse to avoid possible short-circuits.
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e3663"> </a>Never use a fuse with a rating other than the specified value. Failure to observe this rule may damage the electric system
+         or even cause fire.
+      </div>
+   </body>
+</html>

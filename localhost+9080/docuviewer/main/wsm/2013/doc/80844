@@ -1,0 +1,43 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC614880f02b87100583a989ec0e3196d2"></a>Refitting the rear sprocket
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e8559"> </a>Check the cush drive damper (7) condition and, if necessary, replace them by removing them from the flange.
+         </div>
+         <div class="Testo"><a name="d3e8561"> </a>Refitting is the reverse of removal.
+         </div>
+         <div class="Testo"><a name="d3e8563"> </a>Apply the recommended grease to the outer diameter of rear sprocket holder flange (4).
+         </div>
+         <div class="Testo"><a name="d3e8565"> </a>Fit rear sprocket flange (4) onto rear sprocket (5), engaging cush drive damper pins (7).
+         </div>
+         <div class="Testo"><a name="d3e8567"> </a>Apply specified threadlocker on the nut thread (8).
+         </div>
+         <div class="Testo"><a name="d3e8569"> </a>Start nuts on cush drive damper pins threaded end (7).
+         </div>
+         <div class="Testo"><a name="d3e8571"> </a>Tighten the nuts (8) to a torque of 44 Nm ± 10%, in a cross pattern.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_031403448.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e8576"> </a>Check for wear as described under Section "<a href="80837.html#DUC5181dee02b7910058ae1ae901b54fbd2">Inspection of the final drive</a>".
+         </div>
+         <div class="Testo"><a name="d3e8581"> </a>To refit the nut (2), follow the specifications for the wheel fixing nut, in Section "<a href="78614.html#DUC8624a9e02aeb100584d0b8bb6ec21ad2">Refitting the rear wheel</a>".
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_031503449.jpg"></center>
+      </div>
+   </body>
+</html>

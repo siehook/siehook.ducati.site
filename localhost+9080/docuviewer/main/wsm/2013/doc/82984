@@ -1,0 +1,143 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC658775382ff4100581d4cffd323eee9c"></a>DSS (Ducati SkyHook System)
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3925"> </a>Multistrada 1200 is equipped with the brand new suspension control system called DSS (Ducati Skyhook System): DSS is a dynamic
+            suspension damping control system.
+         </div>
+         <div class="Testo"><a name="d3e3927"> </a>Dynamically, the purpose of a vehicle suspension is generally twofold: to allow the vehicle to absorb the surface bumps by
+            "filtering" their effects on vehicle chassis (and therefore on the rider) and ensure optimum contact between the wheels and
+            the ground. The aim of the DDS is to enhance the comfort level ensured by a normal passive suspension while keeping performance
+            unchanged.
+         </div>
+         <div class="Testo"><a name="d3e3929"> </a>The DSS relies on the vehicle's sensors to determine its lengthwise and vertical movements, and adjusts suspension damping
+            settings accordingly. In particular, the DSS also communicates with the DTC and ABS control units to continuously determine
+            the motorcycle status in real time. This results in a generally more comfortable motorcycle, able to better dampen ground
+            bumps without affecting handling and with rider always in control. Vertical movements are minimised as well as all sinking
+            movements (pitching) that occur under braking and acceleration.
+         </div>
+         <div class="Testo"><a name="d3e3931"> </a>The DSS is fully integrated with the motorcycle Riding Modes. By selecting a certain Riding Mode, the rider can establish
+            the base suspension behaviour, suspension response and hence the motorcycle response. Then, according to motorcycle dynamics,
+            the DSS will intervene and rectify the motorcycle response, regardless of the set Riding Mode, which simply determines the
+            base suspension behaviour (i.e. more comfortable for URBAN riding mode and more precise for SPORT riding mode).
+         </div>
+         <div class="Testo"><a name="d3e3933"> </a>To better understand this feature, take for instance the URBAN and TOURING Riding Modes. The URBAN Riding Mode is set to offer
+            a motorcycle handling suitable for town use: the base suspension behaviour is hence focused on maximising damping of bumps
+            and for this reason the suspension will generally feel more comfortable.
+         </div>
+         <div class="Testo"><a name="d3e3935"> </a>The TOURING Riding Mode is designed for a more touring use, that is more demanding for the motorcycle and requires a more
+            controlled and precise base suspension behaviour. But in both cases the DSS kicks in if the motorcycle behaviour and in particular
+            its vertical and lengthwise movements cause poor comfort or poor vehicle performance, no matter if this occurs while riding
+            at a consistent speed or under braking or acceleration.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3938"> </a>Two conditions are provided in order to save battery charge:
+         </div>
+         <div class="Testo"><a name="d3e3940"> </a>1) when engine is running, if engine is stopped but instrument panel is not turned off, the suspension system power is cut
+            after 30 seconds;
+         </div>
+         <div class="Testo"><a name="d3e3942"> </a>2) when engine is stopped, if instrument panel is turned on but engine is not started, the suspension system power is cut
+            after 30 seconds.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e3945"> </a>When the suspension system is not powered it is quite hard due to the considerable hydraulic damping it offers and this is
+         true even when the motorcycle is off. This means that the rider will feel very well when suspension power is cut off.
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e3948"> </a>In key-off (motorcycle off) the motorcycle feels hard because the not powered valves allow just a minimum damping.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3951"> </a>The table below indicates the Riding Modes of the Multistrada 1200 and the corresponding suspension behaviour.
+         </div>
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3960"> </a>ENDURO
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3963"> </a>When the ENDURO Riding Mode is selected, the DSS will have a base suspension setting that dampens the bumps typical of any
+                     off-road tracks and ensures optimised longitudinal dynamics for the level of grip typical of off-road conditions.
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3967"> </a>SPORT
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3970"> </a>When the SPORT Riding Mode is selected, the DSS will have a hard base suspension setting, optimised for road use, with ground
+                     in good condition and few bumps. The motorcycle will be very sensitive and controlled, and rider can exploit the full potential
+                     of the vehicle.
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3974"> </a>TOURING
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3977"> </a>When the TOURING Riding Mode is selected, the DSS will have a base suspension setting optimised for a touring use, hence with
+                     a comfortable, and yet controlled, base suspension setting.
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3981"> </a>URBAN
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e3984"> </a>When the URBAN Riding Mode is selected, the DSS will have a base suspension setting that will best absorb any bumps typical
+                     of town use, while yet keeping a great control on vehicle dynamic response, with a highly comfortable overall behaviour.
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e3987"> </a>DSS default setting can be changed using the corresponding menu through the instrument panel.
+         </div>
+         <div class="Testo"><a name="d3e3989"> </a>This menu allows the rider to increase or decrease the base damping settings characterising the operation of fork and rear
+            shock absorber for every Riding Mode. When SOFT setting is selected, the DSS will change the suspension settings so as to
+            be generally softer; while when HARD setting is selected, the DDS will change the suspension settings so as to be generally
+            harder.
+         </div>
+         <div class="Testo"><a name="d3e3991"> </a>The DSS also interfaces with the vehicle load setting, which can range from rider only to rider and passenger with luggage.
+            This means that changing the load setting not only affects the rear shock absorber preload - in order to always ensure ideal
+            handling even with luggage on-board - but it also affects the parameters determining vehicle dynamic control. So, selecting
+            the correct load setting allows a perfect response and handling considering the dynamics generated when riding with luggage.
+            It is possible to change the base setting even for the pre-load, thanks to the specific menu in the instrument panel. The
+            preload actuator range is 12 mm, the instrument panel allows preload adjustment through 24 positions, which means that every
+            position corresponds to a preload change of 0.5 mm. This should ensure the rider to find the perfect setting under any load
+            condition.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e3994"> </a>The DSS setting greatly depends on the load setting. Riding the motorcycle with a load setting that does not match the actual
+         load conditions does not guarantee optimum operation of the system.
+      </div>
+      <div class="Testo"><a name="d3e3996"> </a>The DSS was calibrated using the standard springs of the motorcycle. Any change to the parts involved in this system could
+         impair optimum operation of the system and motorcycle.
+      </div>
+   </body>
+</html>

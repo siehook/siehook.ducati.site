@@ -1,0 +1,56 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCebf4607825f310058ad892b8834c33d2"></a>Installation of the connecting rod assembly
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e18140"> </a>Install the connecting rod assembly (1) and (2) in the crankcase half, carry out the shimming and crankcase half reassembly
+            procedure as described in Section&nbsp;"<a href="45230.html#DUC54da126825b810058735b8c023d015d2">Reassembling the crankcase halves</a>".
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e18146"> </a>Make sure that the connecting rods are correctly positioned in the relevant cylinder seats. Incorrect positioning of the connecting
+         rods at this stage will inevitably lead to the need to re-open the crankcase half.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_053302273.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e18151"> </a>Reassemble the crankcase halves (<a href="45230.html#DUC54da126825b810058735b8c023d015d2">Reassembling the crankcase halves</a>).
+         </div>
+         <div class="Testo"><a name="d3e18156"> </a>Refit the mesh filter (<a href="77245.html#DUCc57ed0d029f510058c2bed44952c77d2">Changing engine oil and filter cartridge</a>).
+         </div>
+         <div class="Testo"><a name="d3e18161"> </a>Refit the primary drive gear (<a href="45144.html#DUC41e9ea28257e100580b68e32a097eed2">Removing the primary drive gear</a>).
+         </div>
+         <div class="Testo"><a name="d3e18166"> </a>Refit the oil pump (<a href="44904.html#DUCcbf54ac824f2100583a5b051d7198fd2">Refitting the oil pump</a>).
+         </div>
+         <div class="Testo"><a name="d3e18171"> </a>Refit the clutch unit (<a href="45128.html#DUCafa47568257b10058cb2f04d994144d2">Refitting the clutch</a>).
+         </div>
+         <div class="Testo"><a name="d3e18176"> </a>Refit the clutch cover (<a href="45142.html#DUC71320cb8257c10058cbcf04d994144d2">Refitting the clutch cover</a>).
+         </div>
+         <div class="Testo"><a name="d3e18181"> </a>Refit the starter motor (<a href="45213.html#DUCc8b137a826841005887ee38e40fd97d2">Refitting the starter motor</a>).
+         </div>
+         <div class="Testo"><a name="d3e18186"> </a>Refit the generator and its cover (<a href="45184.html#DUCe2a16b98259310058919eb60359b4bd2">Refitting the flywheel/generator unit</a>).
+         </div>
+         <div class="Testo"><a name="d3e18191"> </a>Refit the cylinder/piston assembly (<a href="45120.html#DUC24353f28257910058ca3f04d994144d2">Refitting the cylinder/piston assembly</a>).
+         </div>
+         <div class="Testo"><a name="d3e18196"> </a>Refit the complete cylinder head unit (<a href="45101.html#DUC9e3e589025291005853db664ff2668d2">Reassembling the cylinder head</a>).
+         </div>
+         <div class="Testo"><a name="d3e18201"> </a>Refit the camshafts (<a href="45078.html#DUC388127a0256810058981df0f9b3366d2">Refitting the camshafts</a>).
+         </div>
+         <div class="Testo"><a name="d3e18207"> </a>Refit the timing components (<a href="45054.html#DUC2edb28d02519100584b1d8c3784850d2">Refitting the head pulleys/idler tensioners</a>).
+         </div>
+         <div class="Testo"><a name="d3e18212"> </a>Install the engine in the frame (<a href="44896.html#DUCbe26f6e024f1100583a1b051d7198fd2">Refitting the engine</a>).
+         </div>
+      </div>
+   </body>
+</html>

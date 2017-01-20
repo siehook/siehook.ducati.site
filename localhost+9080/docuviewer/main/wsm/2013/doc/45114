@@ -1,0 +1,118 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCad47f3a0256a10058d3ed14d9928c7d2"></a>Removal of the cylinder/piston assembly
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14170"> </a>Remove the engine from the frame (<a href="44894.html#DUCc6004ac024f010058895df5a40d4efd2">Removing the engine</a>).
+         </div>
+         <div class="Testo"><a name="d3e14175"> </a>Remove the cooling system pipes (<a href="44924.html#DUCc06658c8250110058a838a10427928d2">Removing cooling system pipes and unions</a>).
+         </div>
+         <div class="Testo"><a name="d3e14180"> </a>Remove the timing outer covers and belts (<a href="45036.html#DUC5af7ddf82516100581d2e6ffb59083d2">Removing the timing outer covers</a>).
+         </div>
+         <div class="Testo"><a name="d3e14185"> </a>Remove the heads from the engine block (<a href="45087.html#DUCbfdc2068251a100584bcd8c3784850d2">Removing the engine heads</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14191"> </a>Loosen the clamps (1) and remove the hoses (2) and (3) from the cylinders (4) and from the generator cover.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_025001967.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_025101969.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14198"> </a>If damaged, unscrew the unions (5).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_025202325.jpg"></center>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e14203"> </a>The following procedure is described with the engine removed from the frame and the cylinder head removed from the engine.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14206"> </a>Remove the cylinder head gasket (6) from the cylinder barrel.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_025301970.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14211"> </a>Remove the bushes (7).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_025401971.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14217"> </a>Use the tool (B) no. <span class="bold">88765.1657</span> to bring the piston of the horizontal cylinder near the TDC.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_025501972.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14225"> </a>Carefully lift the cylinder barrel (8) off the crankcase, keeping it vertical. If necessary, rock the cylinder slightly using
+            both hands or tap its base gently with a rubber mallet. Continue to lift the cylinder until you can access the gudgeon pin
+            (9).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14228"> </a>Since insertion of piston in the barrel is a difficult operation to perform at the time of reassembly, remove the piston together
+            with the barrel as described below.
+         </div>
+         <div class="Testo"><a name="d3e14230"> </a>Stuff the crankcase opening with a rag or soft paper to prevent foreign material from falling in.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_025601973.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14235"> </a>Remove the circlip (10) from the gudgeon pin (9) on the clutch side.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_025701974.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14240"> </a>Working from the opposite side, drive out the gudgeon pin sufficiently to release the connecting rod.
+         </div>
+         <div class="Testo"><a name="d3e14242"> </a>Lift the barrel-piston assembly clear of the crankcase studs. If work is to be carried out on the piston, carefully withdraw
+            it from the cylinder.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_025801975.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14247"> </a>Remove the four O-rings (A) located on the crankcase studs between the barrel and the base gasket (11).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_025901976.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14253"> </a>To remove the vertical barrel-piston assembly, bring the vertical piston to TDC and proceed as for removal of the horizontal
+            cylinder barrel.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e14256"> </a>Mark the pistons to show from which cylinder they were removed:
+      </div>
+      <div class="Testo"><a name="d3e14258"> </a>V= Vertical - H= Horizontal.
+      </div>
+   </body>
+</html>

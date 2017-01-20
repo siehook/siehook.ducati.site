@@ -1,0 +1,153 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCc73496f8296e10058f9c817c5ab0d2d2"></a>Fuel, lubricants and other fluids
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e4221"> </a>Failure to observe weight limits could result in poor handling, impair performance and you may lose control of the motorcycle.
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <thead valign="bottom">
+            <tr valign="top">
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e4231"> </a>Top-ups
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;
+                  <div class="Testo"><a name="d3e4234"> </a>Type
+                  </div>
+               </th>
+               <th rowspan="1" align="center">&nbsp;&nbsp;
+                  <div class="Testo"><a name="d3e4237"> </a>cu. dm (litres)
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4244"> </a>Fuel tank, including a reserve of 5 cu. dm (litres)
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4249"> </a>Unleaded fuel with 95 RON fuel octane rating (at least)
+                  </div>
+                  <div class="Testo"><a name="d3e4251"> </a>For the US market Unleaded fuel with a minimum octane rating of 90 (RON+MON)/2.
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4254"> </a>20
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4258"> </a>Sump and filter
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4261"> </a>SHELL Advance 4T Ultra
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4264"> </a>4,10
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4269"> </a>Front/rear brake and clutch circuits
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4272"> </a>Special hydraulic fluid SHELL Advance Brake Dot 4
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4277"> </a>Protectant for electric contacts
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4280"> </a>SHELL - Advance Contact Cleaner spray for electric systems
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4285"> </a>Front fork
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4288"> </a>SHELL - Advance Fork 7.5 or Donax TA
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4291"> </a>720 cc (per leg) (*)
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4295"> </a>Cooling circuit
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4298"> </a>ENI Agip Permanent Spezial antifreeze (do not dilute, use pure)
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e4301"> </a>2,3 
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4304"> </a>(*) The value refers to the air column between the free surface of the oil and the end of the sleeve, with the latter fully
+            lowered and without the preload pipe and spring inside the fork leg.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e4307"> </a>Do not use any additives in fuel or lubricants. Using them could result in severe damage to the engine and motorcycle components.
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e4310"> </a>Vehicle is compatible only with fuels with a max. ethanol content of 10% (E10). Using fuel with ethanol content over 10% is
+         forbidden. Using it could result in severe damage to the engine and motorcycle components. Using fuel with ethanol content
+         over 10% will make the warranty null and void.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_0801_3_000500192.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4315"> </a>Engine oil
+         </div>
+         <div class="Testo"><a name="d3e4317"> </a>A good quality engine oil has special properties. Use only a highly detergent engine oil with certified SE, SF or SG or higher
+            service ratings as marked on the container.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4320"> </a>Viscosity
+         </div>
+         <div class="Testo"><a name="d3e4322"> </a>SAE 15W-50
+         </div>
+         <div class="Testo"><a name="d3e4324"> </a>The other viscosity grades specified in the table can be used where the average ambient temperatures are within the limits
+            shown.
+         </div>
+      </div>
+   </body>
+</html>

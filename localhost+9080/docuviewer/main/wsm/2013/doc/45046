@@ -1,0 +1,85 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC0fac78d0251710058485a863771a3ad2"></a>Removing the timing layshaft pulleys
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12530"> </a>Remove the seat (<a href="77991.html#DUC7dd8e1d82a971005810ccc3160c450d2">Removing the seat</a>).
+         </div>
+         <div class="Testo"><a name="d3e12535"> </a>Remove the rear right side body panel (<a href="77993.html#DUCa04e3f602a971005810ecc3160c450d2">Removing side body panels and tail guard</a>).
+         </div>
+         <div class="Testo"><a name="d3e12540"> </a>Remove the front half-fairings (<a href="77983.html#DUC6b420cf82a8210058217e66c96b901d2">Removing the front half-fairing</a>).
+         </div>
+         <div class="Testo"><a name="d3e12545"> </a>Remove the tank fairing (<a href="77987.html#DUC104f7d582a9610058109cc3160c450d2">Removing the tank fairings</a>).
+         </div>
+         <div class="Testo"><a name="d3e12550"> </a>Remove the fuel tank (Removing the fuel tank<a href="79858.html#DUC4747a3202b2310058d67a5fdf30dcfc4"></a>).
+         </div>
+         <div class="Testo"><a name="d3e12554"> </a>Remove the filter box (<a href="79870.html#DUC50db19582b2310058d68a5fdf30dcfc4">Removing filter box and throttle body</a>).
+         </div>
+         <div class="Testo"><a name="d3e12559"> </a>Remove the oil breather expansion reservoir (<a href="49889.html#DUCbc7f6478261b1005866ad8c33bc4a2d2">Removing the oil breather tank</a>).
+         </div>
+         <div class="Testo"><a name="d3e12564"> </a>Remove the timing covers (<a href="45036.html#DUC5af7ddf82516100581d2e6ffb59083d2">Removing the timing outer covers</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12570"> </a>Use the tool no. <span class="bold">88713.1805</span> to hold the driving pulleys on the engine crankcase against rotation.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12576"> </a>If this operation is carried out with the engine installed in the frame, hold the driving pulleys against rotation using the
+            tool (A) no. <span class="bold">88713.2011</span> mounted on the generator cover.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_060703087.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12584"> </a>Loosen the ring nut (1) using the socket supplied with the tool.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_011701825.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12589"> </a>Remove the ring nut (1), the spacer (2) and the outer pulley (3).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_011801826.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12594"> </a>Remove the first key (4) from the timing layshaft.
+         </div>
+         <div class="Testo"><a name="d3e12596"> </a>Remove the spacer (5) and the inner pulley (3).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_011901827.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12602"> </a>Remove the inner spacer (6) and second key (4) on the timing layshaft.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_012001828.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e12607"> </a>It is now possible to remove the snap ring (7) on the timing layshaft.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_060803088.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_012101829.jpg"></center>
+      </div>
+   </body>
+</html>

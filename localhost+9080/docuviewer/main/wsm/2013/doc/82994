@@ -1,0 +1,293 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCf8308f502e4b10058386c272b5ad609c"></a>Multimeter: to check electrical systems.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e4005"> </a>Introduction
+         </div>
+         <div class="Testo"><a name="d3e4007"> </a>This instrument allows you to measure resistance, voltage, and current values. Multimeters can be divided into two basic types:
+            analogue and digital display multimeter. An analogue multimeter has a pointer display. The dial is marked with the scales
+            to be used for measurement of the various parameters. Digital units are equipped with a dial that displays numbers corresponding
+            to the values of the measured parameters. The type of measurement to be carried out (voltage, current or resistance) is set
+            by means of a selector or by means of several different sockets in which to insert the two&nbsp;test probe connector terminals.
+            In certain cases it is essential to set the full scale value before proceeding. For example, in&nbsp;order to measure a 12&nbsp;V signal,
+            you need to set a full scale that is close to this value (e.g. 15&nbsp;V or 20&nbsp;V). 10 The same applies when setting current (Amperes)
+            or resistance (Ohms). Sometimes&nbsp;the instrument can set the required full scale value automatically. Never exceed the maximum
+            value allowed by the&nbsp;tester when measuring voltage or current signals.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e4010"> </a>Voltage measurement
+         </div>
+         <div class="Testo"><a name="d3e4012"> </a>Voltage measurements must be carried out by connecting the terminals of the tester in parallel to the load (e.g. to the wires
+            feeding a light bulb or a relay, the two battery terminals, or the two wires supplying power to a control unit). Voltage can
+            be constant over time (DC voltage) or variable over time (AC voltage). In the first case, it is important to consider the
+            negative and positive polarity of the application. It is therefore necessary to select on the multimeter the type of voltage
+            you intend to measure. (DC voltage is shown by the symbol = while AC voltage is denoted by ~).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e4015"> </a>Current measurement
+         </div>
+         <div class="Testo"><a name="d3e4017"> </a>Current measurements must be made by connecting the multimeter terminals in series with the load (e.g. disconnect one of the
+            wires feeding power to a light bulb and connect one terminal of the multimeter to the free end of wire and the other terminal
+            to&nbsp;the light bulb). When the lights switch is set to ON, the bulb will illuminate normally and the tester will show the absorbed
+            current, i.e. the amount of current passing through the wire. Warning: connections in series must be made and removed only&nbsp;when
+            the power is switched off. Never attempt to make or break a series connection when a device is powered. Always&nbsp;make sure that
+            the connection in series of the tester terminals on the electrical device is made is a safe manner in such&nbsp;a&nbsp;way that it cannot
+            be broken accidentally.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e4020"> </a>Measurement of resistance values and electrical continuity
+         </div>
+         <div class="Testo"><a name="d3e4022"> </a>Resistance measurements must be taken only when the electrical device or section of the circuit is not powered and insulated
+            from the main electric system (i.e. not connected to the main electrical system).
+         </div>
+         <div class="Testo"><a name="d3e4024"> </a>These measurements can be utilised to check the resistance value across several sensors. For example, after disconnecting
+            the electrical wiring to the ignition-injection system rpm/timing sensor (on the camshaft drive gear) the relative internal
+            resistance can be checked by connecting a multimeter to its terminals. This makes it possible to check the electrical continuity
+            of the winding inside the sensor (a reading of infinite resistance indicates that the winding is interrupted). Resistance
+            measurement can also be used to check the continuity of sections of the electrical circuit or relay type switches. For example,
+            to check the condition of a section of the electrical circuit between two connections, disconnect the connections and connect
+            the terminals of the multimeter to the ends of the electrical cable in question to check that the specified resistance value
+            is present. If this value is close to zero (i.e. lower than approximately 0.3&nbsp;ohm) this means that the cable is not interrupted.
+            Some instruments feature an audible signal that is emitted when the resistance approaches a value of zero. The same procedure
+            must be adopted to check whether, for example, two contacts of a&nbsp;switch (relay or manual type) are making the contact correctly
+            when closed. In this case the terminals of the multimeter must&nbsp;be&nbsp;connected to the switch terminals, checking that the resistance
+            value is close to zero (or listening for the audible signal) when the switch is closed. To check that the multimeter is functioning
+            correctly in "electrical continuity test" mode, short circuit the&nbsp;two test probes. The resistance value indicated must be
+            almost null and the audible signal must be activated.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e4027"> </a>Protections and precautions
+         </div>
+         <div class="Testo"><a name="d3e4029"> </a>The multimeter is equipped with protective fuses and batteries. These components must always be in perfect condition to ensure
+            that the instrument is operating correctly. When making electrical measurements always use the maximum caution to avoid short
+            circuits, which can cause irreparable damage to the electric system and constitute a personal injury hazard. All&nbsp;maintenance
+            works must be performed exclusively when the system is not live (disconnect the battery in advance). NEVER&nbsp;connect the multimeter
+            in parallel to take current measurements, and NEVER connect it in series to carry out voltage&nbsp;measurements.
+         </div>
+      </div>
+      <div class="SOTTO_PARA"><a name="DUC81eb74a82e4c10058387c272b5ad609c"></a>DDS 2 (Ducati Diagnosis System 2.0) diagnosis instrument.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4035"> </a>The DDS 2 diagnosis instrument follows the operator, step by step, during the different diagnosis methods, with special descriptions
+            and documents on bike parts, electronic system wiring diagrams, and information about component position.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4038"> </a>The following maintenance operations can be carried out with the DDS 2 (Ducati Diagnosis System 2.0) diagnosis instrument:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4042"> </a>check and adjustment of timing belt tension;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4045"> </a>reset of the throttle potentiometer sensor (TPS);
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4048"> </a>adjustment of the idle speed;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4051"> </a>check of engine oil pressure
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4054"> </a>check of engine cylinder compression;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4057"> </a>check of fuel pressure;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4060"> </a>immobilizer override procedure
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4063"> </a>check of battery charging system;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e4066"> </a>ABS diagnosis.
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e4069"> </a>Checking and adjusting timing belt tension
+         </div>
+         <div class="Testo"><a name="d3e4071"> </a>To check timing belt tension, use the DDS 2 instrument and the belt tensioning kit.
+         </div>
+         <div class="Testo"><a name="d3e4073"> </a>Position the crankshaft so that the piston of the horizontal cylinder is at TDC of its power stroke with complete tool.
+         </div>
+         <div class="Testo"><a name="d3e4075"> </a>This is achieved by aligning the timing mark (A) of the timing driveshaft pulley (1) with the reference notch (B) on the clutch
+            cover (C).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_007304067.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4080"> </a>Measure the horizontal timing belt on the section (2).
+         </div>
+         <div class="Testo"><a name="d3e4082"> </a>Before measuring the vertical timing belt, turn the crankshaft by 270° in the engine rotation direction (vertical cylinder
+            TDC, in the combustion stroke), and repeat the procedure used for the horizontal cylinder, measuring the voltage on branch
+            (3) of the vertical belt.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_007404068.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4087"> </a>D: idler tensioners
+         </div>
+         <div class="Testo"><a name="d3e4089"> </a>E: mobile tensioners
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4092"> </a>The tension values are those detailed in "Timing system/valves" and must be checked when the engine is cold: assembly values
+            must be applied when installing a new belt, while servicing values must be applied when belt tension reaches 70 Hz.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e4095"> </a>The timing belts can become slack during normal operation. When checking belt tension, if the reading is less than 70 Hz,
+         restore to the specified nominal values.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4099"> </a>If the tension value is incorrect, increase or reduce belt tension by working on screws (19) securing the mobile tensioners.
+         </div>
+         <div class="Testo"><a name="d3e4101"> </a>Manually lift mobile tensioner (20) to tension the belt or lower it to loosen the belt.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e4104"> </a>If the tension value is incorrect, increase or reduce belt tension by loosening the retaining nut (3) of mobile tensioner
+            (E) and using tool no. <span class="bold">88713.3497</span> to rotate mobile tensioner (E): move mobile tensioner (E) away from the belt to loosen it or bring it nearer to tension it.
+         </div>
+         <div class="Testo"><a name="d3e4109"> </a>Recheck the timing belt tension.
+         </div>
+         <div class="Testo"><a name="d3e4111"> </a>Repeat the above procedure until the correct belt tension is obtained.
+         </div>
+         <div class="Testo"><a name="d3e4113"> </a>After reaching the required tension, apply the specified grease and tighten nut (3) to a torque of 25 Nm ± 10% (min. 23 Nm
+            - Max. 29 Nm).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_6_007504069.jpg"></center>
+      </div>
+   </body>
+</html>

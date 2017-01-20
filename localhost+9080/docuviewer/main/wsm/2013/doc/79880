@@ -1,0 +1,163 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC4396b4c82b2310058d66a5fdf30dcfc4"></a>Refitting the secondary air system
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e5143"> </a>Remove the cloth from the secondary air system hose to the head cover.
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/warning.jpg">Warning
+      </div>
+      <div class="Testo"><a name="d3e5146"> </a>Do not invert the covers of the two secondary air system valves. Pay attention to the reference notches on the secondary air
+         system valve cover and head cover.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5149"> </a>If previously disassembled, correctly reassemble the secondary air system valves (A).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008503788.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5154"> </a>Position the spark arrestor (12).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008803789.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5159"> </a>Position reed valve (11).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008703790.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5164"> </a>Position secondary air system cover (10) on the head cover as shown, by matching reference (B) on the head cover and reference
+            (C) on valve cover (10).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008603791.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008903792.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5172"> </a>Tighten the two screws (9) to a torque of 6 Nm (Min. 5 Nm - Max. 7 Nm).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_009003793.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5177"> </a>Position the airbox hoses (8), horizontal head (7) and vertical head (6) and fix them with the relevant clamps (4). 
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e5180"> </a>Position the clamps with their ends inwards.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008103784.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008203785.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008303786.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5189"> </a>Position actuator (5) and connect the hoses as shown by tightening the relevant clamps (4).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/note.jpg">Note
+      </div>
+      <div class="Testo"><a name="d3e5192"> </a>Position the clamps with their ends inwards.
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008003783.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5198"> </a>Connect the actuator connector (3).
+         </div>
+         <div class="Testo"><a name="d3e5200"> </a>Position actuator support (2) and tighten the two screws (1) to 2 Nm ± 10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_008403787.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5205"> </a>Check the correct position of the pipes.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_009103794.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5210"> </a>In particular:
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e5214"> </a>correctly position the air pipe of the vertical head (6) in grommet (D) on the airbox right side;
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_009203795.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Trattino_outer" style="margin-left: 0pt;">
+            <table border="0" cellspacing="0" cellpadding="0">
+               <tr style="vertical-align: baseline;">
+                  <td>
+                     <div class="Trattino_inner" style="width: 20pt; white-space: nowrap;">- </div>
+                  </td>
+                  <td width="100%">
+                     <div class="Trattino_inner">
+                        <div class="Testo"><a name="d3e5220"> </a>correctly position the airbox pipe (8) in the relevant seat (E).
+                        </div>
+                     </div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_8_009303796.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5225"> </a>Refit the fuel tank (<a href="79868.html#DUC4f6912c82b2310058d68a5fdf30dcfc4">Refitting the fuel tank</a>)
+         </div>
+         <div class="Testo"><a name="d3e5230"> </a>Refit the tank fairings (<a href="77989.html#DUCad6937a02a961005810acc3160c450d2">Refitting the tank fairings</a>).
+         </div>
+         <div class="Testo"><a name="d3e5235"> </a>Refit the front half-fairings (<a href="77985.html#DUC1ccd37182a8810058cfc8ef6d8d608d2">Refitting the front half-fairing</a>).
+         </div>
+         <div class="Testo"><a name="d3e5240"> </a>Refit the seat (<a href="77997.html#DUC853ddbd82a9a10058426b9f0263a2cd2">Refitting the seat</a>).
+         </div>
+         <div class="Testo"><a name="d3e5245"> </a>Refit the panel (<a href="77977.html#DUC2fbfd0b02a74100585b5e07f17a720d2">Refitting the panel</a>).
+         </div>
+      </div>
+   </body>
+</html>

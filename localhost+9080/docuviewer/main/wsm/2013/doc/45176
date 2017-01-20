@@ -1,0 +1,57 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC5dae11f8259210058915eb60359b4bd2"></a>Disassembly of the generator cover
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15922"> </a>Undo the three stator retaining screws (1) and the retaining screws (2) of the cable guide bracket (3) from inside the generator
+            cover.
+         </div>
+         <div class="Testo"><a name="d3e15924"> </a>Remove the stator (4) and the cable guide bracket (3).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_040502137.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15929"> </a>The generator cover is fitted with a bearing (5), held in place by the circlip (6), which is located on the end of the crankshaft.
+         </div>
+         <div class="Testo"><a name="d3e15931"> </a>Remove the circlip (6) with suitable pliers.
+         </div>
+         <div class="Testo"><a name="d3e15933"> </a>Remove the bearing (5) using a universal puller.
+         </div>
+         <div class="Testo"><a name="d3e15935"> </a>Be careful when fitting the new bearing (5) to ensure it is positioned with the shielded side facing away from the cover.
+         </div>
+         <div class="Testo"><a name="d3e15937"> </a>Secure the bearing with the circlip (6), ensuring that it is correctly fitted in its seat in the generator cover (7).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_040602138.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15942"> </a>Loosen the unions (8) delivering water to the horizontal and vertical cylinder assemblies.
+         </div>
+         <div class="Testo"><a name="d3e15944"> </a>Upon assembly of new components, apply specified threadlocker and tighten them to 25 Nm (Min. 23 Nm - Max. 27 Nm).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15947"> </a>The unions (8) may also be removed without removing the generator cover (7) from the engine.
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15950"> </a>Remove the water pump components (A) (<a href="44928.html#DUCe1d879e0250210058a878a10427928d2">Removing the water pump</a>).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_040702139.jpg"></center>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,35 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC6a3dfcd024f2100583a5b051d7198fd2"></a>Reassembly of the oil pump
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e10816"> </a>Check that the key (8) and the O-Rings (6) are present on the pump.
+         </div>
+         <div class="Testo"><a name="d3e10818"> </a>Fit the pump drive gear (7) on to the oil pump and secure it by installing the circlip (6) in its groove.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_040101714.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_059302993.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e10825"> </a>Insert by-pass valve (5), spring (4) in the pump and tighten plug (3) to a torque of 17 Nm (Min. 15 Nm - Max. 19 Nm) after
+            applying a medium-strength threadlocker.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_059202994.jpg"></center>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,37 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC48538e48257c10058cb8f04d994144d2"></a>Disassembly of the clutch cover
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14886"> </a>Remove the plug (1) from the cover with the relevant O-ring (2), and the plug (3) with the relevant washer (4).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_031102044.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14891"> </a>Undo the fixing screw (5) of the inner cover (6).
+         </div>
+         <div class="Testo"><a name="d3e14893"> </a>Remove the inner cover (6) and the sounddeadening panel (7).
+         </div>
+         <div class="Testo"><a name="d3e14895"> </a>Remove the circlip (8) and withdraw the shim (9) and the sealing ring (10).
+         </div>
+         <div class="Testo"><a name="d3e14897"> </a>The drilled bush (11) is mounted to the cover by a forced interference fit. Remove it using a suitable puller.
+         </div>
+         <div class="Testo"><a name="d3e14899"> </a>Visually inspect the sealing ring (10) and replace it if necessary.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_031202045.jpg"></center>
+      </div>
+   </body>
+</html>

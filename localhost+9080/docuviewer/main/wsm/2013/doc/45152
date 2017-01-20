@@ -1,0 +1,60 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC93476be8258d100586b5fed1f18860d2"></a>Refitting the gear interlock plunger and pawl assembly
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15253"> </a>On the special screw (5), fit the gear pawl lever&nbsp;(6), orienting it as shown in the figure, the washer (7) with the square
+            edge side (D) facing the clutch-side crankcase half, and the spring&nbsp;(8), positioning it so that the hook end (A) is facing
+            the gear pawl lever.
+         </div>
+         <div class="Testo"><a name="d3e15255"> </a>Locate the hook end (A) of the spring on the gear pawl lever as shown in the figure.
+         </div>
+         <div class="Testo"><a name="d3e15257"> </a>Apply threadlocker to the screw thread.
+         </div>
+         <div class="Testo"><a name="d3e15259"> </a>Start the screw in the crankcase half.
+         </div>
+         <div class="Testo"><a name="d3e15261"> </a>Position end (B) of the spring so that it rests against rib (C) of the crankcase half, as shown in the figure.
+         </div>
+         <div class="Testo"><a name="d3e15263"> </a>Tighten the screw (5) to a torque of 18 Nm (Min. 16 Nm - Max. 20 Nm).
+         </div>
+         <div class="Testo"><a name="d3e15265"> </a>Manually move the gear stopper to check for proper spring operation.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_033602070.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_033702071.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15272"> </a>Grease and then fit the ball (4), spring (3), and seal (2) to the gear interlock plunger (1).
+         </div>
+         <div class="Testo"><a name="d3e15274"> </a>Tighten the plunger to a torque of 30 Nm (Min. 27 Nm - Max. 33 Nm).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_033802072.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15279"> </a>Refit the primary drive gear (<a href="45146.html#DUC7228af08257e100580b78e32a097eed2">Refitting the primary drive gear and checking the backlash</a>).
+         </div>
+         <div class="Testo"><a name="d3e15284"> </a>Refit the clutch unit (<a href="45128.html#DUCafa47568257b10058cb2f04d994144d2">Refitting the clutch</a>).
+         </div>
+         <div class="Testo"><a name="d3e15289"> </a>Refit the clutch cover (<a href="45142.html#DUC71320cb8257c10058cbcf04d994144d2">Refitting the clutch cover</a>).
+         </div>
+         <div class="Testo"><a name="d3e15294"> </a>Fill the system with engine oil (<a href="77245.html#DUCc57ed0d029f510058c2bed44952c77d2">Changing engine oil and filter cartridge</a>).
+         </div>
+         <div class="Testo"><a name="d3e15299"> </a>Refit the oil sump guard unit (<a href="78008.html#DUC69eeed302aaa10058bbcf20939ae18d2">Refitting the oil sump guard</a>).
+         </div>
+      </div>
+   </body>
+</html>

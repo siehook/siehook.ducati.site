@@ -1,0 +1,43 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC35d1f2802b87100583a789ec0e3196d2"></a>Replacing the rear sprocket
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e8521"> </a>Slacken the chain (<a href="77273.html#DUCbf8887d82a23100581b094271418e7d2">Adjusting the chain tension</a>).
+         </div>
+         <div class="Testo"><a name="d3e8526"> </a>Remove the silencers (<a href="79884.html#DUC3ebd3c602b2310058d63a5fdf30dcfc4">Removing the exhaust system</a>).
+         </div>
+         <div class="Testo"><a name="d3e8531"> </a>Remove the rear wheel (<a href="78610.html#DUC64d8fb602aeb100584ccb8bb6ec21ad2">Removing the rear wheel</a>).
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e8537"> </a>Lock out wheel shaft rotation.
+         </div>
+         <div class="Testo"><a name="d3e8539"> </a>Remove the circlip (1).
+         </div>
+         <div class="Testo"><a name="d3e8541"> </a>Using a suitable socket wrench, loosen nut (2).
+         </div>
+         <div class="Testo"><a name="d3e8543"> </a>Fully unscrew the nut (2) and remove the washer (3) and the flange (4) with the sprocket (5).
+         </div>
+         <div class="Testo"><a name="d3e8545"> </a>Recover the spacer (6).
+         </div>
+         <div class="Testo"><a name="d3e8547"> </a>Using a mallet, tap the sprocket flange (4) with the cush drive damper (7) off the rear sprocket (5).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_031203446.jpg"></center>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_031303447.jpg"></center>
+      </div>
+   </body>
+</html>

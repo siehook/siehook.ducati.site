@@ -1,0 +1,42 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCe1c4c408258f100586b7fed1f18860d2"></a>Overhaul of the gearbox
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15624"> </a>Check the condition of the front coupling dogs of the gears. They must be in perfect condition and with no sign of wear on
+            the edges of the teeth.
+         </div>
+         <div class="Testo"><a name="d3e15626"> </a>The idler gears must rotate freely on their shafts.
+         </div>
+         <div class="Testo"><a name="d3e15628"> </a>When refitting, make sure the circlips are correctly positioned.
+         </div>
+         <div class="Testo"><a name="d3e15630"> </a>Check the needle roller bearings for wear.
+         </div>
+         <div class="Testo"><a name="d3e15632"> </a>The threads and splines of the shafts must be in perfect condition.
+         </div>
+         <div class="Testo"><a name="d3e15634"> </a>Also check that the component parts of the gear selector mechanism are in good condition.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_038802121.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e15639"> </a>Engage the gears and check that the gearchange mechanism does not stick (selector fork - gear groove, and fork pin - desmodromic
+            drum groove) due to incorrect end float.
+         </div>
+         <div class="Testo"><a name="d3e15641"> </a>Restore the correct endfloat by shimming the gearbox shafts and the&nbsp;selector drum with suitable shims.
+         </div>
+         <div class="Testo"><a name="d3e15643"> </a>For the gearbox shaft and selector drum total end float values, refer to Section "<a href="50500.html#DUCcafc4150295a100581759858899a76d2">Gearbox</a>".
+         </div>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,49 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCdc5ed8a029f91005800b816ce97b3fd2"></a>Checking the coolant level
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2127"> </a>Check coolant level in the expansion tank on the right side of the vehicle at the intervals specified under "<a href="77239.html#DUC82a88b8029f410058c29ed44952c77d2">Scheduled maintenance chart</a>".
+         </div>
+         <div class="Testo"><a name="d3e2132"> </a>The coolant level must be between the MAX. and MIN marks on the tank.
+         </div>
+         <div class="Testo"><a name="d3e2134"> </a>If the level is low, top up with the recommended coolant.
+         </div>
+         <div class="Testo"><a name="d3e2136"> </a>Remove the filler cap (1) and top up with new coolant to the specified level.
+         </div>
+         <div class="Testo"><a name="d3e2138"> </a>Refit the cap (1).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_4_008502803.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e2143"> </a>For optimal operating conditions (coolant mixture starting to freeze at ‑20&nbsp;°C), the recommended coolant should be mixed with
+            water in the following percentages:
+         </div>
+         <div class="Testo"><a name="d3e2145"> </a>ANTI-FREEZE: 35÷40% of the volume;
+         </div>
+         <div class="Testo"><a name="d3e2147"> </a>WATER: 65÷60% of the volume.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e2150"> </a>Very hard water with a high mineral salt content can damage the engine.
+      </div>
+      <div class="Testo"><a name="d3e2152"> </a>Increase the amount of antifreeze to up to 55% volume in the case of very cold climates.
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e2155"> </a>Solutions with less than <span class="bold">30%</span> of antifreeze will not provide sufficient protection against corrosion.
+      </div>
+   </body>
+</html>

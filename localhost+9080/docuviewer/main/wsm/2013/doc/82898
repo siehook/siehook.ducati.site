@@ -1,0 +1,41 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC418214382c2810058605d307bcff45d2"></a>Wiring diagram colour codes
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e694"> </a><span class="bold">B</span> Blue
+         </div>
+         <div class="Testo"><a name="d3e698"> </a><span class="bold">Bk</span> Black
+         </div>
+         <div class="Testo"><a name="d3e702"> </a><span class="bold">Bn</span> Brown
+         </div>
+         <div class="Testo"><a name="d3e706"> </a><span class="bold">G</span> Green
+         </div>
+         <div class="Testo"><a name="d3e710"> </a><span class="bold">Gr</span> Grey
+         </div>
+         <div class="Testo"><a name="d3e714"> </a><span class="bold">Lb</span> Light blue
+         </div>
+         <div class="Testo"><a name="d3e718"> </a><span class="bold">O</span> Orange
+         </div>
+         <div class="Testo"><a name="d3e722"> </a><span class="bold">P</span> Pink
+         </div>
+         <div class="Testo"><a name="d3e726"> </a><span class="bold">R</span> Red
+         </div>
+         <div class="Testo"><a name="d3e730"> </a><span class="bold">V</span> Violet
+         </div>
+         <div class="Testo"><a name="d3e734"> </a><span class="bold">W</span> White
+         </div>
+         <div class="Testo"><a name="d3e739"> </a><span class="bold">Y</span> Yellow
+         </div>
+      </div>
+   </body>
+</html>

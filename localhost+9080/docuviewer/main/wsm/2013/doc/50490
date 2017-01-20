@@ -1,0 +1,55 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUCaddbf21029591005816d9858899a76d2"></a>Colours
+      </div>
+      <table class="Format_A" width="100%" border="1">
+         <tbody valign="top">
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e2217"> </a>Ducati anniversary red
+                  </div>
+                  <div class="Testo"><a name="d3e2219"> </a>Clear coat
+                  </div>
+                  <div class="Testo"><a name="d3e2221"> </a>Racing Gray frame and black rims
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e2224"> </a>473.101 (PPG)
+                  </div>
+                  <div class="Testo"><a name="d3e2226"> </a>228.880 (PPG) 
+                  </div>
+               </td>
+            </tr>
+            <tr valign="top">
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e2230"> </a>Matt Chrome
+                  </div>
+                  <div class="Testo"><a name="d3e2232"> </a>Primer black Glossprimer chrome
+                  </div>
+                  <div class="Testo"><a name="d3e2234"> </a>Semigloss clear coat for chrome finish
+                  </div>
+                  <div class="Testo"><a name="d3e2236"> </a>Racing Gray frame and black rims
+                  </div>
+               </td>
+               <td rowspan="1" class="border">&nbsp;
+                  <div class="Testo"><a name="d3e2239"> </a>928.I0046 
+                  </div>
+                  <div class="Testo"><a name="d3e2241"> </a>873I1952 (PALINAL)
+                  </div>
+                  <div class="Testo"><a name="d3e2243"> </a>923I2294 (PALINAL)
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </body>
+</html>

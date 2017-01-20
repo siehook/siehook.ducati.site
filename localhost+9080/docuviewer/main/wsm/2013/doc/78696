@@ -1,0 +1,55 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC368611302b1310058c6493c8b30eb8d2"></a>Refitting the ABS control unit
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5312"> </a>Hoses (10), (9), (8) and (7) must be secured in place using new sealing washers (11) on unions.
+         </div>
+         <div class="Testo"><a name="d3e5314"> </a>Tighten the screws (5) to a torque of 23 Nm ±10% and the screw (6) to a torque of 23 Nm ±10%.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_008803211.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5319"> </a>Refit the ABS control unit (4) on the vehicle.
+         </div>
+         <div class="Testo"><a name="d3e5321"> </a>Connect ABS control unit (4) connector (3).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_008703208.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5326"> </a>Refit ABS hose cover (2) and tighten screws (1) to 3.5 Nm ± 10 %: make sure not to squeeze the cables below, especially the
+            generator and fuel tank ones.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_7_008603210.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5331"> </a>To fill brake system, follow the instructions given for changing the fluid of the front or rear brake system master cylinder
+            or calliper hose is connected to (<a href="77259.html#DUC4261033029fa1005800f816ce97b3fd2">Changing the front brake system fluid</a> - <a href="77261.html#DUC957e61d829fb1005804484b414d9e1d2">Changing the rear brake system fluid</a>).
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e5340"> </a>If the ABS hydraulic control unit has been replaced, it will be supplied with the secondary circuit already filled with fluid.
+         Control unit must thus be assembled and the system filled and drained as a traditional system.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e5343"> </a>Refit the seat (<a href="77997.html#DUC853ddbd82a9a10058426b9f0263a2cd2">Refitting the seat</a>).
+         </div>
+      </div>
+   </body>
+</html>

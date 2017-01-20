@@ -1,0 +1,84 @@
+<html xmlns:exsl="http://exslt.org/common" xmlns:vf="http://xmlcompass.vftis.com/namespace/vfreuse">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+      <meta http-equiv="Content-Style-Type" content="text/css">
+      <title></title>
+      <link rel="StyleSheet" href="../css/styles.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/webworks.css" type="text/css" media="all">
+      <link rel="StyleSheet" href="../css/Ducati.css" type="text/css" media="all">
+   </head>
+   <body>
+      <div class="SOTTO_PARA"><a name="DUC2da34120257b10058caef04d994144d2"></a>Check and overhaul of the components
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e14688"> </a>Clearance between the clutch drum and friction plates
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14691"> </a>Insert a friction plate (E) in the clutch drum (F) and measure the clearance (S) with a feeler gauge.
+         </div>
+         <div class="Testo"><a name="d3e14693"> </a>Clearance “S” must not exceed 0.6&nbsp;mm.
+         </div>
+         <div class="Testo"><a name="d3e14695"> </a>If it does, renew the plates and, if necessary, the clutch drum.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_029602030.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e14700"> </a>Overhaul of the clutch plates
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14703"> </a>The clutch plates must not show any signs of blackening, grooves or deformation.
+         </div>
+         <div class="Testo"><a name="d3e14705"> </a>Measure the thickness of the friction plates; it should not be less than 2.6&nbsp;mm.
+         </div>
+      </div>
+      <div class="Attenzione"><img class="Attenzione" width="28" height="25" style="display: inline; float: none; left: 0.0; text-align: left; top: 0.0;" src="img/important.jpg">Important
+      </div>
+      <div class="Testo"><a name="d3e14708"> </a>The total thickness of the discs pack must not be less than 46.1&nbsp;mm.
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14711"> </a>Place the plate on a flat surface and check the amount of deformation with a feeler gauge.
+         </div>
+         <div class="Testo"><a name="d3e14713"> </a>Max. flatness error: 0.2&nbsp;mm.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_029802033.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e14718"> </a>Overhaul of the pusher plate
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14721"> </a>Check bearing (7) conditions: replace the bearing if the play is excessive.
+         </div>
+         <div class="Testo"><a name="d3e14723"> </a>Check the contact surfaces of the last friction plate; if extremely scored, polish it in the same manner as described previously
+            for the cylinder head surface (Overhauling the head components).
+         </div>
+         <div class="Testo"><a name="d3e14725"> </a>Check conditions of the spring guide bucket tappet (G) of the pressure plate (4) and of the circlips (5).
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_029902031.jpg"></center>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="titoleto"><a name="d3e14731"> </a>Overhaul of the pusher plate springs
+         </div>
+      </div>
+      <div class="SOTTO_PARA">
+         <div class="Testo"><a name="d3e14734"> </a>Measure the length “L” of each spring (3).
+         </div>
+         <div class="Testo"><a name="d3e14736"> </a>Min. length: 41&nbsp;mm.
+         </div>
+         <div class="Testo"><a name="d3e14738"> </a>Renew any springs that are shorter than the above limit value.
+         </div>
+      </div>
+      <div class="AggancioFigure">
+         <center><img class="Default" src="img/DUC_MO_MTS1200_9_030002032.jpg"></center>
+      </div>
+   </body>
+</html>
